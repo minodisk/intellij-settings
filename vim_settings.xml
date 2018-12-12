@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" timestamp="1544514578193">
-        <mark key="'" line="290" column="18" />
-        <mark key="[" line="302" column="49" />
-        <mark key="]" line="302" column="49" />
-        <mark key="^" line="302" column="49" />
-        <mark key="." line="302" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/staging.yaml" timestamp="1543398244560">
         <mark key="'" line="25" column="13" />
       </file>
@@ -20,10 +13,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
-        <mark key="'" line="165" column="33" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+        <mark key="'" line="163" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/services/omakase.js" timestamp="1543399899506">
         <mark key="'" line="58" column="2" />
@@ -139,10 +129,9 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" timestamp="1544508023782">
         <mark key="'" line="158" column="22" />
-        <mark key="[" line="170" column="109" />
-        <mark key="]" line="170" column="109" />
-        <mark key="." line="170" column="109" />
-        <mark key="^" line="170" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
+        <mark key="'" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_typedef.js" timestamp="1544438510388">
         <mark key="[" line="5" column="12" />
@@ -151,7 +140,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/IwiAsset.scala" timestamp="1544424002015">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
-        <mark key="^" line="18" column="9" />
+        <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/AssetName.scala" timestamp="1544424210875">
@@ -251,10 +240,6 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAsset.scala" timestamp="1544425717133">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="4" />
-        <mark key="^" line="63" column="5" />
-        <mark key="." line="64" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/thrift/RoboAdvContractService.patch.js" timestamp="1543570383834">
         <mark key="'" line="909" column="35" />
@@ -307,6 +292,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" timestamp="1544593673618">
+        <mark key="'" line="999" column="4" />
+        <mark key="[" line="607" column="9" />
+        <mark key="]" line="607" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/get_user_asset_portfolio/adapters/GetUserAssetPortfolioResponseAdapter.scala" timestamp="1543556581663">
         <mark key="[" line="29" column="32" />
@@ -361,15 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="271" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="106" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="328" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="43" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="188" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="204" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="230" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="241" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="266" column="66" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="330" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="371" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
@@ -461,6 +442,15 @@
       <jump line="70" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
       <jump line="80" column="21" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
       <jump line="63" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="1076" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="144" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="85" column="20" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="194" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="200" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="234" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="572" column="83" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="999" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="10" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -476,10 +466,10 @@
         <text>20</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWRkaW5nTGVmdFw+</text>
+        <text encoding="base64">XDxtYXJrZXREYXRhXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SQRT2</text>
+        <text>getDelayedRealtimeDisplayDataOfSimplePrice</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHlMYWJlbC53aWR0aAo=</text>
@@ -513,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWRkaW5nTGVmdFw+</last-search>
+      <last-search encoding="base64">XDxtYXJrZXREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWRkaW5nTGVmdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXJrZXREYXRhXD4=</last-pattern>
       <last-replace>isMemorandum</last-replace>
       <last-substitute encoding="base64">XDxpc09ib2VnYWtpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -523,11 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserOutOfService</entry>
-        <entry>exception_types</entry>
-        <entry encoding="base64">XDxOb3RGb3VuZFVzZXJEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0SWRcPg==</entry>
-        <entry>oboegaki</entry>
-        <entry encoding="base64">XDxvYmplY3RTdHJhZ2VLZXlcPg==</entry>
         <entry encoding="base64">XDxpc09ib2VnYWtpXD4=</entry>
         <entry encoding="base64">XDxheGlzXD4=</entry>
         <entry encoding="base64">XDxQb2ludFw+</entry>
@@ -543,6 +528,11 @@
         <entry encoding="base64">XDxzdGVwWFw+</entry>
         <entry>paddingRight</entry>
         <entry encoding="base64">XDxwYWRkaW5nTGVmdFw+</entry>
+        <entry>router</entry>
+        <entry>jp</entry>
+        <entry encoding="base64">XDxwcmljZVw+</entry>
+        <entry>market</entry>
+        <entry encoding="base64">XDxtYXJrZXREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1c2VyUG9ydGZvbGlvU2VydmljZVw+L3VzZXJBc3NldFBvcnRmb2xpb1NlcnZpY2UvZw==</entry>
