@@ -499,7 +499,7 @@
         <text encoding="base64">ICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -509,7 +509,7 @@
       <last-replace>isMemorandum</last-replace>
       <last-substitute encoding="base64">XDxpc09ib2VnYWtpXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -548,13 +548,13 @@
         <entry encoding="base64">JXMvXDxnZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0RG9jdW1lbnRJbmZvXD4vZ2V0VXNlckRpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RJbmZvL2c=</entry>
         <entry encoding="base64">JXMvXDxLbGFzc1w+L0NvbXBvbmVudC9n</entry>
         <entry>w2</entry>
-        <entry>vs</entry>
         <entry>29</entry>
         <entry>q</entry>
         <entry encoding="base64">JXMvXDxpc09ib2VnYWtpXD4vaXNNZW1vcmFuZHVtL2c=</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
