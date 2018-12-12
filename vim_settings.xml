@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/staging.yaml" timestamp="1543398244560">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.yaml" timestamp="1544432361502">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
         <mark key="'" line="163" column="33" />
       </file>
@@ -72,12 +66,6 @@
         <mark key="]" line="4" column="91" />
         <mark key="^" line="4" column="133" />
         <mark key="." line="4" column="91" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/SummarizedIwiAsset.scala" timestamp="1543564677986">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/iwi/service/asset/response/IwiAssetRaw.scala" timestamp="1543468037995">
         <mark key="[" line="22" column="41" />
@@ -156,12 +144,6 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/idl/contract_struct.thrift" timestamp="1544438945310">
         <mark key="[" line="48" column="70" />
         <mark key="]" line="48" column="88" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.base.yaml" timestamp="1544432355899">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="121" column="16" />
-        <mark key="." line="97" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/utils/index.ts" timestamp="1543470685526">
         <mark key="[" line="1" column="0" />
@@ -272,7 +254,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544581622054">
+      <file name="/Dummy.txt" timestamp="1544601339043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" timestamp="1544432756796">
@@ -292,6 +274,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/monitoring/monitoring-billing/modules/app/monitor-basic.tf" timestamp="1544601325800">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="32" column="94" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" timestamp="1544593673618">
         <mark key="'" line="999" column="4" />
@@ -463,7 +451,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text encoding="base64">ImF2ZyhsYXN0XzVtKTphdmc6YXBwLmp2bV9oZWFwX3VzZWR7ZW52OnByb2QsYXBwbGljYXRpb246YmlsbGluZy1zZXJ2ZXJ9IGJ5IHtob3N0fS5yb2xsdXAobWluKSA+IDE5MDAwMDAwMCI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXJrZXREYXRhXD4=</text>
@@ -472,34 +460,34 @@
         <text>getDelayedRealtimeDisplayDataOfSimplePrice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlMYWJlbC53aWR0aAo=</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwuc2NhbGVZID0gLTEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHhMYWJlbCA9IG5ldyBDb250YWluZXIoKQogICAgeHMuZm9yRWFjaCgoeCwgaSkgPT4gewogICAgICBjb25zdCBsYWJlbCA9IHhMYWJlbHNbaV0KICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCiAgICAgIGxhYmVsLnggPSAtbGFiZWwud2lkdGgKICAgICAgY29udGFpbmVyLmFkZENoaWxkKGxhYmVsKQogICAgICBjb250YWluZXIueCA9IHN0ZXBYICogaQogICAgICBjb250YWluZXIucm90YXRpb24gPSAtTWF0aC5QSSAqIDAuMjUKICAgICAgeExhYmVsLmFkZENoaWxkKGNvbnRhaW5lcikKICAgIH0pCiAgICB4TGFiZWwueCA9IHBhZGRpbmdMZWZ0CiAgICB4TGFiZWwueSA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nQm90dG9tCiAgICB0aGlzLmFkZENoaWxkKHhMYWJlbCkKICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhlaWdodCA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nVG9wIC0gcGFkZGluZ0JvdHRvbQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHlMYWJlbC53aWR0aAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbGFiZWwuc2NhbGVZID0gLTEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHhMYWJlbCA9IG5ldyBDb250YWluZXIoKQogICAgeHMuZm9yRWFjaCgoeCwgaSkgPT4gewogICAgICBjb25zdCBsYWJlbCA9IHhMYWJlbHNbaV0KICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCiAgICAgIGxhYmVsLnggPSAtbGFiZWwud2lkdGgKICAgICAgY29udGFpbmVyLmFkZENoaWxkKGxhYmVsKQogICAgICBjb250YWluZXIueCA9IHN0ZXBYICogaQogICAgICBjb250YWluZXIucm90YXRpb24gPSAtTWF0aC5QSSAqIDAuMjUKICAgICAgeExhYmVsLmFkZENoaWxkKGNvbnRhaW5lcikKICAgIH0pCiAgICB4TGFiZWwueCA9IHBhZGRpbmdMZWZ0CiAgICB4TGFiZWwueSA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nQm90dG9tCiAgICB0aGlzLmFkZENoaWxkKHhMYWJlbCkKICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhlaWdodCA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nVG9wIC0gcGFkZGluZ0JvdHRvbQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -552,9 +540,9 @@
         <entry>q</entry>
         <entry encoding="base64">JXMvXDxpc09ib2VnYWtpXD4vaXNNZW1vcmFuZHVtL2c=</entry>
         <entry>nohlsearch</entry>
+        <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
-        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
