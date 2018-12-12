@@ -1,0 +1,620 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" timestamp="1544514578193">
+        <mark key="'" line="290" column="18" />
+        <mark key="[" line="302" column="49" />
+        <mark key="]" line="302" column="49" />
+        <mark key="^" line="302" column="49" />
+        <mark key="." line="302" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/staging.yaml" timestamp="1543398244560">
+        <mark key="'" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.yaml" timestamp="1544432361502">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
+        <mark key="'" line="165" column="33" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/services/omakase.js" timestamp="1543399899506">
+        <mark key="'" line="58" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/robo_adv/order/idl/UserAssetPortfolioAsset.scala" timestamp="1543482303643">
+        <mark key="'" line="1075" column="19" />
+        <mark key="[" line="808" column="0" />
+        <mark key="]" line="813" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/pie/Arc.ts" timestamp="1543553059654">
+        <mark key="'" line="52" column="6" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" timestamp="1544441948602">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="32" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/index.test.ts" timestamp="1543471313851">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" timestamp="1544429622220">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/MarketValue.scala" timestamp="1543472829533">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_service.js" timestamp="1544438666448">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="67" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/utils/color.test.ts" timestamp="1543454458695">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/test.sh" timestamp="1543482347114">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="4" column="91" />
+        <mark key="]" line="4" column="91" />
+        <mark key="^" line="4" column="133" />
+        <mark key="." line="4" column="91" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/SummarizedIwiAsset.scala" timestamp="1543564677986">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/iwi/service/asset/response/IwiAssetRaw.scala" timestamp="1543468037995">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/utils/event.ts" timestamp="1543553223729">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" timestamp="1543371334876">
+        <mark key="'" line="108" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/tslint.json" timestamp="1543543081286">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="53" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" timestamp="1544529684641">
+        <mark key="'" line="63" column="10" />
+        <mark key="[" line="58" column="71" />
+        <mark key="]" line="58" column="72" />
+        <mark key="." line="58" column="72" />
+        <mark key="^" line="58" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/thriftClientPool.js" timestamp="1544430846978">
+        <mark key="'" line="434" column="2" />
+        <mark key="[" line="217" column="52" />
+        <mark key="]" line="217" column="59" />
+        <mark key="^" line="217" column="59" />
+        <mark key="." line="217" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/utils/number.ts" timestamp="1544521284613">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/pie/Pie.stories.ts" timestamp="1543551273303">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="193" column="10" />
+        <mark key="]" line="193" column="14" />
+        <mark key="^" line="193" column="14" />
+        <mark key="." line="193" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" timestamp="1544508023782">
+        <mark key="'" line="158" column="22" />
+        <mark key="[" line="170" column="109" />
+        <mark key="]" line="170" column="109" />
+        <mark key="." line="170" column="109" />
+        <mark key="^" line="170" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_typedef.js" timestamp="1544438510388">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/IwiAsset.scala" timestamp="1544424002015">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/AssetName.scala" timestamp="1544424210875">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_enum.js" timestamp="1544430276105">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/idl/contract_struct.thrift" timestamp="1544438945310">
+        <mark key="[" line="48" column="70" />
+        <mark key="]" line="48" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.base.yaml" timestamp="1544432355899">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="121" column="16" />
+        <mark key="." line="97" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/utils/index.ts" timestamp="1543470685526">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/lib/domain/src/test/scala/com/folio/robo_adv/lib/domain/testobject/testobject.scala" timestamp="1543480113376">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/Application.ts" timestamp="1543554688141">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/AssetId.scala" timestamp="1544424163759">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/UserAssetPortfolioAssetGroup.scala" timestamp="1544441533572">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/UserAssetPortfolioAsset.scala" timestamp="1544424367260">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/BookValue.scala" timestamp="1543472812852">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_exception.js" timestamp="1544495993014">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="61" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/027bb76f-8ce1-4b8c-9b2e-63fa2367dd01/console.sql" timestamp="1543468504949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/.jest/register-context.js" timestamp="1543217554313">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/idl/src/main/thrift/contract_struct.thrift" timestamp="1543560383342">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="44" column="45" />
+      </file>
+      <file name="/sbtShell" timestamp="1543555031089">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/pie/Chart.ts" timestamp="1543554681617">
+        <mark key="'" line="79" column="5" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="65" column="35" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAsset.scala" timestamp="1544425717133">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="4" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="64" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/thrift/RoboAdvContractService.patch.js" timestamp="1543570383834">
+        <mark key="'" line="909" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/asset/GetUserAssetPortfolioControllerFeatureTest.scala" timestamp="1543566303316">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/flow/RoboAdvAPI.js.flow" timestamp="1544442675414">
+        <mark key="'" line="210" column="12" />
+      </file>
+      <file name="/Omakase.js" timestamp="1544494449804">
+        <mark key="'" line="106" column="3" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="280" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/Quantity.scala" timestamp="1543472786311">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/flow/contract_struct.js" timestamp="1544442657599">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544581622054">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" timestamp="1544432756796">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="79" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/pie/Arc.stories.ts" timestamp="1543454296989">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/IwiAssetId.scala" timestamp="1543481099260">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/get_user_asset_portfolio/adapters/GetUserAssetPortfolioResponseAdapter.scala" timestamp="1543556581663">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/application/usecase/reconcile_order/procedure/fixtures/iwi_asset/IwiAssetPortfolioFixtureService.scala" timestamp="1543395231392">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/Dockerfile" timestamp="1543469201719">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_struct.thrift" timestamp="1543554918049">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="62" column="40" />
+        <mark key="]" line="62" column="40" />
+        <mark key="." line="62" column="40" />
+        <mark key="^" line="62" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/iwi/service/asset/IwiAssetServiceImpl.scala" timestamp="1543565468467">
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="41" />
+        <mark key="." line="53" column="41" />
+        <mark key="^" line="53" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/tsconfig.json" timestamp="1543402095919">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="27" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/src/tooltip/Tooltip.ts" timestamp="1543552786383">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="108" column="77" />
+        <mark key="]" line="108" column="81" />
+        <mark key="." line="108" column="81" />
+        <mark key="^" line="108" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/sub/UnrealizedGainLoss.scala" timestamp="1543473005518">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="105" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="271" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="106" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="328" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="188" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="204" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="230" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="241" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="266" column="66" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="330" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="371" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="401" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="422" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="453" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="220" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" />
+      <jump line="11" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" />
+      <jump line="33" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" />
+      <jump line="36" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" />
+      <jump line="37" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAssetPortfolio.scala" />
+      <jump line="26" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="302" column="1" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="28" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="347" column="72" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="42" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="348" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="368" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="283" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="210" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/flow/RoboAdvAPI.js.flow" />
+      <jump line="342" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="225" column="20" filename="/Omakase.js" />
+      <jump line="279" column="31" filename="/Omakase.js" />
+      <jump line="28" column="9" filename="/Omakase.js" />
+      <jump line="105" column="3" filename="/Omakase.js" />
+      <jump line="106" column="3" filename="/Omakase.js" />
+      <jump line="549" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="36" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="356" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="329" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="344" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" />
+      <jump line="12" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="23" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="24" column="71" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="345" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="39" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" />
+      <jump line="286" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="292" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="139" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="214" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="217" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="220" column="67" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="137" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="279" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="289" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
+      <jump line="158" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" />
+      <jump line="14" column="1" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="37" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="41" column="18" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="3" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="35" column="21" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="0" column="9" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="48" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="47" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="32" column="19" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="40" column="38" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="43" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="50" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="61" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="91" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="60" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="46" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="36" column="8" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="107" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="7" column="8" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="86" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="8" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="9" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="69" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="85" column="20" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="53" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="54" column="33" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="96" column="23" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="62" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="88" column="20" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="116" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="70" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="80" column="21" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+      <jump line="63" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCEiKQo=</text>
+      </register>
+      <register name="c" type="4">
+        <text>a</text>
+      </register>
+      <register name="*" type="4">
+        <text>a</text>
+      </register>
+      <register name="-" type="4">
+        <text>20</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwYWRkaW5nTGVmdFw+</text>
+      </register>
+      <register name="0" type="4">
+        <text>SQRT2</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHlMYWJlbC53aWR0aAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbGFiZWwuc2NhbGVZID0gLTEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhZGRpbmdCb3R0b20gPSB5TGFiZWxzWzBdLmhlaWdodCAvIDIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHhMYWJlbCA9IG5ldyBDb250YWluZXIoKQogICAgeHMuZm9yRWFjaCgoeCwgaSkgPT4gewogICAgICBjb25zdCBsYWJlbCA9IHhMYWJlbHNbaV0KICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCiAgICAgIGxhYmVsLnggPSAtbGFiZWwud2lkdGgKICAgICAgY29udGFpbmVyLmFkZENoaWxkKGxhYmVsKQogICAgICBjb250YWluZXIueCA9IHN0ZXBYICogaQogICAgICBjb250YWluZXIucm90YXRpb24gPSAtTWF0aC5QSSAqIDAuMjUKICAgICAgeExhYmVsLmFkZENoaWxkKGNvbnRhaW5lcikKICAgIH0pCiAgICB4TGFiZWwueCA9IHBhZGRpbmdMZWZ0CiAgICB4TGFiZWwueSA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nQm90dG9tCiAgICB0aGlzLmFkZENoaWxkKHhMYWJlbCkKICAgIGNvbnNvbGUubG9nKHhMYWJlbC53aWR0aCwgeExhYmVsLmhlaWdodCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGhlaWdodCA9IHRoaXMuc3RhZ2VIZWlnaHQgLSBwYWRkaW5nVG9wIC0gcGFkZGluZ0JvdHRvbQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgY29udGFpbmVyID0gbmV3IENvbnRhaW5lcigpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxwYWRkaW5nTGVmdFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwYWRkaW5nTGVmdFw+</last-pattern>
+      <last-replace>isMemorandum</last-replace>
+      <last-substitute encoding="base64">XDxpc09ib2VnYWtpXD4=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>UserOutOfService</entry>
+        <entry>exception_types</entry>
+        <entry encoding="base64">XDxOb3RGb3VuZFVzZXJEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0SWRcPg==</entry>
+        <entry>oboegaki</entry>
+        <entry encoding="base64">XDxvYmplY3RTdHJhZ2VLZXlcPg==</entry>
+        <entry encoding="base64">XDxpc09ib2VnYWtpXD4=</entry>
+        <entry encoding="base64">XDxheGlzXD4=</entry>
+        <entry encoding="base64">XDxQb2ludFw+</entry>
+        <entry encoding="base64">XDxzdGVwc1w+</entry>
+        <entry>10</entry>
+        <entry encoding="base64">XDxsYWJlbFdpZHRoXD4=</entry>
+        <entry>padding</entry>
+        <entry encoding="base64">XDxlYWNoV1w+</entry>
+        <entry encoding="base64">XDxtaW5cPg==</entry>
+        <entry encoding="base64">XDxtYXhcPg==</entry>
+        <entry encoding="base64">XDxzcXJ0XD4=</entry>
+        <entry>xLabels</entry>
+        <entry encoding="base64">XDxzdGVwWFw+</entry>
+        <entry>paddingRight</entry>
+        <entry encoding="base64">XDxwYWRkaW5nTGVmdFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvXDx1c2VyUG9ydGZvbGlvU2VydmljZVw+L3VzZXJBc3NldFBvcnRmb2xpb1NlcnZpY2UvZw==</entry>
+        <entry>%s/Asset/AssetPortfolio/gc</entry>
+        <entry encoding="base64">JXMvXDxTdW1tYXJpemVkSXdpQXNzZXRcPi9Jd2lBc3NldFBvcnRmb2xpby9n</entry>
+        <entry encoding="base64">JXMvXDxTdW1tYXJpemVkSXdpQXNzZXRcPi9Jd2lBc3NldHMvZw==</entry>
+        <entry encoding="base64">JXMvXDxzYW1wbGVJd2lBc3NldFBvcnRmb2xpb1JlY29yZFw+L3NhbXBsZUl3aUFzc2V0cy9n</entry>
+        <entry encoding="base64">JXMvXDxhc3NldFw+L2Fzc2V0cy9n</entry>
+        <entry>e!</entry>
+        <entry>%s/'/&quot;/g</entry>
+        <entry>W</entry>
+        <entry>:nohlsearch</entry>
+        <entry encoding="base64">JXMvXDxnZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0RG9jdW1lbnRJbmZvXD4vZ2V0VXNlckRpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RJbmZvL2c=</entry>
+        <entry encoding="base64">JXMvXDxLbGFzc1w+L0NvbXBvbmVudC9n</entry>
+        <entry>w2</entry>
+        <entry>vs</entry>
+        <entry>29</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JXMvXDxpc09ib2VnYWtpXD4vaXNNZW1vcmFuZHVtL2c=</entry>
+        <entry>nohlsearch</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
