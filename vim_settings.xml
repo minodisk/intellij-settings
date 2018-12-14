@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" timestamp="1544777303459">
+        <mark key="'" line="282" column="16" />
+        <mark key="[" line="282" column="23" />
+        <mark key="]" line="282" column="38" />
+        <mark key="^" line="282" column="38" />
+        <mark key="." line="282" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/prod_common.conf" timestamp="1544700055383">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="32" column="0" />
@@ -13,16 +20,12 @@
         <mark key="'" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/local.conf" timestamp="1544700038417">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1544682152423">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
-        <mark key="'" line="163" column="33" />
+        <mark key="'" line="165" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/services/omakase.js" timestamp="1543399899506">
         <mark key="'" line="58" column="2" />
@@ -44,8 +47,11 @@
         <mark key="." line="4" column="69" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" timestamp="1544508023782">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/report/Downloader.jsx" timestamp="1544777428628">
         <mark key="'" line="158" column="22" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
@@ -56,12 +62,6 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateResponseAdapter.scala" timestamp="1544697636869">
         <mark key="'" line="12" column="28" />
@@ -99,15 +99,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="/sbtShell" timestamp="1544698784528">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters_dss/service/fx_rate/ReutersDssFxRateService.scala" timestamp="1544696360787">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/asset/model/UserAsset.scala" timestamp="1544425717133">
         <mark key="'" line="2" column="4" />
       </file>
@@ -120,12 +111,6 @@
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageService.scala" timestamp="1544696328351">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/flow/RoboAdvAPI.js.flow" timestamp="1544442675414">
         <mark key="'" line="210" column="12" />
@@ -153,9 +138,6 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1544696906961">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/dev.conf" timestamp="1544700049951">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="32" column="0" />
@@ -164,10 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
-      <jump line="69" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
-      <jump line="85" column="20" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
       <jump line="53" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
       <jump line="54" column="33" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
       <jump line="96" column="23" filename="$USER_HOME$/workspace/github.com/minodisk/glaph/src/line/Chart.ts" />
@@ -264,6 +242,10 @@
       <jump line="29" column="13" filename="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" />
       <jump line="36" column="80" filename="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" />
       <jump line="40" column="80" filename="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/scala/com/folio/robo_adv/contract/infrastructure/implementations/domain/core/contract/model/discretionary_investment/UserDiscretionaryInvestmentContractRepositoryImpl.scala" />
+      <jump line="63" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/scala/com/folio/robo_adv/contract/infrastructure/implementations/domain/core/contract/model/discretionary_investment/UserDiscretionaryInvestmentContractRepositoryImpl.scala" />
+      <jump line="67" column="43" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/scala/com/folio/robo_adv/contract/infrastructure/implementations/domain/core/contract/model/discretionary_investment/UserDiscretionaryInvestmentContractRepositoryImpl.scala" />
+      <jump line="282" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -279,46 +261,46 @@
         <text>m4a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoTWV0aG9kXD4=</text>
+        <text encoding="base64">XDx2ZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">77yc44Ki44Oh44Oq44Kr44Gu5oqV5L+h44OT44K444ON44K577yeCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVwb3J0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IVtdKGh0dHBzOi8vczMtYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9mbS5mb2xpby1zZWMuY29tL2ltYWdlcy9JTUFHMDUxMC5qcGcpCg==</text>
+        <text encoding="base64">77yc44Ki44Oh44Oq44Kr44Gu5oqV5L+h44OT44K444ON44K577yeCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSDjgqvjg5bjgrPjg6A6IDExMOS4h+WPo+W6p+OAgTIuM+WFhuWGhgoK</text>
+        <text encoding="base64">IVtdKGh0dHBzOi8vczMtYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9mbS5mb2xpby1zZWMuY29tL2ltYWdlcy9JTUFHMDUxMC5qcGcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSDkuInoj7E6IDEzMO+9njE1MOS4h+WPo+W6p++8nwotIOadvuS6lTogMTE15LiH5Y+j5bqn44CBMi425YWG5YaGCg==</text>
+        <text encoding="base64">LSDjgqvjg5bjgrPjg6A6IDExMOS4h+WPo+W6p+OAgTIuM+WFhuWGhgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSDjg57jg43jg4Pjgq/jgrk6IDE3OeS4h+WPo+W6p+OAgTQuNOWFhuWGhgotIOOBv+OBmuOBuzogMTc25LiH5Y+j5bqnCg==</text>
+        <text encoding="base64">LSDkuInoj7E6IDEzMO+9njE1MOS4h+WPo+W6p++8nwotIOadvuS6lTogMTE15LiH5Y+j5bqn44CBMi425YWG5YaGCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSDlpKflkow6IDMwMOS4h+WPo+W6pwotIOalveWkqTogMjg15LiH5Y+j5bqn44CBNS415YWG5YaGCg==</text>
+        <text encoding="base64">LSDjg57jg43jg4Pjgq/jgrk6IDE3OeS4h+WPo+W6p+OAgTQuNOWFhuWGhgotIOOBv+OBmuOBuzogMTc25LiH5Y+j5bqnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBTQkk6IDQ0NOS4h+WPo+W6p+OAgTE05YWG5YaGCi0g5pel6IiIOiAzMzfkuIflj6PluqcK</text>
+        <text encoding="base64">LSDlpKflkow6IDMwMOS4h+WPo+W6pwotIOalveWkqTogMjg15LiH5Y+j5bqn44CBNS415YWG5YaGCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci0g6YeO5p2ROiA1MzDkuIflj6PluqfjgIFBVU0xMTjlhYblhoYK</text>
+        <text encoding="base64">LSBTQkk6IDQ0NOS4h+WPo+W6p+OAgTE05YWG5YaGCi0g5pel6IiIOiAzMzfkuIflj6PluqcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMjIyMg6Ki85Yi45Lya56S+44Gu5Y+j5bqn5pWw44GoQVVNCg==</text>
+        <text encoding="base64">Ci0g6YeO5p2ROiA1MzDkuIflj6PluqfjgIFBVU0xMTjlhYblhoYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoTWV0aG9kXD4=</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoTWV0aG9kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uXD4=</last-pattern>
       <last-replace>PutFxRateResponseDTO</last-replace>
       <last-substitute encoding="base64">XDxQdXRFdGZDbG9zaW5nUHJpY2VSZXNwb25zZURUT1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGYWN0U2V0RXRmU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaEFwcE5hbWVFYXJseUluaXRpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaFw+</entry>
         <entry encoding="base64">XDxldGZQcmljZURhdGVcPg==</entry>
         <entry>Etf</entry>
         <entry>FactSet</entry>
@@ -346,6 +325,9 @@
         <entry>setConnectionTimeout</entry>
         <entry>SetConnetTImeout</entry>
         <entry encoding="base64">XDxhdXRoTWV0aG9kXD4=</entry>
+        <entry>userDiscretonary</entry>
+        <entry>findBy</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
