@@ -112,7 +112,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545028100047">
+      <file name="/Dummy.txt" timestamp="1545029834060">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1544695018920">
@@ -130,12 +130,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545021045213">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545031910388">
         <mark key="'" line="2" column="29" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="28" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
@@ -305,7 +305,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>値</text>
+        <text>ETF終値</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXV0ZXJzRHNzU2Z0cE1vZHVsZVw+</text>
@@ -385,7 +385,6 @@
         <entry encoding="base64">JXMvXDxGYWN0U2V0RXRmU2VydmljZVw+L1JldXRlcnNEc3NGeFJhdGVTZXJ2aWNlL2c=</entry>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaEFwcE5hbWVFYXJseUluaXRpYWxpemVyXD4vUHV0RnhSYXRlQmF0Y2hBcHBOYW1lRWFybHlJbml0aWFsaXplci9n</entry>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaFw+L1B1dEZ4UmF0ZVByaWNlQmF0Y2gvZw==</entry>
-        <entry>nohlsearch</entry>
         <entry encoding="base64">JXMvXDxldGZQcmljZURhdGVcPi9meFJhdGVEYXRlL2c=</entry>
         <entry>%s/FactSet/ReutersDss/g</entry>
         <entry>%s/EtfClosingPrice/FxRate/g</entry>
@@ -396,6 +395,7 @@
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VSZXNwb25zZURUT1w+L1B1dEZ4UmF0ZVJlc3BvbnNlRFRPL2c=</entry>
         <entry>e!</entry>
         <entry>306</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
