@@ -104,6 +104,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/flow/RoboAdvAPI.js.flow" timestamp="1544442675414">
         <mark key="'" line="210" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/model/fx_rate/ReutersFxRate.scala" timestamp="1545032085467">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" timestamp="1545022054127">
         <mark key="'" line="74" column="28" />
         <mark key="[" line="112" column="0" />
@@ -112,7 +118,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545029834060">
+      <file name="/Dummy.txt" timestamp="1545031926164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1544695018920">
@@ -130,12 +136,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545031910388">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545032324231">
         <mark key="'" line="2" column="29" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
@@ -171,6 +177,9 @@
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="48" />
         <mark key="^" line="34" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545032399855">
+        <mark key="[" line="12" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/specifications/dist/gen-node/urls.js" timestamp="1545012361486">
         <mark key="'" line="227" column="6" />
@@ -377,7 +386,6 @@
         <entry encoding="base64">XDxSZXV0ZXJzRHNzU2Z0cE1vZHVsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDxJd2lTeW5jRXRmUHJpY2VcPi9Jd2lTeW5jRnhSYXRl</entry>
         <entry encoding="base64">JXMvXDxJd2lTeW5jRXRmUHJpY2VcPi9Jd2lTeW5jRnhSYXRlL2c=</entry>
         <entry>%s/Etf/FxRate/g</entry>
         <entry encoding="base64">JXMvXDxGYWN0U2V0RXRmUHJpY2VcPi9SZXV0ZXJzRHNzRnhSYXRlL2c=</entry>
@@ -393,9 +401,10 @@
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VBcmdzXD4vUHV0RnhSYXRlUHJpY2VBcmdzL2c=</entry>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VSZXNwb25zZURUT1w+L1B1dEZ4UmF0ZVJlc3BvbnNlRFRPL2c=</entry>
-        <entry>e!</entry>
         <entry>306</entry>
         <entry>nohlsearch</entry>
+        <entry>e!</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
