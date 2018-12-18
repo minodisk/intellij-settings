@@ -29,11 +29,11 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Enums.js" timestamp="1545012528270">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_tv/20181214.md" timestamp="1545107299307">
-        <mark key="[" line="8" column="106" />
-        <mark key="]" line="8" column="109" />
-        <mark key="^" line="8" column="109" />
-        <mark key="." line="8" column="109" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_tv/20181214.md" timestamp="1545107891079">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_radio/21.md" timestamp="1545106017136">
         <mark key="'" line="0" column="3" />
@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545107382609">
+      <file name="/Dummy.txt" timestamp="1545107839385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1545037959903">
@@ -296,7 +296,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>mpeg</text>
+        <text encoding="base64">MSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50QWRtaW5TZXJ2aWNlXD4=</text>
