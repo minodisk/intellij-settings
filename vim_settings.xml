@@ -77,12 +77,11 @@
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545120055177">
-        <mark key="'" line="162" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545120777493">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
         <mark key="^" line="48" column="12" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
         <mark key="[" line="4" column="25" />
@@ -373,34 +372,34 @@
         <text encoding="base64">b2JqZWN0IFB1dEV0ZkNsb3NpbmdQcmljZUJhdGNoVGVzdCB7CiAgb2JqZWN0IFRlc3RQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaE1haW4gZXh0ZW5kcyBQdXRFdGZDbG9zaW5nUHJpY2VCYXRjaAp9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5zY2htaXp6LnNzaGoueGZlci5GaWxlU3lzdGVtRmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
+        <text encoding="base64">Ly8gICAgKQovLyAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5nYXRld2F5LmluZnJhc3RydWN0dXJlLmFubm90YXRpb25zLkZhY3RTZXQK</text>
+        <text encoding="base64">Ly8gICAgICAgICJ7XCJjbG9zaW5nUHJpY2VzXCI6W3tcInN5bWJvbFwiOlwiU1lNXCIsXCJjbG9zaW5nUHJpY2VcIjpcIjgwLjM3XCIsXCJjdXJyZW5jeVwiOlwiTllTRVwiLFwibWFya2V0XCI6XCJVU0RcIn1dfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5zY2htaXp6LnNzaGouc2Z0cC5TRlRQQ2xpZW50Cg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KAovLyAgICAgIGpzb24ubm9TcGFjZXMgPT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby51dGlsLnNmdHAuU2Z0cENsaWVudAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIlVTRCIKLy8gICAgICAgICkpKS5hc0pzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmF0ZSA8LSBmeFJhdGUucmlnaHQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIjgwLjM3IiwKLy8gICAgICAgICAgIk5ZU0UiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmF0ZSA8LSBmeFJhdGUucmlnaHQK</text>
+        <text encoding="base64">Ly8gICAgICAgIEl3aVN5bmNGeFJhdGUoCi8vICAgICAgICAgICJTWU0iLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnhSYXRlIG1hdGNoIHsKICAgIGNhc2UgUmlnaHQoKSA9PgogICAgY2FzZSBMRWZ0KCkgPT4KICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgdmFsIGpzb24gPSBJd2lTeW5jRnhSYXRlcygKLy8gICAgICBTZXEoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZgo=</text>
+        <text encoding="base64">Ly8gIHRlc3QoImNoZWNrIHB1dCBmaWxlIGpzb24gZm9ybWF0IikgewovLyAgICAvLyBzM+OBq+e9ruOBj+ODh+ODvOOCv+OBrmpzb24gZm9ybWF044GM5aOK44KM44Gq44GE44KI44GG44Gr56K66KqNCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -454,8 +453,8 @@
         <entry>2w</entry>
         <entry>vs</entry>
         <entry>%s/EtfClosingPrice/FxRate/g</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
