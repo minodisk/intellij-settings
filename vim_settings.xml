@@ -83,12 +83,12 @@
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545197071422">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="29" column="66" />
-        <mark key="." line="29" column="66" />
-        <mark key="^" line="29" column="66" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545199146475">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="76" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="54" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
         <mark key="[" line="4" column="25" />
@@ -240,10 +240,10 @@
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545194328202">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545199118495">
         <mark key="'" line="24" column="21" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="46" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="77" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
@@ -307,7 +307,6 @@
       <jump line="32" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="51" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="68" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="71" column="107" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="81" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -399,6 +398,7 @@
       <jump line="110" column="13" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="51" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -411,34 +411,34 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>FinagleClient</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>modules</text>
       </register>
-      <register name="0" type="4">
-        <text>com.twitter.inject.app</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGYWN0U2V0U2Z0cE1vZHVsZSwK</text>
+        <text encoding="base64">ICAgIHJldXRlcnNTZXJ2aWNlTW9jay4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
+        <text encoding="base64">ICBGYWN0U2V0U2Z0cE1vZHVsZSwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
