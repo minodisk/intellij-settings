@@ -260,7 +260,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545208370179">
+      <file name="/Dummy.txt" timestamp="1545212315421">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -282,17 +282,18 @@
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545199118495">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="77" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545212567557">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545110421467">
-        <mark key="[" line="10" column="57" />
-        <mark key="]" line="10" column="57" />
-        <mark key="." line="10" column="57" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545212556452">
+        <mark key="'" line="10" column="37" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/specifications/dist/gen-node/urls.js" timestamp="1545012361486">
@@ -334,9 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="69" column="75" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="162" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="33" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" />
       <jump line="30" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" />
       <jump line="34" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" />
@@ -434,6 +432,9 @@
       <jump line="11" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" />
       <jump line="23" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" />
       <jump line="10" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" />
+      <jump line="27" column="83" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
+      <jump line="20" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
+      <jump line="10" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -446,57 +447,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>JOB_NAME_SEND_ORDER</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBOYW1lXD4=</text>
+        <text encoding="base64">XDxLRVlfSlBZXD4=</text>
       </register>
       <register name="0" type="4">
         <text>localhost:12345</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5qZW5raW5zam9iZHNsLmpvYmNvbmZpZ2NvbXBvbmVudHMuYnVpbGQuc2hlbGwucHJlZXhlYy5mb2xpby5DYWxlbmRhclNlcnZpY2VJc0hvbGlkYXlTaGVsbENtZFdpdGhCYXNlRGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5qZW5raW5zam9iZHNsLmpvYmNvbmZpZ2NvbXBvbmVudHMuYnVpbGQuc2hlbGwucHJlZXhlYy5mb2xpby5DYWxlbmRhclNlcnZpY2VJc0hvbGlkYXlTaGVsbENtZFdpdGhCYXNlRGF0ZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCiAgICAgICAgJ0lXSeODkOODg+ODgSg0MDAtY2FjaGVfc2V0dGxlbWVudCkg44GM5YuV44GPIDEyOjAwJywKICAgICAgICAnRmFjdFNldOOBjEZhY3RTZXTjga5TRlRQ44K144O844OQ44Gr5pel5LuY44KS5ZCr44KT44Gg44OV44Kh44Kk44Or44GnRVRG57WC5YCk44KS6Kit572u44GX44Gm44GE44KL44GT44GoJywKICAgICAgICAn5a6f6KGM6Ieq5L2T44Gv44G544GN562J44Gq44Gu44GnRmFjdFNldOWBtOOBq+ODh+ODvOOCv+OBjOe9ruOBi+OCjOOBn+eKtuaFi+OBp+S9leW6puOBp+OCguWun+ihjOOBl+OBpuiJr+OBhCcK</text>
+        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cmh0dHBzOi8vZm9saW8tc2VjLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvQkNFL3BhZ2VzLzE0OTg4MTUyNy9yb2JvLWFkdistK0lXSStTdG9yYWdlKy0rRmFjdFNldAo=</text>
+        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cmh0dHBzOi8vZm9saW8tc2VjLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvQkNFL3BhZ2VzLzE0OTg4MTUyNy9yb2JvLWFkdistK0lXSStTdG9yYWdlKy0rRmFjdFNldAo=</text>
+        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCiAgICAgICAgJ0lXSeODkOODg+ODgSg0MDAtY2FjaGVfc2V0dGxlbWVudCkg44GM5YuV44GPIDEyOjAwJywKICAgICAgICAnRmFjdFNldOOBjEZhY3RTZXTjga5TRlRQ44K144O844OQ44Gr5pel5LuY44KS5ZCr44KT44Gg44OV44Kh44Kk44Or44GnRVRG57WC5YCk44KS6Kit572u44GX44Gm44GE44KL44GT44GoJywKICAgICAgICAn5a6f6KGM6Ieq5L2T44Gv44G544GN562J44Gq44Gu44GnRmFjdFNldOWBtOOBq+ODh+ODvOOCv+OBjOe9ruOBi+OCjOOBn+eKtuaFi+OBp+S9leW6puOBp+OCguWun+ihjOOBl+OBpuiJr+OBhCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN0eC5jaG9pY2VMYXN0RGF5c1BhcmFtKAogICAgICAgICAgICAnRVRGX1BSSUNFX0RBVEUnLAogICAgICAgICAgICA2LAogICAgICAgICAgICAxLAogICAgICAgICAgICAn5Y+W5b6X44GX44Gf44GERVRG57WC5YCk44Gu5pel5LuY44CB5Z+65pys55qE44Gr44Gv5YmN5pel44Gu44OH44O844K/44KS5Y+W5b6X44GZ44KLJwogICAgKQo=</text>
+        <text encoding="base64">Cmh0dHBzOi8vZm9saW8tc2VjLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvQkNFL3BhZ2VzLzE0OTg4MTUyNy9yb2JvLWFkdistK0lXSStTdG9yYWdlKy0rRmFjdFNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0VURl9QUklDRV9EQVRFJywK</text>
+        <text encoding="base64">Cmh0dHBzOi8vZm9saW8tc2VjLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvQkNFL3BhZ2VzLzE0OTg4MTUyNy9yb2JvLWFkdistK0lXSStTdG9yYWdlKy0rRmFjdFNldAo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxLRVlfSlBZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBOYW1lXD4=</last-pattern>
-      <last-replace>fx-rate</last-replace>
-      <last-substitute>etf-closing-price</last-substitute>
+      <last-pattern encoding="base64">XDxLRVlfSlBZXD4=</last-pattern>
+      <last-replace>RIC_JPY</last-replace>
+      <last-substitute encoding="base64">XDxLRVlfSlBZXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
         <entry encoding="base64">XDxBcHBcPg==</entry>
         <entry>modules</entry>
         <entry>Mock</entry>
@@ -516,14 +516,13 @@
         <entry>Closing</entry>
         <entry>closing</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
+        <entry encoding="base64">XDxLRVlfSlBZXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VSZXF1ZXN0RFRPXD4vUHV0RnhSYXRlUmVxdWVzdERUTy9n</entry>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VBcmdzXD4vUHV0RnhSYXRlUHJpY2VBcmdzL2c=</entry>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VSZXNwb25zZURUT1w+L1B1dEZ4UmF0ZVJlc3BvbnNlRFRPL2c=</entry>
         <entry>306</entry>
-        <entry>e!</entry>
         <entry>sp</entry>
         <entry>2w</entry>
         <entry>%s/EtfClosingPrice/FxRate/g</entry>
@@ -534,10 +533,12 @@
         <entry>%s/robo_adv_contract/reuters_thrift/g</entry>
         <entry>q</entry>
         <entry>%s/etf-closing-price/fx-rate/g</entry>
-        <entry>nohlsearch</entry>
         <entry>w:w</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>e!</entry>
+        <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
+        <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
