@@ -12,6 +12,10 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
         <mark key="'" line="165" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.yaml" timestamp="1545022615703">
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="96" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/services/omakase.js" timestamp="1543399899506">
         <mark key="'" line="58" column="2" />
       </file>
@@ -31,14 +35,20 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" timestamp="1545195631474">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="30" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" timestamp="1545196628326">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/sendmail/sendmailApiIdl/SendmailApiService.scala" timestamp="1545032885464">
         <mark key="'" line="4717" column="18" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.folio/util-standard-finatra-server_2.12/srcs/util-standard-finatra-server_2.12-1.1.10-sources.jar!/com/folio/util/standard_finatra_server/standard/StandardFinatraApp.scala" timestamp="1545196709324">
+        <mark key="'" line="5" column="30" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" timestamp="1545022054127">
         <mark key="'" line="74" column="28" />
@@ -66,15 +76,19 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545194685137">
-        <mark key="'" line="13" column="31" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
+        <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545193659965">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/etf/IwiSyncEtfClosingPrice.scala" timestamp="1545112073230">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545197071422">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="29" column="73" />
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
         <mark key="[" line="4" column="25" />
@@ -127,12 +141,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/ReutersThriftService.scala" timestamp="1545033830965">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" timestamp="1545195715749">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
-        <mark key="^" line="52" column="30" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" timestamp="1545197050238">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545117780428">
         <mark key="[" line="3" column="0" />
@@ -146,19 +160,25 @@
         <mark key="." line="48" column="47" />
         <mark key="^" line="48" column="47" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" timestamp="1545196732454">
+        <mark key="'" line="110" column="13" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRate.scala" timestamp="1545112843331">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" timestamp="1545195621793">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="57" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" timestamp="1545196461635">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="57" />
       </file>
-      <file name="/sbtShell" timestamp="1545195422959">
+      <file name="/sbtShell" timestamp="1545195780691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -199,7 +219,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545181926467">
+      <file name="/Dummy.txt" timestamp="1545196949740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1545118889385">
@@ -239,6 +259,10 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" timestamp="1545012376298">
         <mark key="'" line="626" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/RestClientModule.scala" timestamp="1545196453939">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateRequestAdapter.scala" timestamp="1545118870979">
         <mark key="'" line="9" column="85" />
         <mark key="[" line="12" column="35" />
@@ -275,33 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="44" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="26" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="14" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_radio/21.md" />
-      <jump line="0" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_radio/21.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_tv/20181214.md" />
-      <jump line="48" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="122" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="157" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
-      <jump line="165" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="32" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatch.scala" />
-      <jump line="27" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="26" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="4" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="6" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="8" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="9" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="20" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/etf/IwiSyncEtfStorageServiceImpl.scala" />
-      <jump line="33" column="54" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="10" column="102" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="154" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="26" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
-      <jump line="29" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatchTest.scala" />
-      <jump line="157" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="28" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="31" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="9" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -375,6 +372,33 @@
       <jump line="112" column="53" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
       <jump line="47" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="8" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
+      <jump line="51" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="53" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
+      <jump line="11" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
+      <jump line="13" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="3" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
+      <jump line="12" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
+      <jump line="54" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
+      <jump line="4" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="18" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="20" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="21" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="38" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
+      <jump line="125" column="13" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="12" column="33" filename="$USER_HOME$/.ivy2/cache/com.folio/util-standard-finatra-server_2.12/srcs/util-standard-finatra-server_2.12-1.1.10-sources.jar!/com/folio/util/standard_finatra_server/standard/StandardFinatraApp.scala" />
+      <jump line="5" column="30" filename="$USER_HOME$/.ivy2/cache/com.folio/util-standard-finatra-server_2.12/srcs/util-standard-finatra-server_2.12-1.1.10-sources.jar!/com/folio/util/standard_finatra_server/standard/StandardFinatraApp.scala" />
+      <jump line="23" column="6" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="25" column="65" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="84" column="17" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="85" column="16" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="87" column="17" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="93" column="14" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="101" column="14" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="110" column="13" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -387,49 +411,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmV1dGVyc1RocmlmdFNlcnZpY2VNb2R1bGUg</text>
+        <text>FinagleClient</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGYWN0U2V0U2Z0cE1vZHVsZVw+</text>
+        <text>modules</text>
       </register>
       <register name="0" type="4">
-        <text>ReutersThriftServiceModule</text>
+        <text>com.twitter.inject.app</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBSZXV0ZXJzVGhyaWZ0U2VydmljZU1vZHVsZSwK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yZXV0ZXJzLmlkbC5SZXV0ZXJzVGhyaWZ0U2VydmljZQo=</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb20uZm9saW8ucmV1dGVycy5Db24K</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tLmZvbGkK</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb20uZm9saW8ucmV1dGVycwo=</text>
+        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb20uZm9saW8ucmV1dGVycy50aHJpCg==</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yZXV0ZXJzLmxpYi5pbmZyYXN0cnVjdHVyZS5zdXBwb3J0LkZvbGlvU2VydmljZURlc3RDb25maWcK</text>
+        <text encoding="base64">ICBSZXV0ZXJzVGhyaWZ0U2VydmljZU1vZHVsZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGYWN0U2V0U2Z0cE1vZHVsZVw+</last-search>
+      <last-search>modules</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGYWN0U2V0U2Z0cE1vZHVsZVw+</last-pattern>
+      <last-pattern>modules</last-pattern>
       <last-replace>reuters_thrift</last-replace>
       <last-substitute>robo_adv_contract</last-substitute>
       <last-dir>1</last-dir>
@@ -437,10 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWxlU3lzdGVtRmlsZVw+</entry>
-        <entry encoding="base64">XDxJd2lTeW5jRXRmUHJpY2VcPg==</entry>
-        <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
-        <entry encoding="base64">XDxtaWdyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxSb2JvQWR2R2F0ZXdheUJhdGNoRmVhdHVyZVRlc3RCYXNlXD4=</entry>
         <entry>dealing</entry>
         <entry encoding="base64">XDxDU1ZSZWFkZXJcPg==</entry>
@@ -457,6 +477,10 @@
         <entry encoding="base64">XDxyZXV0ZXJzXD4=</entry>
         <entry>reuters</entry>
         <entry encoding="base64">XDxGYWN0U2V0U2Z0cE1vZHVsZVw+</entry>
+        <entry>ReutersThriftServiceModule</entry>
+        <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
+        <entry encoding="base64">XDxBcHBcPg==</entry>
+        <entry>modules</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FactSet/ReutersDss/g</entry>
