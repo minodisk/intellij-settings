@@ -228,7 +228,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545212604055">
+      <file name="/Dummy.txt" timestamp="1545215217586">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -237,6 +237,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/reuters/idl/src/main/thrift/reuters-idl/ReutersThriftService.thrift" timestamp="1545215327353">
+        <mark key="'" line="31" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/reuters/common/src/main/resources/env/application.conf" timestamp="1545215684067">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" timestamp="1545109407698">
         <mark key="'" line="0" column="0" />
@@ -250,12 +256,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545213959382">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545216235824">
         <mark key="'" line="20" column="18" />
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-        <mark key="^" line="35" column="10" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545212556452">
         <mark key="'" line="10" column="37" />
@@ -289,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
-      <jump line="580" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
       <jump line="581" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
       <jump line="194" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
       <jump line="195" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
@@ -389,6 +393,8 @@
       <jump line="1687" column="16" filename="$USER_HOME$/.ivy2/cache/com.twitter/util-core_2.12/srcs/util-core_2.12-18.5.0-sources.jar!/com/twitter/util/Future.scala" />
       <jump line="1736" column="62" filename="$USER_HOME$/.ivy2/cache/com.twitter/util-core_2.12/srcs/util-core_2.12-18.5.0-sources.jar!/com/twitter/util/Future.scala" />
       <jump line="1770" column="49" filename="$USER_HOME$/.ivy2/cache/com.twitter/util-core_2.12/srcs/util-core_2.12-18.5.0-sources.jar!/com/twitter/util/Future.scala" />
+      <jump line="31" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/reuters/idl/src/main/thrift/reuters-idl/ReutersThriftService.thrift" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/reuters/common/src/main/resources/env/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -401,24 +407,36 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>fxRate</text>
       </register>
       <register name="/" type="4">
-        <text>exception</text>
+        <text>jpy_usd_delayed</text>
       </register>
       <register name="0" type="4">
-        <text>ReutersFxRate(0)</text>
+        <text>getDelayedRealtimeDisplayDataOfSimplePrice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHIK</text>
+        <text encoding="base64">ICAgICAgcmljUHJpY2VNYXAuZ2V0KFJJQ19KUFkpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUodikgPT4KICAgICAgICAgIHYucHJpY2UgbWF0Y2ggewogICAgICAgICAgICBjYXNlIFNvbWUodykgPT4gRnV0dXJlLnZhbHVlKFJldXRlcnNGeFJhdGUoQmlnRGVjaW1hbCh3KSkpCiAgICAgICAgICAgIGNhc2UgTm9uZSAgICA9PiBGdXR1cmUuZXhjZXB0aW9uKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24ocyJUaGVyZSBpcyBubyAncHJpY2UnIGluICRSSUNfSlBZIikpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZS5leGNlcHRpb24oUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbihzIlRoZXJlIGlzIG5vIGtleSAnJFJJQ19KUFknIGluIHJlc3BvbnNlIGZyb20gdGhlIFJldXRlcnMgU2VydmljZSIpKQogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHIK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIE5vbmUgPT4gRnV0dXJlLmV4Y2VwdGlvbihSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uKHMiVGhlcmUgaXMgbm8ga2V5ICckUklDX0pQWScgaW4gcmVzcG9uc2UgZnJvbSB0aGUgUmV1dGVycyBTZXJ2aWNlIikpCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIE5vbmUgPT4gRnV0dXJlLmV4Y2VwdGlvbihSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uKHMiVGhlcmUgaXMgbm8ga2V5ICckUklDX0pQWScgaW4gcmVzcG9uc2UgZnJvbSB0aGUgUmV1dGVycyBTZXJ2aWNlIikpCiAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmljUHJpY2VNYXAuZ2V0KFJJQ19KUFkpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUodikgPT4KICAgICAgICAgIHYucHJpY2UgbWF0Y2ggewogICAgICAgICAgICBjYXNlIFNvbWUodykgPT4gRnV0dXJlLnZhbHVlKFJldXRlcnNGeFJhdGUoQmlnRGVjaW1hbCh3KSkpCiAgICAgICAgICAgIGNhc2UgTm9uZSAgICA9PiBGdXR1cmUuZXhjZXB0aW9uKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24ocyJUaGVyZSBpcyBubyAncHJpY2UnIGluICRSSUNfSlBZIikpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZS5leGNlcHRpb24oUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbihzIlRoZXJlIGlzIG5vIGtleSAnJFJJQ19KUFknIGluIHJlc3BvbnNlIGZyb20gdGhlIFJldXRlcnMgU2VydmljZSIpKQogICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHIK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
       // {
       //   &quot;JPY=&quot;: {
@@ -427,29 +445,17 @@
       //   }
       // }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5qZW5raW5zam9iZHNsLmpvYmNvbmZpZ2NvbXBvbmVudHMuYnVpbGQuc2hlbGwucHJlZXhlYy5mb2xpby5DYWxlbmRhclNlcnZpY2VJc0hvbGlkYXlTaGVsbENtZFdpdGhCYXNlRGF0ZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnRmFjdFNldOOBjOWJjeaXpee1guWApOOCkjExOjMw44G+44Gn44Gr572u44GN44CBSVdJ44OQ44OD44OB44GMMTLmmYLjgavli5XjgY/jga7jgafjgIExMTozNScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exception</last-search>
+      <last-search>jpy_usd_delayed</last-search>
       <last-offset />
-      <last-pattern>exception</last-pattern>
+      <last-pattern>jpy_usd_delayed</last-pattern>
       <last-replace>RIC_JPY</last-replace>
       <last-substitute encoding="base64">XDxLRVlfSlBZXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -457,8 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Mock</entry>
-        <entry>etf-closing-price</entry>
         <entry>etf</entry>
         <entry encoding="base64">XDxFVEZfUFJJQ0VfREFURVw+</entry>
         <entry>stg</entry>
@@ -477,6 +481,8 @@
         <entry encoding="base64">XDxLRVlfSlBZXD4=</entry>
         <entry>Exception</entry>
         <entry>exception</entry>
+        <entry>JPY=</entry>
+        <entry>jpy_usd_delayed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VBcmdzXD4vUHV0RnhSYXRlUHJpY2VBcmdzL2c=</entry>
