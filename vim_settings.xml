@@ -12,10 +12,6 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" timestamp="1544439994701">
         <mark key="'" line="165" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/development.yaml" timestamp="1545022615703">
-        <mark key="[" line="96" column="12" />
-        <mark key="]" line="96" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/resources/env/test.conf" timestamp="1545098529138">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
@@ -77,10 +73,6 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/etf/IwiSyncEtfClosingPrice.scala" timestamp="1545112073230">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545183670847">
         <mark key="'" line="29" column="73" />
@@ -163,8 +155,8 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="/sbtShell" timestamp="1545123540989">
-        <mark key="[" line="0" column="1" />
+      <file name="/sbtShell" timestamp="1545184882546">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,12 +211,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545183643304">
-        <mark key="'" line="14" column="48" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545186042715">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545110421467">
         <mark key="[" line="10" column="57" />
@@ -268,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4717" column="18" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/sendmail/sendmailApiIdl/SendmailApiService.scala" />
-      <jump line="2" column="33" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/service/UserAccountDomainService.scala" />
       <jump line="12" column="4" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/service/UserAccountDomainService.scala" />
       <jump line="532" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
@@ -368,6 +358,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
       <jump line="204" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
       <jump line="169" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
+      <jump line="24" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -383,7 +375,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RvdG9zaGlcPg==</text>
+        <text encoding="base64">XDxyZXV0ZXJzU2VydmljZVw+</text>
       </register>
       <register name="0" type="4">
         <text>tototoshi</text>
@@ -420,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RvdG9zaGlcPg==</last-search>
+      <last-search encoding="base64">XDxyZXV0ZXJzU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RvdG9zaGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXV0ZXJzU2VydmljZVw+</last-pattern>
       <last-replace>FxRate</last-replace>
       <last-substitute>EtfClosingPrice</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Csv</entry>
         <entry>etfPrice</entry>
         <entry encoding="base64">XDxtb2NrWmlwRmlsZVw+</entry>
         <entry>Parser</entry>
@@ -450,6 +441,7 @@
         <entry encoding="base64">XDxDU1ZSZWFkZXJcPg==</entry>
         <entry>toto</entry>
         <entry encoding="base64">XDx0b3RvdG9zaGlcPg==</entry>
+        <entry encoding="base64">XDxyZXV0ZXJzU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxldGZcPi9meF9yYXRlL2c=</entry>
