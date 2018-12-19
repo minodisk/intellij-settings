@@ -35,11 +35,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" timestamp="1545196628326">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" timestamp="1545197746674">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/sendmail/sendmailApiIdl/SendmailApiService.scala" timestamp="1545032885464">
@@ -219,7 +219,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545196949740">
+      <file name="/Dummy.txt" timestamp="1545197135847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1545118889385">
@@ -372,7 +372,6 @@
       <jump line="112" column="53" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
       <jump line="47" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="8" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="53" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
       <jump line="11" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
@@ -399,6 +398,7 @@
       <jump line="101" column="14" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
       <jump line="110" column="13" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -420,31 +420,31 @@
         <text>com.twitter.inject.app</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBGYWN0U2V0U2Z0cE1vZHVsZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
+        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlCg==</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBSZXV0ZXJzVGhyaWZ0U2VydmljZU1vZHVsZSwK</text>
+        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
