@@ -83,12 +83,12 @@
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545199146475">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545201612162">
         <mark key="'" line="53" column="19" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="76" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="54" column="73" />
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="44" />
+        <mark key="^" line="74" column="44" />
+        <mark key="." line="74" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
         <mark key="[" line="4" column="25" />
@@ -137,6 +137,10 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/put_etf_closing_price/PutFxRateComponent.scala" timestamp="1544697477540">
         <mark key="'" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/RealtimeDisplayDataOfSimplePrice.scala" timestamp="1545200320470">
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="365" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/ReutersThriftService.scala" timestamp="1545033830965">
         <mark key="'" line="0" column="0" />
@@ -411,49 +415,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>modules</text>
+        <text>Mock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
+      <register name="0" type="4">
+        <text>ArgumentCaptor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldXRlcnNTZXJ2aWNlTW9jay4K</text>
+        <text encoding="base64">aW1wb3J0IGlvLmNpcmNlLnBhcnNlci5fCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBGYWN0U2V0U2Z0cE1vZHVsZSwK</text>
+        <text encoding="base64">Ly8gICAgd2hlbihyZXV0ZXJzU2VydmljZU1vY2suZ2V0RGVsYXllZFJlYWx0aW1lRGlzcGxheURhdGFPZlNpbXBsZVByaWNlKGFueVtTZXFbU3RyaW5nXV0pKQovLyAgICAgIC50aGVuQW5zd2VyIHsgXyA9PgovLyAgICAgICAgRnV0dXJlLnZhbHVlKE1hcCgiSlBZPSIgLT4gMTAwKSkKLy8gICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
+        <text encoding="base64">Ly8gICAgZm9yIHsKLy8gICAgICB2IDwtIHJldXRlcnNTZXJ2aWNlTW9jay5nZXREZWxheWVkUmVhbHRpbWVEaXNwbGF5RGF0YU9mU2ltcGxlUHJpY2UoU2VxKCJKUFk9IikpCi8vICAgIH0geWllbGQKLy8gICAgICAoCi8vICAgICAgICBwcmludGxuKHYpCi8vICAgICAgKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZhY3RTZXRTZnRwTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihwdXRPYmplY3QpCiAgICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucmV1dGVycy5nYXRld2F5LmluZnJhc3RydWN0dXJlLm1vZHVsZXMK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgICBwcmludGxuKHMzUHV0UmVxdWVzdENhcHRvci5nZXRBbGxWYWx1ZXMpCiAgICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldXRlcnNUaHJpZnRTZXJ2aWNlTW9kdWxlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modules</last-search>
+      <last-search>Mock</last-search>
       <last-offset />
-      <last-pattern>modules</last-pattern>
+      <last-pattern>Mock</last-pattern>
       <last-replace>reuters_thrift</last-replace>
       <last-substitute>robo_adv_contract</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSb2JvQWR2R2F0ZXdheUJhdGNoRmVhdHVyZVRlc3RCYXNlXD4=</entry>
         <entry>dealing</entry>
         <entry encoding="base64">XDxDU1ZSZWFkZXJcPg==</entry>
         <entry>toto</entry>
@@ -481,6 +484,7 @@
         <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
         <entry encoding="base64">XDxBcHBcPg==</entry>
         <entry>modules</entry>
+        <entry>Mock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FactSet/ReutersDss/g</entry>
