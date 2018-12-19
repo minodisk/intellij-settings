@@ -83,8 +83,8 @@
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545201612162">
-        <mark key="'" line="53" column="19" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545201664663">
+        <mark key="'" line="74" column="44" />
         <mark key="[" line="74" column="43" />
         <mark key="]" line="74" column="44" />
         <mark key="^" line="74" column="44" />
@@ -223,8 +223,9 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545197135847">
+      <file name="/Dummy.txt" timestamp="1545201635287">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/dto/PutFxRateRequestDTO.scala" timestamp="1545118889385">
         <mark key="[" line="0" column="70" />
@@ -303,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="31" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="9" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -403,6 +403,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="51" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="74" column="44" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
