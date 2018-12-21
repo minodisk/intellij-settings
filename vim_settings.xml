@@ -121,12 +121,12 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545367940362">
-        <mark key="'" line="9" column="68" />
-        <mark key="[" line="35" column="74" />
-        <mark key="]" line="35" column="74" />
-        <mark key="^" line="35" column="74" />
-        <mark key="." line="35" column="74" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545368662536">
+        <mark key="'" line="8" column="73" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="33" column="74" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/put_etf_closing_price/PutFxRateComponent.scala" timestamp="1544697477540">
         <mark key="'" line="2" column="54" />
@@ -275,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/build.sbt" />
       <jump line="14" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
       <jump line="29" column="73" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="6" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/factset/service/etf/FactSetEtfFileParser.scala" />
@@ -375,6 +374,7 @@
       <jump line="39" column="54" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/etf/IwiSyncEtfStorageServiceImpl.scala" />
       <jump line="79" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="8" column="73" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -390,46 +390,46 @@
         <text>strini</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</text>
+        <text>FxRate</text>
       </register>
       <register name="0" type="4">
         <text>PutFxRateBatchTest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBJd2lTeW5jRnhSYXRlU3RvcmFnZQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5nYXRld2F5LmRvbWFpbi5zdWIuaXdpX3N5bmMubW9kZWwuZnhfcmF0ZS5Jd2lTeW5jRnhSYXRlCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEl3aVN5bmNGeFJhdGUK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgTGVmdChlKSAgICAgPT4gdGhyb3cgZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Ly8gICAgICBJd2lTeW5jRnhSYXRlU3RvcmFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmeFJhdGUgbWF0Y2ggewo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5nYXRld2F5LmRvbWFpbi5zdWIuaXdpX3N5bmMubW9kZWwuZnhfcmF0ZS5Jd2lTeW5jRnhSYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmeFJhdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTGVmdChlKSAgICAgPT4gdGhyb3cgZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogZGVsYXllZAogICAgKiAxMOWIhumBheW7tuOBl+OBnwo=</text>
+        <text encoding="base64">ICAgICAgICBmeFJhdGUgbWF0Y2ggewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmljUHJpY2VNYXAuZ2V0KFJJQ19KUFkpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUodikgPT4KICAgICAgICAgIHYucHJpY2UgbWF0Y2ggewogICAgICAgICAgICBjYXNlIFNvbWUodykgPT4gRnV0dXJlLnZhbHVlKFJldXRlcnNGeFJhdGUoQmlnRGVjaW1hbCh3KSkpCiAgICAgICAgICAgIGNhc2UgTm9uZSAgICA9PiBGdXR1cmUuZXhjZXB0aW9uKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24ocyJUaGVyZSBpcyBubyAncHJpY2UnIGluICRSSUNfSlBZIikpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZS5leGNlcHRpb24oUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbihzIlRoZXJlIGlzIG5vIGtleSAnJFJJQ19KUFknIGluIHJlc3BvbnNlIGZyb20gdGhlIFJldXRlcnMgU2VydmljZSIpKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmeFJhdGUuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIE5vbmUgPT4gRnV0dXJlLmV4Y2VwdGlvbihSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uKHMiVGhlcmUgaXMgbm8ga2V5ICckUklDX0pQWScgaW4gcmVzcG9uc2UgZnJvbSB0aGUgUmV1dGVycyBTZXJ2aWNlIikpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICogZGVsYXllZAogICAgKiAxMOWIhumBheW7tuOBl+OBnwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIE5vbmUgPT4gRnV0dXJlLmV4Y2VwdGlvbihSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uKHMiVGhlcmUgaXMgbm8ga2V5ICckUklDX0pQWScgaW4gcmVzcG9uc2UgZnJvbSB0aGUgUmV1dGVycyBTZXJ2aWNlIikpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmljUHJpY2VNYXAuZ2V0KFJJQ19KUFkpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUodikgPT4KICAgICAgICAgIHYucHJpY2UgbWF0Y2ggewogICAgICAgICAgICBjYXNlIFNvbWUodykgPT4gRnV0dXJlLnZhbHVlKFJldXRlcnNGeFJhdGUoQmlnRGVjaW1hbCh3KSkpCiAgICAgICAgICAgIGNhc2UgTm9uZSAgICA9PiBGdXR1cmUuZXhjZXB0aW9uKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24ocyJUaGVyZSBpcyBubyAncHJpY2UnIGluICRSSUNfSlBZIikpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZS5leGNlcHRpb24oUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbihzIlRoZXJlIGlzIG5vIGtleSAnJFJJQ19KUFknIGluIHJlc3BvbnNlIGZyb20gdGhlIFJldXRlcnMgU2VydmljZSIpKQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</last-search>
+      <last-search>FxRate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</last-pattern>
+      <last-pattern>FxRate</last-pattern>
       <last-replace>RIC_JPY</last-replace>
       <last-substitute encoding="base64">XDxLRVlfSlBZXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -437,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
         <entry>7777</entry>
         <entry>account</entry>
         <entry>reuters</entry>
@@ -457,6 +456,7 @@
         <entry encoding="base64">XDxSSUNfSlBZXD4=</entry>
         <entry>toString</entry>
         <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
+        <entry>FxRate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VBcmdzXD4vUHV0RnhSYXRlUHJpY2VBcmdzL2c=</entry>
