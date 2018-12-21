@@ -64,6 +64,12 @@
         <mark key="[" line="32" column="7" />
         <mark key="]" line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/README.md" timestamp="1545193827820">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
@@ -206,7 +212,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545380677868">
+      <file name="/Dummy.txt" timestamp="1545380707939">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -234,12 +240,11 @@
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545378332897">
-        <mark key="'" line="30" column="84" />
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="59" />
-        <mark key="^" line="22" column="68" />
-        <mark key="." line="22" column="68" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" timestamp="1545381610519">
+        <mark key="'" line="34" column="84" />
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545212556452">
         <mark key="'" line="10" column="37" />
@@ -280,6 +285,12 @@
       </file>
       <file name="/fragment.java" timestamp="1545368578597">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersServiceMoudle.scala" timestamp="1545195001416">
+        <mark key="'" line="22" column="72" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -395,40 +406,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>JPY=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJpYyA9ICJKUFk9IiwK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBqcHl4ID0gIkpQWT1YIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
+        <text encoding="base64">ICAgICAgLy8gSlBZPVjjgafjg6rjgq/jgqjjgrnjg4jjgZnjgovjgYzjgIHmiLvjgorlgKTjga7jg57jg4Pjg5fjga7jgq3jg7zjga9KUFk944Gn6L+U44Gj44Gm44GP44KLCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
+        <text encoding="base64">ICAgICAgLy8gSlBZPVjjga9SZXV0ZXJz44GM5o+Q5L6b44GZ44KL44Oq44OV44Kh44Os44Oz44K544OH44O844K/5YaF44Gn44CBVVNEL0pQWeOBrjEw5YiG6YGF5bu244GX44Gf54K65pu/44KS6KGo44GZ44OL44O844Oi44OL44OD44Kv44Kz44O844OJCiAgICAgIC8vIGh0dHBzOi8vZ2l0bGFiLmZvbGlvLXNlYy5jb20vRm9saW8vcmV1dGVycy9ibG9iLzdlNGUwMWUzZTg3OTRjY2ZjOGU1NmRmNWEyNmI1MzZlY2FlNDY0YjcvaWRsL3NyYy9tYWluL3RocmlmdC9yZXV0ZXJzLWlkbC9SZXV0ZXJzVGhyaWZ0U2VydmljZS50aHJpZnQjTDY2NS02ODIKICAgICAgLy8gaHR0cHM6Ly9naXRsYWIuZm9saW8tc2VjLmNvbS9Gb2xpby9yZXV0ZXJzL2Jsb2IvN2U0ZTAxZTNlODc5NGNjZmM4ZTU2ZGY1YTI2YjUzNmVjYWU0NjRiNy9jb21tb24vc3JjL21haW4vcmVzb3VyY2VzL2Vudi9hcHBsaWNhdGlvbi5jb25mI0w0NAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHsKICAgICAgICBfIDwtIHJ1bigpCiAgICAgIH0geWllbGQgKCkK</text>
+        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZm9yIHsKICAgICAgICBfIDwtIHJ1bigpCiAgICAgIH0geWllbGQgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcnVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSB5aWVsZCB7fQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHsK</text>
+        <text encoding="base64">ICAgICAgcnVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
