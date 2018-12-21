@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545380642638">
-        <mark key="'" line="51" column="17" />
-        <mark key="[" line="74" column="57" />
-        <mark key="]" line="74" column="58" />
-        <mark key="." line="74" column="58" />
-        <mark key="^" line="74" column="58" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545383351626">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/PutFxRateArgs.scala" timestamp="1544697564866">
         <mark key="[" line="4" column="25" />
@@ -122,6 +122,12 @@
         <mark key="]" line="16" column="42" />
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/entrypoint/batch/src/main/scala/com/folio/robo_adv/gateway/entrypoints/batch/PutFxRateBatchMain.scala" timestamp="1545382680501">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="2" column="69" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="2" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545376884570">
         <mark key="'" line="37" column="22" />
@@ -212,7 +218,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545380707939">
+      <file name="/Dummy.txt" timestamp="1545383321955">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -283,7 +289,7 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1545368578597">
+      <file name="/fragment.java" timestamp="1545382627054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersServiceMoudle.scala" timestamp="1545195001416">
@@ -294,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
-      <jump line="169" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" />
       <jump line="13" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
       <jump line="24" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
       <jump line="2" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -394,6 +398,8 @@
       <jump line="26" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
       <jump line="51" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="49" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -406,49 +412,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>JPY=</text>
+        <text encoding="base64">KSA9PiBGdXR1cmUuZXhjZXB0aW9uKG5ldyBJbnRlcm5hbEVycm9yKCJmb28iKSkpKCkp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text encoding="base64">XDxmaXhlZERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBqcHl4ID0gIkpQWT1YIgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSB7CiAgICAgIEF3YWl0LnJlc3VsdChydW4oKSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gSlBZPVjjgafjg6rjgq/jgqjjgrnjg4jjgZnjgovjgYzjgIHmiLvjgorlgKTjga7jg57jg4Pjg5fjga7jgq3jg7zjga9KUFk944Gn6L+U44Gj44Gm44GP44KLCg==</text>
+        <text encoding="base64">ICAgICAgImZ4UmF0ZURhdGUiIC0+IGZpeGVkRGF0ZS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIuSVNPX0xPQ0FMX0RBVEUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gSlBZPVjjga9SZXV0ZXJz44GM5o+Q5L6b44GZ44KL44Oq44OV44Kh44Os44Oz44K544OH44O844K/5YaF44Gn44CBVVNEL0pQWeOBrjEw5YiG6YGF5bu244GX44Gf54K65pu/44KS6KGo44GZ44OL44O844Oi44OL44OD44Kv44Kz44O844OJCiAgICAgIC8vIGh0dHBzOi8vZ2l0bGFiLmZvbGlvLXNlYy5jb20vRm9saW8vcmV1dGVycy9ibG9iLzdlNGUwMWUzZTg3OTRjY2ZjOGU1NmRmNWEyNmI1MzZlY2FlNDY0YjcvaWRsL3NyYy9tYWluL3RocmlmdC9yZXV0ZXJzLWlkbC9SZXV0ZXJzVGhyaWZ0U2VydmljZS50aHJpZnQjTDY2NS02ODIKICAgICAgLy8gaHR0cHM6Ly9naXRsYWIuZm9saW8tc2VjLmNvbS9Gb2xpby9yZXV0ZXJzL2Jsb2IvN2U0ZTAxZTNlODc5NGNjZmM4ZTU2ZGY1YTI2YjUzNmVjYWU0NjRiNy9jb21tb24vc3JjL21haW4vcmVzb3VyY2VzL2Vudi9hcHBsaWNhdGlvbi5jb25mI0w0NAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFtYXpvblMzTW9jay5wdXRPYmplY3QoYW55W1B1dE9iamVjdFJlcXVlc3RdKSByZXR1cm5zIG51bGwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHsKICAgICAgICBfIDwtIHJ1bigpCiAgICAgIH0geWllbGQgKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBmaXhlZERhdGUgPSBMb2NhbERhdGUub2YoMjAxOCwgMTIsIDEyKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgImZ4UmF0ZURhdGUiIC0+IGZpeGVkRGF0ZS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIuSVNPX0xPQ0FMX0RBVEUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0KICAgIGFzc2VydChlLmdldE1lc3NhZ2Uuc3RhcnRzV2l0aCgiVGhlcmUgaXMgbm8ga2V5ICdwcmljZSciKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBlID0gaW50ZXJjZXB0W1Jlc291cmNlTm90Rm91bmRFeGNlcHRpb25dIHsKICAgICAgYXdhaXQocnVuKCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KGUuZ2V0TWVzc2FnZS5zdGFydHNXaXRoKCJUaGVyZSBpcyBubyBrZXkgJ0pQWT0nIikpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICBhd2FpdChydW4oKSkKLy8gICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcnVuKCkK</text>
+        <text encoding="base64">Ly8KLy8gICAgdmFsIGUgPSBpbnRlcmNlcHRbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search encoding="base64">XDxmaXhlZERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaXhlZERhdGVcPg==</last-pattern>
       <last-replace>RIC_JPY</last-replace>
       <last-substitute encoding="base64">XDxLRVlfSlBZXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reuters</entry>
         <entry>folio</entry>
         <entry>folio_services</entry>
         <entry>ftp</entry>
@@ -476,6 +481,7 @@
         <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
         <entry encoding="base64">XDxyZXFEVE9cPg==</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry encoding="base64">XDxmaXhlZERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VBcmdzXD4vUHV0RnhSYXRlUHJpY2VBcmdzL2c=</entry>
