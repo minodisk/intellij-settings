@@ -121,12 +121,12 @@
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" timestamp="1545715160169">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" timestamp="1545719701810">
         <mark key="'" line="10" column="7" />
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="19" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="32" />
+        <mark key="^" line="35" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/entrypoint/batch/src/main/scala/com/folio/robo_adv/gateway/entrypoints/batch/PutFxRateBatchMain.scala" timestamp="1545382680501">
         <mark key="[" line="2" column="69" />
@@ -177,7 +177,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1545715070142">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1545715450501">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="96" />
@@ -227,7 +227,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545715048977">
+      <file name="/Dummy.txt" timestamp="1545715172068">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -425,13 +425,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>手動で</text>
       </register>
       <register name="/" type="4">
         <text>robo-adv-gateway-batch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aHR0cHM6Ly9mb2xpby1zZWMuYXRsYXNzaWFuLm5ldC93aWtpL3NwYWNlcy9CQ0UvcGFnZXMvMTQ5ODgxNTI3L3JvYm8tYWR2Ky0rSVdJK1N0b3JhZ2UrLStGYWN0U2V0Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC8vIEZJWE1FIOWPluW+l+aZguWIu+OBq+OBpOOBhOOBpuOBr+WQiOaEj+OCkuOBqOOBo+OBn+W+jOOAgeWlkee0hOabuOOBruS/ruato+OBjOW/heimgQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
