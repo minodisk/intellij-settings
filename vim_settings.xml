@@ -119,6 +119,10 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateResponseAdapter.scala" timestamp="1544697636869">
         <mark key="'" line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/service/BankAccountService.scala" timestamp="1545726740894">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/jest.config.js" timestamp="1544691156462">
         <mark key="'" line="138" column="26" />
       </file>
@@ -198,7 +202,7 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="96" />
       </file>
-      <file name="/sbtShell" timestamp="1545206887462">
+      <file name="/sbtShell" timestamp="1545726769688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -247,7 +251,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545723479381">
+      <file name="/Dummy.txt" timestamp="1545727558384">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -458,10 +462,10 @@
         <text encoding="base64">LSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getUserWithdrawAccount</text>
       </register>
       <register name="0" type="4">
-        <text>WithdrawAmountValidationAll</text>
+        <text>getUserWithdrawAccount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjIyDml6XmnKzjga7mipXkv6Hjg5Pjgrjjg43jgrnlj7IKCg==</text>
@@ -495,17 +499,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>getUserWithdrawAccount</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>getUserWithdrawAccount</last-pattern>
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exception</entry>
         <entry>JPY=</entry>
         <entry>jpy_usd_delayed</entry>
         <entry encoding="base64">XDxSSUNfSlBZXD4=</entry>
@@ -525,6 +528,7 @@
         <entry>14</entry>
         <entry encoding="base64">XDzmipXkv6Hlp5ToqJfkvJrnpL7kubHnq4tcPg==</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>getUserWithdrawAccount</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
