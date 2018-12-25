@@ -172,8 +172,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1545384339414">
-        <mark key="'" line="6" column="12" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1545705125125">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="49" />
       </file>
@@ -300,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
       <jump line="2" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="0" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/README.md" />
@@ -400,6 +399,7 @@
       <jump line="49" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="6" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -448,7 +448,7 @@
         <text encoding="base64">Ly8KLy8gICAgdmFsIGUgPSBpbnRlcmNlcHRbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0gewo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -498,12 +498,12 @@
         <entry>%s/robo_adv_contract/reuters_thrift/g</entry>
         <entry>%s/etf-closing-price/fx-rate/g</entry>
         <entry>w:w</entry>
-        <entry>vs</entry>
-        <entry>e!</entry>
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>e!</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
