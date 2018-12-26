@@ -6,11 +6,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/prod_common.conf" timestamp="1545206765619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" timestamp="1545791596727">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" timestamp="1545797130797">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/staging.yaml" timestamp="1545206713937">
         <mark key="'" line="21" column="4" />
@@ -145,6 +146,12 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/glaph/jest.config.js" timestamp="1544691156462">
         <mark key="'" line="138" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/external/external.ts" timestamp="1545796734994">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/project/Dependencies.scala" timestamp="1545195251493">
         <mark key="'" line="112" column="53" />
@@ -315,11 +322,18 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545791192062">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545797085077">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/dist/index.html" timestamp="1545796783117">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545212556452">
         <mark key="'" line="10" column="37" />
@@ -369,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="20" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="21" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="38" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="125" column="13" filename="$USER_HOME$/.ivy2/cache/com.twitter/inject-app_2.12/srcs/inject-app_2.12-18.5.0-sources.jar!/com/twitter/inject/app/App.scala" />
@@ -469,6 +481,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/.gitignore" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" />
+      <jump line="4" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -491,49 +505,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>dmino@folio-sec.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ewogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAicGl4aS5qcyI6ICJeNC44LjQiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9waXhpLmpzIjogIl40LjguNiIsCiAgICAidHlwZXNjcmlwdCI6ICJeMy4yLjIiCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgInBpeGkuanMiOiAiXjQuOC40IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJAdHlwZXMvcGl4aS5qcyI6ICJeNC44LjYiLAogICAgInR5cGVzY3JpcHQiOiAiXjMuMi4yIgogIH0sCg==</text>
+        <text encoding="base64">ICAgICJtb2R1bGVSZXNvbHV0aW9uIjogIm5vZGUiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBdCn0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJub2RlX21vZHVsZXMiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2VNYXAiOiB0cnVlCiAgfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiLAogICAgInRhcmdldCI6ICJlczUiLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyMjIyDml6XmnKzjga7mipXkv6Hjg5Pjgrjjg43jgrnlj7IKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgInBpeGkuanMiOiAiXjQuOC40IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJAdHlwZXMvcGl4aS5qcyI6ICJeNC44LjYiLAogICAgInR5cGVzY3JpcHQiOiAiXjMuMi4yIgogIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBdCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJub2RlX21vZHVsZXMiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJzb3VyY2VNYXAiOiB0cnVlCiAgfSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiLAogICAgInRhcmdldCI6ICJlczUiLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci0g77yIMTg2OCDmtbflpJbmpI3msJHlnLDmipXkv6FieeODreODkOODvOODiOODleODrOODn+ODs+OCsO+8iQotIDE5NzQg5YCL5Lq65Z6L56K65a6a5oug5Ye65bm06YeR77yISVJB77yJ5Yi25bqm77yI44Ko44Oq44K15rOV77yJ6ZaL5aeLCi0gMTk3NSDmoKrlvI/lp5ToqJfmiYvmlbDmlpnoh6rnlLHljJbjgIHmipXkv6Hosqnlo7LmiYvmlbDmlpnjga7kvY7kuIsKLSAxOTc2IOODkOODs+OCrOODvOODieOBjOOCpOODs+ODh+ODg+OCr+OCueODleOCoeODs+ODieioreWumgotIDE5ODEg5LyB5qWt5Z6L56K65a6a5oug5Ye65bm06YeR5Yi25bqm77yINDAxa++8iemWi+WniwotIDE5ODItMjAwMCDjg5bjg6vjg57jg7zjgrHjg4Pjg4jjga7ntpnntpoKLSAxOTgw5bm05Luj5b6M5Y2KIOmKgOihjOeqk+iyqeino+emgQotIDE5OTDlubTku6Mg5aCF6Kq/44Gq57Gz5qCq77yL44Kz44Of44OD44K344On44Oz44OT44K444ON44K544GL44KJ44OV44Kj44O844OT44K444ON44K544G444Gu6Lui5o+b77yISUZB5Y+w6aCt77yJ77yLREPntYznlLHjga7mipXkv6Hosrfku5jmv4DlopcKLSAxOTkwIOODiOODreODs+ODiOiovOWIuOWPluW8leaJgOOBjEVURuOCkumWi+eZugotIDE5OTUg44K344Ol44Ov44OW44CB44Ki44Oh44Oq44OI44Os44O844OJ44GM44ON44OD44OI5Y+W5byV6ZaL5aeLCi0gMTk5NiDjg5XjgqHjgqTjg4rjg7Pjgrfjg6Pjg6vjgqjjg7Pjgrjjg7PjgrrlibXmpa0KLSAyMDAxIOODieODg+ODiOOCs+ODoOODkOODluODq+W0qeWjiuW+jOOBq+Wkp+aJi+ODquODhuODvOODq+iovOWIuO+8iOODoeODquODq+OAgeODouODq+OCueOCv+OAgeOCueODn+OCueODkOODvOODi+ODvO+8ieOBr+WvjOijleWxpOOAgeWkp+S8gealremHjeimlui3r+e3muOBq+OCt+ODleODiAotIDIwMDMg6LOH6YeR5rWB5YWl6aGN44GMRVRG77ye5YWs5Yuf5oqV5L+hCi0gMjAwNSDoh6rli5Xjg6rjg5Djg6njg7Pjgrnjgr3jg5Xjg4jjgYznmbvloLQKLSAyMDA2IDQwMWvmlLnpnanvvIjjg4fjg5Xjgqnjg6vjg4jjg5XjgqHjg7Pjg4nliLbjgIHjgqrjg5fjg4jjgqLjgqbjg4jliLbjgIHnqY3nq4vnjofjga7oh6rli5XkuIrmmIfoqK3lrprvvIkKLSAyMDA3IEJldHRlcm1lbnTlibXmpa0KLSAyMDA4IOODquODvOODnuODs+OCt+ODp+ODg+OCrwoKIyMjIyDop6PoqqwKCi0gMTk4MOW5tOS7o+S7pemZjeOAgTE5ODflubTjg5bjg6njg4Pjgq/jg57jg7Pjg4fjg7zjgIEyMDAx5bm0SVTjg5Djg5bjg6vltKnlo4rjgIEyMDA45bm044Oq44O844Oe44Oz44K344On44OD44Kv44Gq44Gp44Gu44Oe44O844Kx44OD44OI44Kv44Op44OD44K344Ol44Gv44GC44Gj44Gf44KC44Gu44Gu44CB57Gz5qCq44Gv5qW144KB44Gm5aCF6Kq/44Gr5o6o56e744GX44Gf44CC44CM6Ieq5Zu95qCq44KS6LK344GI44Gw5YSy44GL44KL44CN44Go44GE44GG5oiQ5Yqf5L2T6aiT44GM6Ya45oiQ44GV44KM44Gf44CCCiAgICAtIOKGkuaXpeacrOS6uuOBrzE5ODnlubTjga7jg5Djg5bjg6vltKnlo4rku6XpmY3jgafml6XmnKzmoKrjgafmiJDlip/kvZPpqJPjgpLnqY3jgoHjgabjgYTjgarjgYTjgIIKLSDjg5zjg6rjg6Xjg7zjg6Djgr7jg7zjg7PjgaDjgaPjgZ/jgIzjg5njg5Pjg7zjg5bjg7zjg57jg7zkuJbku6PjgI3jga7os4fnlKPlvaLmiJDjg4vjg7zjgrrjgajjgYTjgYblt6jlpKfjgarjg57jg7zjgrHjg4Pjg4jjgYzjgYLjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn44Gv44CM6LOH55Sj5b2i5oiQ5LiW5Luj44CN44KI44KK44KC44CB44GC44KL56iL5bqm44GK6YeR44KS5oyB44Gj44Gm44GE44KL6auY6b2i6ICF44GM5bCR44GX44Gn44KC6ZW344GP6LOH6YeR44KS5L2/44GE44Gf44GE44CM6LOH55Sj5rS755So5LiW5Luj44CN44GM44Oh44Kk44Oz44CCCi0g6ICB5b6M44Gu44GT44Go44Gv5Zu944Gn44Gv44Gq44GP5YCL5Lq644Gn5YKZ44GI44KL44G544GN44Go44GE44GG5oCd5oOz44Gu44KC44GoREPlubTph5HvvIjnorrlrprmi6Dlh7rlubTph5HvvInliLbluqbjgYzml6nmnJ/jgYvjgonmlbTlgpnjgZXjgozjgZ/jgIIxOTc05bm044GrSVJB5Yi25bqm77yI5YCL5Lq65Z6LREPjgIHml6XmnKzjga5pRGVDb+OBq+ebuOW9k++8ieOAgTE5ODHlubTjgas0MDFr5Yi25bqm77yI5LyB5qWt5Z6LREPvvInjgYzoqK3nq4vjgIIyMDA25bm044Gr44Gv44CB6Ieq5YiG6Kit5a6a44KS5aSJ44GI44Gq44GE6ZmQ44KK44Gv77yI44Kq44OX44OI44Ki44Km44OI5Yi244Gn77yJ44OH44OV44Kp44Or44OI44Gn44OQ44Op44Oz44K55Z6L5oqV5L+hL+OCv+ODvOOCsuODg+ODiOODh+ODvOODiOWei+aKleS/oeOBquOBqeOCkuW8t+WItueahOOBq+epjeeri+izvOWFpeOBmeOCi+WItuW6puOBq+OBl+OBn+OAguepjeeri+eOh+OCguW8t+WItueahOOBq+ioreWumuOAguexs+agquOBruWgheiqv+OBquaOqOenu+OCguaJi+S8neOBhOOAgeWkmuOBj+OBruWAi+S6uuOBjOmVt+acn+epjeeri+aKleizh+OBruaIkOWKn+S9k+mok+OCkuepjeOBv+OAgUlSQeOChDQwMWvntYznlLHjgafjga7mipXkv6Hos7zlhaXjgYznsbPmoKrjga7lvLflipvjgarosrfjgYTmlK/jgYjjgavjgoLjgarjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn5LyB5qWt5Z6LREPjgYzjga/jgZjjgb7jgaPjgZ/jga7jga8yMDAx5bm044CB5YCL5Lq65Z6LREPvvIhpRGVDb++8ieOBq+iHs+OBo+OBpuOBrzIwMTflubTjgIJEQ+WItuW6puaVtOWCmeOBq+OBpOOBhOOBpuOBr+OCouODoeODquOCq+OCiOOCijMw5bm044Gv6YGF44KM44Gm44GE44KL44CC5pel5pys44Gn44Gv44CB5LyB5qWt5bm06YeR44Gr44Gk44GE44Gm44Gv44CBRELvvIjnorrlrprntabku5jlnovvvInlubTph5HjgYzmmKjku4rjgb7jgafkuLvmtYHjgILjgaTjgb7jgorjgIHmgJ3mg7PjgajjgZfjgabjga/jg6rjgrnjgq/jga/lgIvkurrjgafjga/jgarjgY/kvIHmpa3jgYzjgajjgovjgbnjgY3jgajjgYTjgYbjgoLjga7jgaDjgaPjgZ/jgIIKLSDjgqLjg6Hjg6rjgqvjgafjga/jgIFEQ+W5tOmHkeWItuW6puOBruaZruWPiuOBq+S8tOOBhOOAgeiJr+izquOBi+OBpOS4reeri+eahOOBquOAjOaKleizh+OCouODieODkOOCpOOCueOAjeOCkuaxguOCgeOCi+WLleOBjeOBjOWHuuOBpuOBjeOBn+OAguOBk+OCjOOBjOOAgUlGQe+8iOeLrOeri+ezu+ODleOCoeOCpOODiuODs+OCt+ODo+ODq+OCouODieODkOOCpOOCtuODvO+8ieOBruWPsOmgreOBq+e5i+OBjOOCiuOAgemhp+WuouacrOS9jeOBq+OBquOCi+OBk+OBqOOBjOe1kOaenOeahOOBq+ODk+OCuOODjeOCue+8iOmBi+eUqOaui+mrmO+8ieOBruaLoeWkp+OBq+e5i+OBjOOCi+OCueODiOODg+OCr+Wei+ODk+OCuOODjeOCueODouODh+ODq+OBp+OBguOBo+OBn+OBk+OBqOOBi+OCieOAgeS9juOCs+OCueODiOWVhuWTge+8iOOCpOODs+ODh+ODg+OCr+OCueaKleS/oeOChEVURu+8ieOCkuODleOCoeODs+ODieODl+ODqeODg+ODiOODleOCqeODvOODoO+8iOaXpeacrOOBp+OBhOOBhuODjeODg+ODiOiovOWIuO+8ieOCkumAmuOBmOOBpuizvOWFpeOBmeOCi+WLleOBjeOBjOaLoeWkp+OBl+OBpuOBhOOBo+OBn+OAggogICAgLSDihpLml6XmnKzjgafjga/jgIHoia/os6rjgarjgqLjg4njg5DjgqTjgrnjgavjgYrph5HjgpLmiZXjgYbjgajjgYTjgYbmlofljJbjgYzphrjmiJDjgZXjgozjgabjgYTjgarjgYTjgILmnIDov5HjgafjgZPjgZ3jgIFJRkHntYznlLHjgoTnm7TosqnmipXkv6HjgYznm5vjgorkuIrjgYzjgorjgpLopovjgZvjgabjgYTjgovjgYzjgIHjgb7jgaDjgb7jgaDkuLvopoHjgarosqnlo7Ljg4Hjg6Pjg43jg6vjga/pioDooYzjgoToqLzliLjkvJrnpL7jgpLpgJrjgZjjgZ/jgoLjga7jgafjgYLjgorjgIHjg5Xjg63jg7zlnovjg5Pjgrjjg43jgrnjg6Ljg4fjg6vjgavnlJjjgpPjgZjjgabjgYTjgovjgIIK</text>
+        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -541,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FxRate</entry>
         <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
         <entry encoding="base64">XDxyZXFEVE9cPg==</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
@@ -561,6 +574,7 @@
         <entry encoding="base64">XDxnZXRPclVua25vd25cPg==</entry>
         <entry encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</entry>
         <entry>idea</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
@@ -579,10 +593,10 @@
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>e!</entry>
         <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>e!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
