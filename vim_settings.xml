@@ -11,8 +11,8 @@
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/model/BankAccount.scala" timestamp="1545724953651">
-        <mark key="'" line="26" column="4" />
+      <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/model/BankAccount.scala" timestamp="1545787439355">
+        <mark key="'" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/local.conf" timestamp="1545206875208">
         <mark key="[" line="25" column="20" />
@@ -276,6 +276,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" timestamp="1545787490711">
+        <mark key="'" line="100" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/util/util-ftp/src/main/scala/com/folio/util/sftp/SftpClient.scala" timestamp="1544764563404">
         <mark key="'" line="40" column="80" />
       </file>
@@ -337,12 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
-      <jump line="16" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
-      <jump line="11" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
-      <jump line="13" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="52" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
-      <jump line="3" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
       <jump line="12" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
       <jump line="54" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
@@ -437,6 +434,12 @@
       <jump line="8" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20181221.md" />
       <jump line="23" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20181221.md" />
       <jump line="56" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20181221.md" />
+      <jump line="29" column="9" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/account/model/BankAccount.scala" />
+      <jump line="97" column="6" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
+      <jump line="72" column="13" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
+      <jump line="73" column="24" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
+      <jump line="93" column="16" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
+      <jump line="100" column="32" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -462,7 +465,7 @@
         <text encoding="base64">LSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIA==</text>
       </register>
       <register name="/" type="4">
-        <text>getUserWithdrawAccount</text>
+        <text encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</text>
       </register>
       <register name="0" type="4">
         <text>getUserWithdrawAccount</text>
@@ -499,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUserWithdrawAccount</last-search>
+      <last-search encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>getUserWithdrawAccount</last-pattern>
+      <last-pattern encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</last-pattern>
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -509,9 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>JPY=</entry>
-        <entry>jpy_usd_delayed</entry>
-        <entry encoding="base64">XDxSSUNfSlBZXD4=</entry>
         <entry>toString</entry>
         <entry>FxRate</entry>
         <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
@@ -529,6 +529,9 @@
         <entry encoding="base64">XDzmipXkv6Hlp5ToqJfkvJrnpL7kubHnq4tcPg==</entry>
         <entry encoding="base64">IA==</entry>
         <entry>getUserWithdrawAccount</entry>
+        <entry>deserialize</entry>
+        <entry encoding="base64">XDxnZXRPclVua25vd25cPg==</entry>
+        <entry encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
