@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/resources/env/prod_common.conf" timestamp="1545206765619">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" timestamp="1545791596727">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/config/staging.yaml" timestamp="1545206713937">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="18" column="12" />
@@ -51,6 +57,13 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Enums.js" timestamp="1545012528270">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" timestamp="1545791417263">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_tv/20181214.md" timestamp="1545107891079">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -67,6 +80,13 @@
         <mark key="'" line="5" column="30" />
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/.gitignore" timestamp="1545791510379">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="64" column="4" />
+        <mark key="^" line="64" column="4" />
+        <mark key="." line="64" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" timestamp="1545022054127">
         <mark key="'" line="74" column="28" />
@@ -242,6 +262,9 @@
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="38" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1545791620993">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/model/fx_rate/ReutersFxRate.scala" timestamp="1545034929778">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="29" />
@@ -251,7 +274,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/account_exception_types.js" timestamp="1544496300748">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545727558384">
+      <file name="/Dummy.txt" timestamp="1545791048157">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -291,6 +314,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_discretionary_investment_contract.groovy" timestamp="1545712168321">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545791192062">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/reuters/service/fx_rate/ReutersFxRateService.scala" timestamp="1545212556452">
         <mark key="'" line="10" column="37" />
@@ -340,10 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/RoboAdvGatewayServer.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" />
-      <jump line="4" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="18" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="20" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
       <jump line="21" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatch.scala" />
@@ -440,6 +465,10 @@
       <jump line="73" column="24" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
       <jump line="93" column="16" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
       <jump line="100" column="32" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -462,49 +491,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIA==</text>
+        <text>dmino@folio-sec.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</text>
+        <text>idea</text>
       </register>
-      <register name="0" type="4">
-        <text>getUserWithdrawAccount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ewogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAicGl4aS5qcyI6ICJeNC44LjQiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9waXhpLmpzIjogIl40LjguNiIsCiAgICAidHlwZXNjcmlwdCI6ICJeMy4yLjIiCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyDml6XmnKzjga7mipXkv6Hjg5Pjgrjjg43jgrnlj7IKCg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgInBpeGkuanMiOiAiXjQuOC40IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJAdHlwZXMvcGl4aS5qcyI6ICJeNC44LjYiLAogICAgInR5cGVzY3JpcHQiOiAiXjMuMi4yIgogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBdCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci0g77yIMTg2OCDmtbflpJbmpI3msJHlnLDmipXkv6FieeODreODkOODvOODiOODleODrOODn+ODs+OCsO+8iQotIDE5NzQg5YCL5Lq65Z6L56K65a6a5oug5Ye65bm06YeR77yISVJB77yJ5Yi25bqm77yI44Ko44Oq44K15rOV77yJ6ZaL5aeLCi0gMTk3NSDmoKrlvI/lp5ToqJfmiYvmlbDmlpnoh6rnlLHljJbjgIHmipXkv6Hosqnlo7LmiYvmlbDmlpnjga7kvY7kuIsKLSAxOTc2IOODkOODs+OCrOODvOODieOBjOOCpOODs+ODh+ODg+OCr+OCueODleOCoeODs+ODieioreWumgotIDE5ODEg5LyB5qWt5Z6L56K65a6a5oug5Ye65bm06YeR5Yi25bqm77yINDAxa++8iemWi+WniwotIDE5ODItMjAwMCDjg5bjg6vjg57jg7zjgrHjg4Pjg4jjga7ntpnntpoKLSAxOTgw5bm05Luj5b6M5Y2KIOmKgOihjOeqk+iyqeino+emgQotIDE5OTDlubTku6Mg5aCF6Kq/44Gq57Gz5qCq77yL44Kz44Of44OD44K344On44Oz44OT44K444ON44K544GL44KJ44OV44Kj44O844OT44K444ON44K544G444Gu6Lui5o+b77yISUZB5Y+w6aCt77yJ77yLREPntYznlLHjga7mipXkv6Hosrfku5jmv4DlopcKLSAxOTkwIOODiOODreODs+ODiOiovOWIuOWPluW8leaJgOOBjEVURuOCkumWi+eZugotIDE5OTUg44K344Ol44Ov44OW44CB44Ki44Oh44Oq44OI44Os44O844OJ44GM44ON44OD44OI5Y+W5byV6ZaL5aeLCi0gMTk5NiDjg5XjgqHjgqTjg4rjg7Pjgrfjg6Pjg6vjgqjjg7Pjgrjjg7PjgrrlibXmpa0KLSAyMDAxIOODieODg+ODiOOCs+ODoOODkOODluODq+W0qeWjiuW+jOOBq+Wkp+aJi+ODquODhuODvOODq+iovOWIuO+8iOODoeODquODq+OAgeODouODq+OCueOCv+OAgeOCueODn+OCueODkOODvOODi+ODvO+8ieOBr+WvjOijleWxpOOAgeWkp+S8gealremHjeimlui3r+e3muOBq+OCt+ODleODiAotIDIwMDMg6LOH6YeR5rWB5YWl6aGN44GMRVRG77ye5YWs5Yuf5oqV5L+hCi0gMjAwNSDoh6rli5Xjg6rjg5Djg6njg7Pjgrnjgr3jg5Xjg4jjgYznmbvloLQKLSAyMDA2IDQwMWvmlLnpnanvvIjjg4fjg5Xjgqnjg6vjg4jjg5XjgqHjg7Pjg4nliLbjgIHjgqrjg5fjg4jjgqLjgqbjg4jliLbjgIHnqY3nq4vnjofjga7oh6rli5XkuIrmmIfoqK3lrprvvIkKLSAyMDA3IEJldHRlcm1lbnTlibXmpa0KLSAyMDA4IOODquODvOODnuODs+OCt+ODp+ODg+OCrwoKIyMjIyDop6PoqqwKCi0gMTk4MOW5tOS7o+S7pemZjeOAgTE5ODflubTjg5bjg6njg4Pjgq/jg57jg7Pjg4fjg7zjgIEyMDAx5bm0SVTjg5Djg5bjg6vltKnlo4rjgIEyMDA45bm044Oq44O844Oe44Oz44K344On44OD44Kv44Gq44Gp44Gu44Oe44O844Kx44OD44OI44Kv44Op44OD44K344Ol44Gv44GC44Gj44Gf44KC44Gu44Gu44CB57Gz5qCq44Gv5qW144KB44Gm5aCF6Kq/44Gr5o6o56e744GX44Gf44CC44CM6Ieq5Zu95qCq44KS6LK344GI44Gw5YSy44GL44KL44CN44Go44GE44GG5oiQ5Yqf5L2T6aiT44GM6Ya45oiQ44GV44KM44Gf44CCCiAgICAtIOKGkuaXpeacrOS6uuOBrzE5ODnlubTjga7jg5Djg5bjg6vltKnlo4rku6XpmY3jgafml6XmnKzmoKrjgafmiJDlip/kvZPpqJPjgpLnqY3jgoHjgabjgYTjgarjgYTjgIIKLSDjg5zjg6rjg6Xjg7zjg6Djgr7jg7zjg7PjgaDjgaPjgZ/jgIzjg5njg5Pjg7zjg5bjg7zjg57jg7zkuJbku6PjgI3jga7os4fnlKPlvaLmiJDjg4vjg7zjgrrjgajjgYTjgYblt6jlpKfjgarjg57jg7zjgrHjg4Pjg4jjgYzjgYLjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn44Gv44CM6LOH55Sj5b2i5oiQ5LiW5Luj44CN44KI44KK44KC44CB44GC44KL56iL5bqm44GK6YeR44KS5oyB44Gj44Gm44GE44KL6auY6b2i6ICF44GM5bCR44GX44Gn44KC6ZW344GP6LOH6YeR44KS5L2/44GE44Gf44GE44CM6LOH55Sj5rS755So5LiW5Luj44CN44GM44Oh44Kk44Oz44CCCi0g6ICB5b6M44Gu44GT44Go44Gv5Zu944Gn44Gv44Gq44GP5YCL5Lq644Gn5YKZ44GI44KL44G544GN44Go44GE44GG5oCd5oOz44Gu44KC44GoREPlubTph5HvvIjnorrlrprmi6Dlh7rlubTph5HvvInliLbluqbjgYzml6nmnJ/jgYvjgonmlbTlgpnjgZXjgozjgZ/jgIIxOTc05bm044GrSVJB5Yi25bqm77yI5YCL5Lq65Z6LREPjgIHml6XmnKzjga5pRGVDb+OBq+ebuOW9k++8ieOAgTE5ODHlubTjgas0MDFr5Yi25bqm77yI5LyB5qWt5Z6LREPvvInjgYzoqK3nq4vjgIIyMDA25bm044Gr44Gv44CB6Ieq5YiG6Kit5a6a44KS5aSJ44GI44Gq44GE6ZmQ44KK44Gv77yI44Kq44OX44OI44Ki44Km44OI5Yi244Gn77yJ44OH44OV44Kp44Or44OI44Gn44OQ44Op44Oz44K55Z6L5oqV5L+hL+OCv+ODvOOCsuODg+ODiOODh+ODvOODiOWei+aKleS/oeOBquOBqeOCkuW8t+WItueahOOBq+epjeeri+izvOWFpeOBmeOCi+WItuW6puOBq+OBl+OBn+OAguepjeeri+eOh+OCguW8t+WItueahOOBq+ioreWumuOAguexs+agquOBruWgheiqv+OBquaOqOenu+OCguaJi+S8neOBhOOAgeWkmuOBj+OBruWAi+S6uuOBjOmVt+acn+epjeeri+aKleizh+OBruaIkOWKn+S9k+mok+OCkuepjeOBv+OAgUlSQeOChDQwMWvntYznlLHjgafjga7mipXkv6Hos7zlhaXjgYznsbPmoKrjga7lvLflipvjgarosrfjgYTmlK/jgYjjgavjgoLjgarjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn5LyB5qWt5Z6LREPjgYzjga/jgZjjgb7jgaPjgZ/jga7jga8yMDAx5bm044CB5YCL5Lq65Z6LREPvvIhpRGVDb++8ieOBq+iHs+OBo+OBpuOBrzIwMTflubTjgIJEQ+WItuW6puaVtOWCmeOBq+OBpOOBhOOBpuOBr+OCouODoeODquOCq+OCiOOCijMw5bm044Gv6YGF44KM44Gm44GE44KL44CC5pel5pys44Gn44Gv44CB5LyB5qWt5bm06YeR44Gr44Gk44GE44Gm44Gv44CBRELvvIjnorrlrprntabku5jlnovvvInlubTph5HjgYzmmKjku4rjgb7jgafkuLvmtYHjgILjgaTjgb7jgorjgIHmgJ3mg7PjgajjgZfjgabjga/jg6rjgrnjgq/jga/lgIvkurrjgafjga/jgarjgY/kvIHmpa3jgYzjgajjgovjgbnjgY3jgajjgYTjgYbjgoLjga7jgaDjgaPjgZ/jgIIKLSDjgqLjg6Hjg6rjgqvjgafjga/jgIFEQ+W5tOmHkeWItuW6puOBruaZruWPiuOBq+S8tOOBhOOAgeiJr+izquOBi+OBpOS4reeri+eahOOBquOAjOaKleizh+OCouODieODkOOCpOOCueOAjeOCkuaxguOCgeOCi+WLleOBjeOBjOWHuuOBpuOBjeOBn+OAguOBk+OCjOOBjOOAgUlGQe+8iOeLrOeri+ezu+ODleOCoeOCpOODiuODs+OCt+ODo+ODq+OCouODieODkOOCpOOCtuODvO+8ieOBruWPsOmgreOBq+e5i+OBjOOCiuOAgemhp+WuouacrOS9jeOBq+OBquOCi+OBk+OBqOOBjOe1kOaenOeahOOBq+ODk+OCuOODjeOCue+8iOmBi+eUqOaui+mrmO+8ieOBruaLoeWkp+OBq+e5i+OBjOOCi+OCueODiOODg+OCr+Wei+ODk+OCuOODjeOCueODouODh+ODq+OBp+OBguOBo+OBn+OBk+OBqOOBi+OCieOAgeS9juOCs+OCueODiOWVhuWTge+8iOOCpOODs+ODh+ODg+OCr+OCueaKleS/oeOChEVURu+8ieOCkuODleOCoeODs+ODieODl+ODqeODg+ODiOODleOCqeODvOODoO+8iOaXpeacrOOBp+OBhOOBhuODjeODg+ODiOiovOWIuO+8ieOCkumAmuOBmOOBpuizvOWFpeOBmeOCi+WLleOBjeOBjOaLoeWkp+OBl+OBpuOBhOOBo+OBn+OAggogICAgLSDihpLml6XmnKzjgafjga/jgIHoia/os6rjgarjgqLjg4njg5DjgqTjgrnjgavjgYrph5HjgpLmiZXjgYbjgajjgYTjgYbmlofljJbjgYzphrjmiJDjgZXjgozjgabjgYTjgarjgYTjgILmnIDov5HjgafjgZPjgZ3jgIFJRkHntYznlLHjgoTnm7TosqnmipXkv6HjgYznm5vjgorkuIrjgYzjgorjgpLopovjgZvjgabjgYTjgovjgYzjgIHjgb7jgaDjgb7jgaDkuLvopoHjgarosqnlo7Ljg4Hjg6Pjg43jg6vjga/pioDooYzjgoToqLzliLjkvJrnpL7jgpLpgJrjgZjjgZ/jgoLjga7jgafjgYLjgorjgIHjg5Xjg63jg7zlnovjg5Pjgrjjg43jgrnjg6Ljg4fjg6vjgavnlJjjgpPjgZjjgabjgYTjgovjgIIK</text>
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJub2RlX21vZHVsZXMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzb3VyY2VNYXAiOiB0cnVlCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">54K65pu/44Os44O844OI44KSSVdJ6YCj5pC644Gu44Gf44KB44GrUzPjgavnva7jgY/jg5Djg4Pjg4EK</text>
+        <text encoding="base64">ICAgICJtb2R1bGUiOiAiY29tbW9uanMiLAogICAgInRhcmdldCI6ICJlczUiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicm9iby1hZHYtZngtcmF0ZSIsCg==</text>
+        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSb2JvQWR2QmF0Y2hKb2IuSk9CX05BTUVfU0VORF9PUkRFUiwK</text>
+        <text encoding="base64">IyMjIyDml6XmnKzjga7mipXkv6Hjg5Pjgrjjg43jgrnlj7IKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImZ4UmF0ZURhdGUiIC0+IGZpeGVkRGF0ZS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIuSVNPX0xPQ0FMX0RBVEUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0g77yIMTg2OCDmtbflpJbmpI3msJHlnLDmipXkv6FieeODreODkOODvOODiOODleODrOODn+ODs+OCsO+8iQotIDE5NzQg5YCL5Lq65Z6L56K65a6a5oug5Ye65bm06YeR77yISVJB77yJ5Yi25bqm77yI44Ko44Oq44K15rOV77yJ6ZaL5aeLCi0gMTk3NSDmoKrlvI/lp5ToqJfmiYvmlbDmlpnoh6rnlLHljJbjgIHmipXkv6Hosqnlo7LmiYvmlbDmlpnjga7kvY7kuIsKLSAxOTc2IOODkOODs+OCrOODvOODieOBjOOCpOODs+ODh+ODg+OCr+OCueODleOCoeODs+ODieioreWumgotIDE5ODEg5LyB5qWt5Z6L56K65a6a5oug5Ye65bm06YeR5Yi25bqm77yINDAxa++8iemWi+WniwotIDE5ODItMjAwMCDjg5bjg6vjg57jg7zjgrHjg4Pjg4jjga7ntpnntpoKLSAxOTgw5bm05Luj5b6M5Y2KIOmKgOihjOeqk+iyqeino+emgQotIDE5OTDlubTku6Mg5aCF6Kq/44Gq57Gz5qCq77yL44Kz44Of44OD44K344On44Oz44OT44K444ON44K544GL44KJ44OV44Kj44O844OT44K444ON44K544G444Gu6Lui5o+b77yISUZB5Y+w6aCt77yJ77yLREPntYznlLHjga7mipXkv6Hosrfku5jmv4DlopcKLSAxOTkwIOODiOODreODs+ODiOiovOWIuOWPluW8leaJgOOBjEVURuOCkumWi+eZugotIDE5OTUg44K344Ol44Ov44OW44CB44Ki44Oh44Oq44OI44Os44O844OJ44GM44ON44OD44OI5Y+W5byV6ZaL5aeLCi0gMTk5NiDjg5XjgqHjgqTjg4rjg7Pjgrfjg6Pjg6vjgqjjg7Pjgrjjg7PjgrrlibXmpa0KLSAyMDAxIOODieODg+ODiOOCs+ODoOODkOODluODq+W0qeWjiuW+jOOBq+Wkp+aJi+ODquODhuODvOODq+iovOWIuO+8iOODoeODquODq+OAgeODouODq+OCueOCv+OAgeOCueODn+OCueODkOODvOODi+ODvO+8ieOBr+WvjOijleWxpOOAgeWkp+S8gealremHjeimlui3r+e3muOBq+OCt+ODleODiAotIDIwMDMg6LOH6YeR5rWB5YWl6aGN44GMRVRG77ye5YWs5Yuf5oqV5L+hCi0gMjAwNSDoh6rli5Xjg6rjg5Djg6njg7Pjgrnjgr3jg5Xjg4jjgYznmbvloLQKLSAyMDA2IDQwMWvmlLnpnanvvIjjg4fjg5Xjgqnjg6vjg4jjg5XjgqHjg7Pjg4nliLbjgIHjgqrjg5fjg4jjgqLjgqbjg4jliLbjgIHnqY3nq4vnjofjga7oh6rli5XkuIrmmIfoqK3lrprvvIkKLSAyMDA3IEJldHRlcm1lbnTlibXmpa0KLSAyMDA4IOODquODvOODnuODs+OCt+ODp+ODg+OCrwoKIyMjIyDop6PoqqwKCi0gMTk4MOW5tOS7o+S7pemZjeOAgTE5ODflubTjg5bjg6njg4Pjgq/jg57jg7Pjg4fjg7zjgIEyMDAx5bm0SVTjg5Djg5bjg6vltKnlo4rjgIEyMDA45bm044Oq44O844Oe44Oz44K344On44OD44Kv44Gq44Gp44Gu44Oe44O844Kx44OD44OI44Kv44Op44OD44K344Ol44Gv44GC44Gj44Gf44KC44Gu44Gu44CB57Gz5qCq44Gv5qW144KB44Gm5aCF6Kq/44Gr5o6o56e744GX44Gf44CC44CM6Ieq5Zu95qCq44KS6LK344GI44Gw5YSy44GL44KL44CN44Go44GE44GG5oiQ5Yqf5L2T6aiT44GM6Ya45oiQ44GV44KM44Gf44CCCiAgICAtIOKGkuaXpeacrOS6uuOBrzE5ODnlubTjga7jg5Djg5bjg6vltKnlo4rku6XpmY3jgafml6XmnKzmoKrjgafmiJDlip/kvZPpqJPjgpLnqY3jgoHjgabjgYTjgarjgYTjgIIKLSDjg5zjg6rjg6Xjg7zjg6Djgr7jg7zjg7PjgaDjgaPjgZ/jgIzjg5njg5Pjg7zjg5bjg7zjg57jg7zkuJbku6PjgI3jga7os4fnlKPlvaLmiJDjg4vjg7zjgrrjgajjgYTjgYblt6jlpKfjgarjg57jg7zjgrHjg4Pjg4jjgYzjgYLjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn44Gv44CM6LOH55Sj5b2i5oiQ5LiW5Luj44CN44KI44KK44KC44CB44GC44KL56iL5bqm44GK6YeR44KS5oyB44Gj44Gm44GE44KL6auY6b2i6ICF44GM5bCR44GX44Gn44KC6ZW344GP6LOH6YeR44KS5L2/44GE44Gf44GE44CM6LOH55Sj5rS755So5LiW5Luj44CN44GM44Oh44Kk44Oz44CCCi0g6ICB5b6M44Gu44GT44Go44Gv5Zu944Gn44Gv44Gq44GP5YCL5Lq644Gn5YKZ44GI44KL44G544GN44Go44GE44GG5oCd5oOz44Gu44KC44GoREPlubTph5HvvIjnorrlrprmi6Dlh7rlubTph5HvvInliLbluqbjgYzml6nmnJ/jgYvjgonmlbTlgpnjgZXjgozjgZ/jgIIxOTc05bm044GrSVJB5Yi25bqm77yI5YCL5Lq65Z6LREPjgIHml6XmnKzjga5pRGVDb+OBq+ebuOW9k++8ieOAgTE5ODHlubTjgas0MDFr5Yi25bqm77yI5LyB5qWt5Z6LREPvvInjgYzoqK3nq4vjgIIyMDA25bm044Gr44Gv44CB6Ieq5YiG6Kit5a6a44KS5aSJ44GI44Gq44GE6ZmQ44KK44Gv77yI44Kq44OX44OI44Ki44Km44OI5Yi244Gn77yJ44OH44OV44Kp44Or44OI44Gn44OQ44Op44Oz44K55Z6L5oqV5L+hL+OCv+ODvOOCsuODg+ODiOODh+ODvOODiOWei+aKleS/oeOBquOBqeOCkuW8t+WItueahOOBq+epjeeri+izvOWFpeOBmeOCi+WItuW6puOBq+OBl+OBn+OAguepjeeri+eOh+OCguW8t+WItueahOOBq+ioreWumuOAguexs+agquOBruWgheiqv+OBquaOqOenu+OCguaJi+S8neOBhOOAgeWkmuOBj+OBruWAi+S6uuOBjOmVt+acn+epjeeri+aKleizh+OBruaIkOWKn+S9k+mok+OCkuepjeOBv+OAgUlSQeOChDQwMWvntYznlLHjgafjga7mipXkv6Hos7zlhaXjgYznsbPmoKrjga7lvLflipvjgarosrfjgYTmlK/jgYjjgavjgoLjgarjgaPjgZ/jgIIKICAgIC0g4oaS5pel5pys44Gn5LyB5qWt5Z6LREPjgYzjga/jgZjjgb7jgaPjgZ/jga7jga8yMDAx5bm044CB5YCL5Lq65Z6LREPvvIhpRGVDb++8ieOBq+iHs+OBo+OBpuOBrzIwMTflubTjgIJEQ+WItuW6puaVtOWCmeOBq+OBpOOBhOOBpuOBr+OCouODoeODquOCq+OCiOOCijMw5bm044Gv6YGF44KM44Gm44GE44KL44CC5pel5pys44Gn44Gv44CB5LyB5qWt5bm06YeR44Gr44Gk44GE44Gm44Gv44CBRELvvIjnorrlrprntabku5jlnovvvInlubTph5HjgYzmmKjku4rjgb7jgafkuLvmtYHjgILjgaTjgb7jgorjgIHmgJ3mg7PjgajjgZfjgabjga/jg6rjgrnjgq/jga/lgIvkurrjgafjga/jgarjgY/kvIHmpa3jgYzjgajjgovjgbnjgY3jgajjgYTjgYbjgoLjga7jgaDjgaPjgZ/jgIIKLSDjgqLjg6Hjg6rjgqvjgafjga/jgIFEQ+W5tOmHkeWItuW6puOBruaZruWPiuOBq+S8tOOBhOOAgeiJr+izquOBi+OBpOS4reeri+eahOOBquOAjOaKleizh+OCouODieODkOOCpOOCueOAjeOCkuaxguOCgeOCi+WLleOBjeOBjOWHuuOBpuOBjeOBn+OAguOBk+OCjOOBjOOAgUlGQe+8iOeLrOeri+ezu+ODleOCoeOCpOODiuODs+OCt+ODo+ODq+OCouODieODkOOCpOOCtuODvO+8ieOBruWPsOmgreOBq+e5i+OBjOOCiuOAgemhp+WuouacrOS9jeOBq+OBquOCi+OBk+OBqOOBjOe1kOaenOeahOOBq+ODk+OCuOODjeOCue+8iOmBi+eUqOaui+mrmO+8ieOBruaLoeWkp+OBq+e5i+OBjOOCi+OCueODiOODg+OCr+Wei+ODk+OCuOODjeOCueODouODh+ODq+OBp+OBguOBo+OBn+OBk+OBqOOBi+OCieOAgeS9juOCs+OCueODiOWVhuWTge+8iOOCpOODs+ODh+ODg+OCr+OCueaKleS/oeOChEVURu+8ieOCkuODleOCoeODs+ODieODl+ODqeODg+ODiOODleOCqeODvOODoO+8iOaXpeacrOOBp+OBhOOBhuODjeODg+ODiOiovOWIuO+8ieOCkumAmuOBmOOBpuizvOWFpeOBmeOCi+WLleOBjeOBjOaLoeWkp+OBl+OBpuOBhOOBo+OBn+OAggogICAgLSDihpLml6XmnKzjgafjga/jgIHoia/os6rjgarjgqLjg4njg5DjgqTjgrnjgavjgYrph5HjgpLmiZXjgYbjgajjgYTjgYbmlofljJbjgYzphrjmiJDjgZXjgozjgabjgYTjgarjgYTjgILmnIDov5HjgafjgZPjgZ3jgIFJRkHntYznlLHjgoTnm7TosqnmipXkv6HjgYznm5vjgorkuIrjgYzjgorjgpLopovjgZvjgabjgYTjgovjgYzjgIHjgb7jgaDjgb7jgaDkuLvopoHjgarosqnlo7Ljg4Hjg6Pjg43jg6vjga/pioDooYzjgoToqLzliLjkvJrnpL7jgpLpgJrjgZjjgZ/jgoLjga7jgafjgYLjgorjgIHjg5Xjg63jg7zlnovjg5Pjgrjjg43jgrnjg6Ljg4fjg6vjgavnlJjjgpPjgZjjgabjgYTjgovjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>FxRate</entry>
         <entry encoding="base64">XDxJd2lTeW5jRnhSYXRlXD4=</entry>
         <entry encoding="base64">XDxyZXFEVE9cPg==</entry>
@@ -532,6 +560,7 @@
         <entry>deserialize</entry>
         <entry encoding="base64">XDxnZXRPclVua25vd25cPg==</entry>
         <entry encoding="base64">XDxFbnVtVW5rbm93bkJhbmtBY2NvdW50VHlwZVw+</entry>
+        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>

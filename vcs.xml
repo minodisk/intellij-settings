@@ -54,8 +54,12 @@
           <option name="url" value="git@gitlab.folio-sec.com:Folio/reuters.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:minodisk/generative.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/gitlab.com/Folio" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/github.com/minodisk" />
   </component>
 </application>
