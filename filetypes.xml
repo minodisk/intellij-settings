@@ -3,7 +3,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="tslint.json" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="DiscretionaryInvestmentContract.yml" type="PLAIN_TEXT" />
+      <mapping pattern="lisence" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
