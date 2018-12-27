@@ -84,12 +84,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545877916888">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545897247191">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="58" column="23" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="86" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateResponseAdapter.scala" timestamp="1544697636869">
         <mark key="'" line="12" column="28" />
@@ -378,40 +378,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRNb2RlbE1ldGFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZmV0Y2hlZEF0OiBMb2NhbERhdGUsIA==</text>
+        <text>\&quot;fetchedAt\&quot;:1545895190853,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0geWllbGQgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gUmV1dGVycyBTZXJ2aWNlIOOBp+OBr+ePvuWcqOaZguWIu+OBrueCuuabv+ODrOODvOODiOOBl+OBi+WPluW+l+OBp+OBjeOBquOBhAo=</text>
+        <text encoding="base64">ICAgIGZvciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnj77lnKjmmYLliLvjgpLlj5blvpfmmYLliLvjgajjgZfjgabkvb/jgYYK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZXV0ZXJzIFNlcnZpY2Ug44Gn44Gv54++5Zyo5pmC5Yi744Gu54K65pu/44Os44O844OI44GX44GL5Y+W5b6X44Gn44GN44Gq44GE44Gf44KB44CBCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -467,8 +467,8 @@
         <entry>e!</entry>
         <entry>74</entry>
         <entry>108</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
