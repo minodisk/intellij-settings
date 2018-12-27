@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545895071415">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="28" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545896010355">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
         <mark key="'" line="27" column="0" />
@@ -122,11 +122,11 @@
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545895134611">
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545896030872">
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/put_etf_closing_price/PutFxRateComponent.scala" timestamp="1544697477540">
         <mark key="'" line="2" column="54" />
@@ -141,14 +141,20 @@
         <mark key="^" line="72" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545895453917">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545895991089">
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/PlanBuyModal.jsx" timestamp="1545814415241">
         <mark key="'" line="36" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRate.scala" timestamp="1545896036574">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/ReutersThriftServiceModule.scala" timestamp="1545196461635">
         <mark key="'" line="10" column="0" />
@@ -250,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/.gitignore" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" />
       <jump line="4" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
@@ -350,6 +355,7 @@
       <jump line="29" column="6" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/batch/batch/src/main/scala/com/folio/billing/batch/clearing_quick_deposit_result/ClearingQuickDepositResultBatchService.scala" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/billing/service/BillingsystemWithdrawResultDomainService.scala" />
       <jump line="13" column="23" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/infra/database/withdraw/CheckWithdrawResultDao.scala" />
+      <jump line="32" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -372,40 +378,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRNb2RlbE1ldGFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>insertModelMeta</text>
+        <text encoding="base64">ZmV0Y2hlZEF0OiBMb2NhbERhdGUsIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gUmV1dGVycyBTZXJ2aWNlIOOBp+OBr+ePvuWcqOaZguWIu+OBrueCuuabv+ODrOODvOODiOOBl+OBi+WPluW+l+OBp+OBjeOBquOBhAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnj77lnKjmmYLliLvjgpLlj5blvpfmmYLliLvjgajjgZfjgabkvb/jgYYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZXV0ZXJzIFNlcnZpY2Ug44Gn44Gv54++5Zyo5pmC5Yi744Gu54K65pu/44Os44O844OI44GX44GL5Y+W5b6X44Gn44GN44Gq44GE44Gf44KB44CBCg==</text>
+        <text encoding="base64">ICAgICAgLy8gUmV1dGVycyBTZXJ2aWNlIOOBp+OBr+ePvuWcqOaZguWIu+OBrueCuuabv+ODrOODvOODiOOBl+OBi+WPluW+l+OBp+OBjeOBquOBhAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnj77lnKjmmYLliLvjgpLlj5blvpfmmYLliLvjgajjgZfjgabkvb/jgYYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXV0ZXJzIFNlcnZpY2Ug44Gn44Gv54++5Zyo5pmC5Yi744Gu54K65pu/44Os44O844OI44GX44GL5Y+W5b6X44Gn44GN44Gq44GE44Gf44KB44CBCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLgo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
