@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545379330084">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545895071415">
         <mark key="'" line="24" column="6" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="34" />
-        <mark key="^" line="31" column="34" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
         <mark key="'" line="27" column="0" />
@@ -90,11 +90,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="58" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" timestamp="1545817569321">
-        <mark key="'" line="78" column="6" />
-        <mark key="[" line="78" column="6" />
-        <mark key="]" line="78" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateResponseAdapter.scala" timestamp="1544697636869">
         <mark key="'" line="12" column="28" />
@@ -127,6 +122,12 @@
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1545895134611">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/put_etf_closing_price/PutFxRateComponent.scala" timestamp="1544697477540">
         <mark key="'" line="2" column="54" />
       </file>
@@ -139,6 +140,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="72" column="1" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545895453917">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/PlanBuyModal.jsx" timestamp="1545814415241">
         <mark key="'" line="36" column="2" />
@@ -164,6 +171,11 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/thrift/RoboAdvContractService.patch.js" timestamp="1543570383834">
         <mark key="'" line="909" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageService.scala" timestamp="1545895086753">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/flow/RoboAdvAPI.js.flow" timestamp="1544442675414">
         <mark key="'" line="210" column="12" />
@@ -360,7 +372,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRNb2RlbE1ldGFcPg==</text>
@@ -369,34 +381,34 @@
         <text>insertModelMeta</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gUmV1dGVycyBTZXJ2aWNlIOOBp+OBr+ePvuWcqOaZguWIu+OBrueCuuabv+ODrOODvOODiOOBl+OBi+WPluW+l+OBp+OBjeOBquOBhAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjYW52YXM+PC9jYW52YXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnj77lnKjmmYLliLvjgpLlj5blvpfmmYLliLvjgajjgZfjgabkvb/jgYYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjYW52YXM+PC9jYW52YXM+CiAgICA8c2NyaXB0IHR5cGU9Im1vZHVsZSIgc3JjPSJqcy9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXV0ZXJzIFNlcnZpY2Ug44Gn44Gv54++5Zyo5pmC5Yi744Gu54K65pu/44Os44O844OI44GX44GL5Y+W5b6X44Gn44GN44Gq44GE44Gf44KB44CBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQ2hhcnQgPSBMaW5lQ2hhcnQgfCBQaWVDaGFydAoK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVDaGFydCBmcm9tICcuL2xpbmUvQ2hhcnQnCmltcG9ydCBQaWVDaGFydCBmcm9tICcuL3BpZS9DaGFydCcKaW1wb3J0IFRvb2x0aXAgZnJvbSAnLi90b29sdGlwL1Rvb2x0aXAnCmltcG9ydCB7IFRvb2x0aXBFdmVudCB9IGZyb20gJy4vdG9vbHRpcC9Ub29sdGlwRXZlbnQnCg==</text>
+        <text encoding="base64">YXBwLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNoYXJ0PzogQ2hhcnQKICBwcml2YXRlIHRvb2x0aXA/OiBUb29sdGlwCg==</text>
+        <text encoding="base64">YXBwLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc2V0Q2hhcnQoY2hhcnQ6IENoYXJ0KSB7CiAgICBpZiAodGhpcy5jaGFydCAhPSB1bmRlZmluZWQpIHsKICAgICAgdGhpcy5jaGFydC5yZW1vdmVBbGxMaXN0ZW5lcnMoKQogICAgICB0aGlzLnN0YWdlLnJlbW92ZUNoaWxkKHRoaXMuY2hhcnQpCiAgICB9CiAgICB0aGlzLmNoYXJ0ID0gY2hhcnQKICAgIHRoaXMuYWRkQ2hpbGQoY2hhcnQpCiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -406,7 +418,7 @@
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -446,12 +458,12 @@
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
         <entry>vs</entry>
         <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
-        <entry>w</entry>
-        <entry>nohlsearch</entry>
         <entry>e!</entry>
         <entry>74</entry>
         <entry>108</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
