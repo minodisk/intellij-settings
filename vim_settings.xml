@@ -126,7 +126,7 @@
         <mark key="^" line="40" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" timestamp="1545840227946">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" timestamp="1545918499262">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="23" />
         <mark key="." line="29" column="23" />
@@ -243,6 +243,12 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" timestamp="1545919579293">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" timestamp="1545817388177">
         <mark key="'" line="425" column="8" />
         <mark key="[" line="403" column="55" />
@@ -315,6 +321,12 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" timestamp="1545918847889">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="130" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/tslint.json" timestamp="1545834151136">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -369,29 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="32" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/server/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/billing/idl/BankAccountType.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/package.json" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/.gitignore" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/index.ts" />
-      <jump line="4" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
-      <jump line="11" column="15" filename="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="11" column="19" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="449" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="492" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="500" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="584" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="587" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="593" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="599" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="605" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="611" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="52" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="284" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
-      <jump line="296" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
       <jump line="6" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
       <jump line="187" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
       <jump line="407" column="56" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
@@ -469,6 +458,29 @@
       <jump line="55" column="18" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
       <jump line="19" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" />
+      <jump line="130" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
+      <jump line="9" column="24" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
+      <jump line="14" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="25" column="115" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="50" column="54" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="2" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="4" column="28" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="62" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="63" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="64" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="120" column="21" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="121" column="5" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="59" column="49" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="67" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="68" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="69" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="70" column="20" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="71" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="72" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="73" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
+      <jump line="118" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -491,49 +503,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>stageWidth</text>
+        <text encoding="base64">XDxpbmNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>this.renderer.autoResize</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFBlcmxpbiB7CgoJcHVibGljIGludCByZXBlYXQ7CgoJcHVibGljIFBlcmxpbihpbnQgcmVwZWF0ID0gLTEpIHsKCQl0aGlzLnJlcGVhdCA9IHJlcGVhdDsKCX0KCglwdWJsaWMgZG91YmxlIE9jdGF2ZVBlcmxpbihkb3VibGUgeCwgZG91YmxlIHksIGRvdWJsZSB6LCBpbnQgb2N0YXZlcywgZG91YmxlIHBlcnNpc3RlbmNlKSB7CgkJZG91YmxlIHRvdGFsID0gMDsKCQlkb3VibGUgZnJlcXVlbmN5ID0gMTsKCQlkb3VibGUgYW1wbGl0dWRlID0gMTsKCQlkb3VibGUgbWF4VmFsdWUgPSAwOwkJCS8vIFVzZWQgZm9yIG5vcm1hbGl6aW5nIHJlc3VsdCB0byAwLjAgLSAxLjAKCQlmb3IoaW50IGk9MDtpPG9jdGF2ZXM7aSsrKSB7CgkJCXRvdGFsICs9IHBlcmxpbih4ICogZnJlcXVlbmN5LCB5ICogZnJlcXVlbmN5LCB6ICogZnJlcXVlbmN5KSAqIGFtcGxpdHVkZTsKCgkJCW1heFZhbHVlICs9IGFtcGxpdHVkZTsKCgkJCWFtcGxpdHVkZSAqPSBwZXJzaXN0ZW5jZTsKCQkJZnJlcXVlbmN5ICo9IDI7CgkJfQoKCQlyZXR1cm4gdG90YWwvbWF4VmFsdWU7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgaW50W10gcGVybXV0YXRpb24gPSB7IDE1MSwxNjAsMTM3LDkxLDkwLDE1LAkJCQkJLy8gSGFzaCBsb29rdXAgdGFibGUgYXMgZGVmaW5lZCBieSBLZW4gUGVybGluLiAgVGhpcyBpcyBhIHJhbmRvbWx5CgkJMTMxLDEzLDIwMSw5NSw5Niw1MywxOTQsMjMzLDcsMjI1LDE0MCwzNiwxMDMsMzAsNjksMTQyLDgsOTksMzcsMjQwLDIxLDEwLDIzLAkvLyBhcnJhbmdlZCBhcnJheSBvZiBhbGwgbnVtYmVycyBmcm9tIDAtMjU1IGluY2x1c2l2ZS4KCQkxOTAsIDYsMTQ4LDI0NywxMjAsMjM0LDc1LDAsMjYsMTk3LDYyLDk0LDI1MiwyMTksMjAzLDExNywzNSwxMSwzMiw1NywxNzcsMzMsCgkJODgsMjM3LDE0OSw1Niw4NywxNzQsMjAsMTI1LDEzNiwxNzEsMTY4LCA2OCwxNzUsNzQsMTY1LDcxLDEzNCwxMzksNDgsMjcsMTY2LAoJCTc3LDE0NiwxNTgsMjMxLDgzLDExMSwyMjksMTIyLDYwLDIxMSwxMzMsMjMwLDIyMCwxMDUsOTIsNDEsNTUsNDYsMjQ1LDQwLDI0NCwKCQkxMDIsMTQzLDU0LCA2NSwyNSw2MywxNjEsIDEsMjE2LDgwLDczLDIwOSw3NiwxMzIsMTg3LDIwOCwgODksMTgsMTY5LDIwMCwxOTYsCgkJMTM1LDEzMCwxMTYsMTg4LDE1OSw4NiwxNjQsMTAwLDEwOSwxOTgsMTczLDE4NiwgMyw2NCw1MiwyMTcsMjI2LDI1MCwxMjQsMTIzLAoJCTUsMjAyLDM4LDE0NywxMTgsMTI2LDI1NSw4Miw4NSwyMTIsMjA3LDIwNiw1OSwyMjcsNDcsMTYsNTgsMTcsMTgyLDE4OSwyOCw0MiwKCQkyMjMsMTgzLDE3MCwyMTMsMTE5LDI0OCwxNTIsIDIsNDQsMTU0LDE2MywgNzAsMjIxLDE1MywxMDEsMTU1LDE2NywgNDMsMTcyLDksCgkJMTI5LDIyLDM5LDI1MywgMTksOTgsMTA4LDExMCw3OSwxMTMsMjI0LDIzMiwxNzgsMTg1LCAxMTIsMTA0LDIxOCwyNDYsOTcsMjI4LAoJCTI1MSwzNCwyNDIsMTkzLDIzOCwyMTAsMTQ0LDEyLDE5MSwxNzksMTYyLDI0MSwgODEsNTEsMTQ1LDIzNSwyNDksMTQsMjM5LDEwNywKCQk0OSwxOTIsMjE0LCAzMSwxODEsMTk5LDEwNiwxNTcsMTg0LCA4NCwyMDQsMTc2LDExNSwxMjEsNTAsNDUsMTI3LCA0LDE1MCwyNTQsCgkJMTM4LDIzNiwyMDUsOTMsMjIyLDExNCw2NywyOSwyNCw3MiwyNDMsMTQxLDEyOCwxOTUsNzgsNjYsMjE1LDYxLDE1NiwxODAKCX07CgoJcHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgaW50W10gcDsgCQkJCQkJCQkJCQkJCS8vIERvdWJsZWQgcGVybXV0YXRpb24gdG8gYXZvaWQgb3ZlcmZsb3cKCglzdGF0aWMgUGVybGluKCkgewoJCXAgPSBuZXcgaW50WzUxMl07CgkJZm9yKGludCB4PTA7eDw1MTI7eCsrKSB7CgkJCXBbeF0gPSBwZXJtdXRhdGlvblt4JTI1Nl07CgkJfQoJfQoKCXB1YmxpYyBkb3VibGUgcGVybGluKGRvdWJsZSB4LCBkb3VibGUgeSwgZG91YmxlIHopIHsKCQlpZihyZXBlYXQgPiAwKSB7CQkJCQkJCQkJLy8gSWYgd2UgaGF2ZSBhbnkgcmVwZWF0IG9uLCBjaGFuZ2UgdGhlIGNvb3JkaW5hdGVzIHRvIHRoZWlyICJsb2NhbCIgcmVwZXRpdGlvbnMKCQkJeCA9IHglcmVwZWF0OwoJCQl5ID0geSVyZXBlYXQ7CgkJCXogPSB6JXJlcGVhdDsKCQl9CgoJCWludCB4aSA9IChpbnQpeCAmIDI1NTsJCQkJCQkJCS8vIENhbGN1bGF0ZSB0aGUgInVuaXQgY3ViZSIgdGhhdCB0aGUgcG9pbnQgYXNrZWQgd2lsbCBiZSBsb2NhdGVkIGluCgkJaW50IHlpID0gKGludCl5ICYgMjU1OwkJCQkJCQkJLy8gVGhlIGxlZnQgYm91bmQgaXMgKCB8X3hffCx8X3lffCx8X3pffCApIGFuZCB0aGUgcmlnaHQgYm91bmQgaXMgdGhhdAoJCWludCB6aSA9IChpbnQpeiAmIDI1NTsJCQkJCQkJCS8vIHBsdXMgMS4gIE5leHQgd2UgY2FsY3VsYXRlIHRoZSBsb2NhdGlvbiAoZnJvbSAwLjAgdG8gMS4wKSBpbiB0aGF0IGN1YmUuCgkJZG91YmxlIHhmID0geC0oaW50KXg7CQkJCQkJCQkvLyBXZSBhbHNvIGZhZGUgdGhlIGxvY2F0aW9uIHRvIHNtb290aCB0aGUgcmVzdWx0LgoJCWRvdWJsZSB5ZiA9IHktKGludCl5O2kKCQlkb3VibGUgemYgPSB6LShpbnQpejsKCQlkb3VibGUgdSA9IGZhZGUoeGYpOwoJCWRvdWJsZSB2ID0gZmFkZSh5Zik7CgkJZG91YmxlIHcgPSBmYWRlKHpmKTsKCgkJaW50IGFhYSwgYWJhLCBhYWIsIGFiYiwgYmFhLCBiYmEsIGJhYiwgYmJiOwoJCWFhYSA9IHBbcFtwWyAgICB4aSBdKyAgICB5aSBdKyAgICB6aSBdOwoJCWFiYSA9IHBbcFtwWyAgICB4aSBdK2luYyh5aSldKyAgICB6aSBdOwoJCWFhYiA9IHBbcFtwWyAgICB4aSBdKyAgICB5aSBdK2luYyh6aSldOwoJCWFiYiA9IHBbcFtwWyAgICB4aSBdK2luYyh5aSldK2luYyh6aSldOwoJCWJhYSA9IHBbcFtwW2luYyh4aSldKyAgICB5aSBdKyAgICB6aSBdOwoJCWJiYSA9IHBbcFtwW2luYyh4aSldK2luYyh5aSldKyAgICB6aSBdOwoJCWJhYiA9IHBbcFtwW2luYyh4aSldKyAgICB5aSBdK2luYyh6aSldOwoJCWJiYiA9IHBbcFtwW2luYyh4aSldK2luYyh5aSldK2luYyh6aSldOwoKCQlkb3VibGUgeDEsIHgyLCB5MSwgeTI7CgkJeDEgPSBsZXJwKAlncmFkIChhYWEsIHhmICAsIHlmICAsIHpmKSwJCQkJLy8gVGhlIGdyYWRpZW50IGZ1bmN0aW9uIGNhbGN1bGF0ZXMgdGhlIGRvdCBwcm9kdWN0IGJldHdlZW4gYSBwc2V1ZG9yYW5kb20KCQkJCQlncmFkIChiYWEsIHhmLTEsIHlmICAsIHpmKSwJCQkJLy8gZ3JhZGllbnQgdmVjdG9yIGFuZCB0aGUgdmVjdG9yIGZyb20gdGhlIGlucHV0IGNvb3JkaW5hdGUgdG8gdGhlIDgKCQkJCQl1KTsJCQkJCQkJCQkJLy8gc3Vycm91bmRpbmcgcG9pbnRzIGluIGl0cyB1bml0IGN1YmUuCgkJeDIgPSBsZXJwKAlncmFkIChhYmEsIHhmICAsIHlmLTEsIHpmKSwJCQkJLy8gVGhpcyBpcyBhbGwgdGhlbiBsZXJwZWQgdG9nZXRoZXIgYXMgYSBzb3J0IG9mIHdlaWdodGVkIGF2ZXJhZ2UgYmFzZWQgb24gdGhlIGZhZGVkICh1LHYsdykKCQkJCQlncmFkIChiYmEsIHhmLTEsIHlmLTEsIHpmKSwJCQkJLy8gdmFsdWVzIHdlIG1hZGUgZWFybGllci4KCQkJICAgICAgICAgIHUpOwoJCXkxID0gbGVycCh4MSwgeDIsIHYpOwoKCQl4MSA9IGxlcnAoCWdyYWQgKGFhYiwgeGYgICwgeWYgICwgemYtMSksCgkJCQkJZ3JhZCAoYmFiLCB4Zi0xLCB5ZiAgLCB6Zi0xKSwKCQkJCQl1KTsKCQl4MiA9IGxlcnAoCWdyYWQgKGFiYiwgeGYgICwgeWYtMSwgemYtMSksCgkJICAgICAgICAgIAlncmFkIChiYmIsIHhmLTEsIHlmLTEsIHpmLTEpLAoJCSAgICAgICAgICAJdSk7CgkJeTIgPSBsZXJwICh4MSwgeDIsIHYpOwoKCQlyZXR1cm4gKGxlcnAgKHkxLCB5MiwgdykrMSkvMjsJCQkJCQkvLyBGb3IgY29udmVuaWVuY2Ugd2UgYm91bmQgaXQgdG8gMCAtIDEgKHRoZW9yZXRpY2FsIG1pbi9tYXggYmVmb3JlIGlzIC0xIC0gMSkKCX0KCglwdWJsaWMgaW50IGluYyhpbnQgbnVtKSB7CgkJbnVtKys7CgkJaWYgKHJlcGVhdCA+IDApIG51bSAlPSByZXBlYXQ7CgoJCXJldHVybiBudW07Cgl9CgoJcHVibGljIHN0YXRpYyBkb3VibGUgZ3JhZChpbnQgaGFzaCwgZG91YmxlIHgsIGRvdWJsZSB5LCBkb3VibGUgeikgewoJCWludCBoID0gaGFzaCAmIDE1OwkJCQkJCQkJCS8vIFRha2UgdGhlIGhhc2hlZCB2YWx1ZSBhbmQgdGFrZSB0aGUgZmlyc3QgNCBiaXRzIG9mIGl0ICgxNSA9PSAwYjExMTEpCgkJZG91YmxlIHUgPSBoIDwgOCAvKiAwYjEwMDAgKi8gPyB4IDogeTsJCQkJLy8gSWYgdGhlIG1vc3Qgc2lnbmlmaWNhbnQgYml0IChNU0IpIG9mIHRoZSBoYXNoIGlzIDAgdGhlbiBzZXQgdSA9IHguICBPdGhlcndpc2UgeS4KCgkJZG91YmxlIHY7CQkJCQkJCQkJCQkvLyBJbiBLZW4gUGVybGluJ3Mgb3JpZ2luYWwgaW1wbGVtZW50YXRpb24gdGhpcyB3YXMgYW5vdGhlciBjb25kaXRpb25hbCBvcGVyYXRvciAoPzopLiAgSQoJCQkJCQkJCQkJCQkJCQkvLyBleHBhbmRlZCBpdCBmb3IgcmVhZGFiaWxpdHkuCgoJCWlmKGggPCA0IC8qIDBiMDEwMCAqLykJCQkJCQkJCS8vIElmIHRoZSBmaXJzdCBhbmQgc2Vjb25kIHNpZ25pZmljYW50IGJpdHMgYXJlIDAgc2V0IHYgPSB5CgkJCXYgPSB5OwoJCWVsc2UgaWYoaCA9PSAxMiAvKiAwYjExMDAgKi8gfHwgaCA9PSAxNCAvKiAwYjExMTAqLykvLyBJZiB0aGUgZmlyc3QgYW5kIHNlY29uZCBzaWduaWZpY2FudCBiaXRzIGFyZSAxIHNldCB2ID0geAoJCQl2ID0geDsKCQllbHNlIAkJCQkJCQkJCQkJCS8vIElmIHRoZSBmaXJzdCBhbmQgc2Vjb25kIHNpZ25pZmljYW50IGJpdHMgYXJlIG5vdCBlcXVhbCAoMC8xLCAxLzApIHNldCB2ID0gegoJCQl2ID0gejsKCgkJcmV0dXJuICgoaCYxKSA9PSAwID8gdSA6IC11KSsoKGgmMikgPT0gMCA/IHYgOiAtdik7IC8vIFVzZSB0aGUgbGFzdCAyIGJpdHMgdG8gZGVjaWRlIGlmIHUgYW5kIHYgYXJlIHBvc2l0aXZlIG9yIG5lZ2F0aXZlLiAgVGhlbiByZXR1cm4gdGhlaXIgYWRkaXRpb24uCgl9CgoJcHVibGljIHN0YXRpYyBkb3VibGUgZmFkZShkb3VibGUgdCkgewoJCQkJCQkJCQkJCQkJCQkvLyBGYWRlIGZ1bmN0aW9uIGFzIGRlZmluZWQgYnkgS2VuIFBlcmxpbi4gIFRoaXMgZWFzZXMgY29vcmRpbmF0ZSB2YWx1ZXMKCQkJCQkJCQkJCQkJCQkJLy8gc28gdGhhdCB0aGV5IHdpbGwgImVhc2UiIHRvd2FyZHMgaW50ZWdyYWwgdmFsdWVzLiAgVGhpcyBlbmRzIHVwIHNtb290aGluZwoJCQkJCQkJCQkJCQkJCQkvLyB0aGUgZmluYWwgb3V0cHV0LgoJCXJldHVybiB0ICogdCAqIHQgKiAodCAqICh0ICogNiAtIDE1KSArIDEwKTsJCQkvLyA2dF41IC0gMTV0XjQgKyAxMHReMwoJfQoKCXB1YmxpYyBzdGF0aWMgZG91YmxlIGxlcnAoZG91YmxlIGEsIGRvdWJsZSBiLCBkb3VibGUgeCkgewoJCXJldHVybiBhICsgeCAqIChiIC0gYSk7Cgl9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmYWRlKHQ6bnVtYmVyKTpudW1iZXIgewogIC8vIEZhZGUgZnVuY3Rpb24gYXMgZGVmaW5lZCBieSBLZW4gUGVybGluLiAgVGhpcyBlYXNlcyBjb29yZGluYXRlIHZhbHVlcwogIC8vIHNvIHRoYXQgdGhleSB3aWxsICJlYXNlIiB0b3dhcmRzIGludGVncmFsIHZhbHVlcy4gIFRoaXMgZW5kcyB1cCBzbW9vdGhpbmcKICAvLyB0aGUgZmluYWwgb3V0cHV0LgogIHJldHVybiB0ICogdCAqIHQgKiAodCAqICh0ICogNiAtIDE1KSArIDEwKTsJCQkvLyA2dF41IC0gMTV0XjQgKyAxMHReMwp9CgpwdWJsaWMgc3RhdGljIGxlcnAoYTpudW1iZXIsYjpudW1iZXIsIHg6bnVtYmVyKTpudW1iZXIgewogIHJldHVybiBhICsgeCAqIChiIC0gYSk7Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICBpbnQgYWFhLCBhYmEsIGFhYiwgYWJiLCBiYWEsIGJiYSwgYmFiLCBiYmI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGcubGluZVN0eWxlKDEsY29sb3IsMC41KQo=</text>
+        <text encoding="base64">ICB0aGlzLnJlcGVhdCA9IHJlcGVhdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeCA9IGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZy4K</text>
+        <text encoding="base64">ICAgIAogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb250YWluZXIuYWRkQ2hpbGQoZykK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBnID0gbmV3IEdyYXBoaWNzKCkK</text>
+        <text encoding="base64">ICAgIGcubGluZVN0eWxlKDEsY29sb3IsMC41KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeCA9IGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stageWidth</last-search>
+      <last-search encoding="base64">XDxpbmNcPg==</last-search>
       <last-offset />
-      <last-pattern>stageWidth</last-pattern>
+      <last-pattern encoding="base64">XDxpbmNcPg==</last-pattern>
       <last-replace>21</last-replace>
       <last-substitute encoding="base64">XDwxNFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -541,10 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWluXD4=</entry>
-        <entry encoding="base64">XDxmaXhlZERhdGVcPg==</entry>
-        <entry>withCronTrigger</entry>
-        <entry>robo-adv-gateway-batch</entry>
         <entry>isValidRequestWithLimit</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUFsbFw+</entry>
         <entry encoding="base64">XDwuXD4=</entry>
@@ -561,6 +569,10 @@
         <entry encoding="base64">XDxzdGFnZVdpZHRoXD4=</entry>
         <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry>stageWidth</entry>
+        <entry encoding="base64">XDxwZXJsaW5cPg==</entry>
+        <entry encoding="base64">XDxyZXBlYXRcPg==</entry>
+        <entry encoding="base64">XDxmYWRlXD4=</entry>
+        <entry encoding="base64">XDxpbmNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxQdXRGeFJhdGVQcmljZUFyZ3NcPi9QdXRGeFJhdGVBcmdzL2c=</entry>
@@ -576,12 +588,12 @@
         <entry>%s/etf-closing-price/fx-rate/g</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
-        <entry>vs</entry>
         <entry>e!</entry>
         <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
