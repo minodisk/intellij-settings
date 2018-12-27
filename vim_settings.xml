@@ -48,21 +48,20 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1544593610611">
         <mark key="'" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545903443146">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/application/src/main/scala/com/folio/robo_adv/gateway/application/usecase/put_fx_rate/PutFxRateUseCase.scala" timestamp="1545904710915">
         <mark key="'" line="30" column="36" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="25" />
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/modules/AccountServiceModule.scala" timestamp="1545197019420">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545903454893">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="20" />
-        <mark key="." line="75" column="20" />
-        <mark key="^" line="75" column="20" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545904594164">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/presentation/src/main/scala/com/folio/robo_adv/gateway/presentation/components/put_fx_rate/adapters/PutFxRateResponseAdapter.scala" timestamp="1544697636869">
         <mark key="'" line="12" column="28" />
@@ -317,7 +316,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FzZSA=</text>
+        <text>Instant</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaGVkQXRNb2NrXD4=</text>
@@ -326,31 +325,31 @@
         <text>iwiSyncFxRateInput.fetchedAt.value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZldGNoZWRBdE1vY2sudmFsdWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgdmFsdWU6IEluc3RhbnQgPSBJbnN0YW50Lm5vdygpCgo=</text>
+        <text encoding="base64">ICAgIEFyZ3VtZW50Q2FwdG9yCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZldGNoZWRBdE1vY2sudmFsdWUgcmV0dXJucyBJbnN0YW50Lm9mRXBvY2hNaWxsaSgxMjM0NTY3ODkwTCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5iaW5kW0ZldGNoZWRBdF0KICAgIC50b0luc3RhbmNlKGZldGNoZWRBdE1vY2spCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmZXRjaGVkQXRNb2NrID0gbW9ja1tGZXRjaGVkQXRdCiAgICB3aGVuKGZldGNoZWRBdE1vY2sudmFsdWUpIHRoZW5SZXR1cm4gSW5zdGFudC5vZkVwb2NoTWlsbGkoMTIzNDVMKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBmZXRjaGVkQXRNb2NrID0gbW9ja1tGZXRjaGVkQXRdCg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8ubW9ja1tGZXRjaGVkQXRdKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIHRvSW5zdGFudDogSW5zdGFudCA9IHZhbHVlCg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihuZXcgRmV0Y2hlZEF0KCkpLnRoZW5SZXR1cm4oZmV0Y2hlZEF0TW9jaykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYK</text>
+        <text encoding="base64">ICAgIHZhbCBmZXRjaGVkQXRNb2NrID0gbmV3IEZldGNoZWRBdChJbnN0YW50Lm9mRXBvY2hNaWxsaSgxMjM0NTY3ODkwTCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZldGNoZWRBdDogRmV0Y2hlZEF0LAo=</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8ubW9jayhGZXRjaGVkQXQuY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBGdXR1cmUudmFsdWUocHJpbnRsbihzIkZldGNoZWRBdC5ub3coKTogJHtGZXRjaGVkQXQubm93KCl9IikpCg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8ubW9jayhGZXRjaGVkQXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
