@@ -83,12 +83,15 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" timestamp="1545978404797">
+        <mark key="'" line="185" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositControllerTest.scala" timestamp="1545906210642">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545974475914">
+      <file name="/Dummy.txt" timestamp="1545974772529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" timestamp="1545905889451">
@@ -103,12 +106,18 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545974770573">
+      <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" timestamp="1545981856746">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545982631266">
         <mark key="'" line="98" column="51" />
-        <mark key="[" line="98" column="49" />
-        <mark key="]" line="98" column="51" />
-        <mark key="." line="98" column="51" />
-        <mark key="^" line="98" column="51" />
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="98" column="45" />
+        <mark key="." line="98" column="45" />
+        <mark key="^" line="77" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" timestamp="1545817569321">
         <mark key="'" line="78" column="6" />
@@ -141,9 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" />
-      <jump line="47" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/account-api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/common/validates/validate.js" />
       <jump line="118" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/omakase/sporks/order.js" />
       <jump line="72" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/omakase/sporks/order.js" />
@@ -241,6 +247,9 @@
       <jump line="77" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="2" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="98" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="87" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" />
+      <jump line="121" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" />
+      <jump line="185" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage-api.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -263,49 +272,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>19731130</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</text>
+        <text>getReport</text>
       </register>
       <register name="0" type="4">
-        <text>DateTimeService.jstOffset</text>
+        <text>1545895190</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLy5vZkluc3RhbnQoSW5zdGFudC5vZkVwb2NoTWlsbGkoKSwgRGF0ZVRpbWVTZXJ2aWNlLmpzdE9mZnNldCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZS5vZgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCiAgICBwcmludGxuKHB1dEtleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBlcG9jaE1pbGxpID0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSByb2JvYWR2LmJhdGNoCgppbXBvcnQgY29tLmZvbGlvLmplbmtpbnNqb2Jkc2wuY29tbWFuZC5Gb2xpb1R3aXR0ZXJBcHBDb21tYW5kQnVpbGRlcgppbXBvcnQgY29tLmZvbGlvLmplbmtpbnNqb2Jkc2wuY29uZmlnLkNvbmZpZ01hbmFnZXIKaW1wb3J0IGNvbS5mb2xpby5qZW5raW5zam9iZHNsLmplbmtpbnNlbnYuSmVua2luc0VudgppbXBvcnQgY29tLmZvbGlvLmplbmtpbnNqb2Jkc2wuamVua2luc2Vudi5KZW5raW5zRW52TWFuYWdlcgppbXBvcnQgY29tLmZvbGlvLmplbmtpbnNqb2Jkc2wuam9iY29uZmlnY29tcG9uZW50cy5idWlsZGVudi5CdWlsZFRpbWVPdXQKaW1wb3J0IGNvbS5mb2xpby5zZXJ2aWNlcy5yb2JvYWR2LnN1cHBvcnRzLlJvYm9BZHZCYXRjaEpvYgppbXBvcnQgamF2YXBvc3NlLmpvYmRzbC5kc2wuRHNsRmFjdG9yeQoKU3RyaW5nIGFwcE5hbWUgPSAncHV0LWZ4LXJhdGUtYmF0Y2gtbWFpbicKU3RyaW5nIHBhY2thZ2VOYW1lID0gJ3JvYm8tYWR2LWdhdGV3YXktZW50cnlwb2ludC1iYXRjaCcKSmVua2luc0Vudk1hbmFnZXIgamVua2luc0Vudk1hbmFnZXIgPSBuZXcgSmVua2luc0Vudk1hbmFnZXIodGhpcyBhcyBEc2xGYWN0b3J5KQpDb25maWdNYW5hZ2VyIGNvbmZpZ01hbmFnZXIgPSBuZXcgQ29uZmlnTWFuYWdlcih0aGlzIGFzIERzbEZhY3RvcnksIGplbmtpbnNFbnZNYW5hZ2VyKQoKbmV3IFJvYm9BZHZCYXRjaEpvYih0aGlzIGFzIERzbEZhY3RvcnksCiAgICAgICAgJ3JvYm8tYWR2LXB1dC1meC1yYXRlJywKICAgICAgICBwYWNrYWdlTmFtZSwKICAgICAgICAnJywKICAgICAgICBGb2xpb1R3aXR0ZXJBcHBDb21tYW5kQnVpbGRlci5jcmVhdGUoCiAgICAgICAgICAgICAgICBjb25maWdNYW5hZ2VyLAogICAgICAgICAgICAgICAgamVua2luc0Vudk1hbmFnZXIsCiAgICAgICAgICAgICAgICBwYWNrYWdlTmFtZSwKICAgICAgICAgICAgICAgIGFwcE5hbWUsCiAgICAgICAgKS5idWlsZCgpLAogICAgICAgIEJ1aWxkVGltZU91dC5mcm9tTWluKDMwKQopLndpdGhKb2JEZXNjcmlwdGlvbigKICAgICAgICAnJycK54K65pu/44Os44O844OI44KSSVdJ6YCj5pC644Gu44Gf44KB44GrUzPjgavnva7jgY/jg5Djg4Pjg4EKCmh0dHBzOi8vZm9saW8tc2VjLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvcm9ib1NoYXJlV2l0aElJV0kvcGFnZXMvMTUxMTY0MDc3L1N0b3JhZ2UKJycnLAogICAgICAgICcxODowMCcsIC8vIEZJWE1FIOWPluW+l+aZguWIu+OBq+OBpOOBhOOBpuOBr+WQiOaEj+OCkuOBqOOBo+OBn+W+jOOAgeWlkee0hOabuOOBruS/ruato+OBjOW/heimgQogICAgICAgICdFVEbnmbrms6jjg5Djg4Pjg4HjgYzli5XjgY/lvZPml6Xjga4yMzozMCjjgrXjg57jg7zjgr/jgqTjg6DmnJ/plpPkuK3jga8yMjozMCknLAogICAgICAgICdSZXV0ZXJzIFNlcnZpY2XjgYzmraPluLjjgavngrrmm7/jg6zjg7zjg4jjgpLov5TjgZnnirbmhYvjgafjgYLjgovjgZPjgagnLAogICAgICAgICcxODowMOaZgueCueOBrueCuuabv+ODrOODvOODiOOCkuiomOi8ieOBl+OBn+ODleOCoeOCpOODq+OCkuaJi+WLleOBp+mFjee9ruOBmeOCiycgLy8gRklYTUUg5Y+W5b6X5pmC5Yi744Gr44Gk44GE44Gm44Gv5ZCI5oSP44KS44Go44Gj44Gf5b6M44CB5aWR57SE5pu444Gu5L+u5q2j44GM5b+F6KaBCikKLy8ud2l0aENyb25UcmlnZ2VyKCdIIDE4ICogKiAqJykgLy8gRklYTUUgU1RH44Gn5YuV5L2c5qSc6Ki85b6M44Gr5pyJ5Yq55YyWCi5yZWdpc3RlcihbSmVua2luc0Vudi5BV1NfU1RHXSkgLy8gRklYTUUgU1RH44Gn5YuV5L2c5qSc6Ki85b6M44GrUFJPROi/veWKoAoK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MjE6MzXjgJwyMzozNeOBrumWkzEw5YiG6ZaT6ZqU44Gn5pu05paw44GX57aa44GR44KL44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJlY2lzaW9uIG1lZGl1bXAgZmxvYXQ7CiAgICAgIHZhcnlpbmcgdmVjMiB2VGV4dHVyZUNvb3JkOwogICAgICB1bmlmb3JtIHNhbXBsZXIyRCB1U2FtcGxlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWM0IGNvbG9yID0gdGV4dHVyZTJEKHVTYW1wbGVyLCB2VGV4dHVyZUNvb3JkKTsKICAgICAgICBjb2xvci5yID0gMS4wOwogICAgICAgIGNvbG9yLmcgPSAxLjA7CiAgICAgICAgY29sb3IuYiA9IDEuMDsKICAgICAgICBjb2xvci5hID0gMC4xOwo=</text>
+        <text encoding="base64">ICAgIDp3ZWJraXRDYW5jZWxBbmltYXRpb25GcmFtZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWM0IGNvbG9yID0gdGV4dHVyZTJEKHVTYW1wbGVyLCB2VGV4dHVyZUNvb3JkKTsKICAgICAgICBjb2xvci5yID0gMC45OTk5OTk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdGhpcy5nbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2wuRlJBR01FTlRfU0hBREVSCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</last-search>
+      <last-search>getReport</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</last-pattern>
+      <last-pattern>getReport</last-pattern>
       <last-replace>Fetched</last-replace>
       <last-substitute>Requested</last-substitute>
       <last-dir>1</last-dir>
@@ -313,9 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bililngsys</entry>
-        <entry encoding="base64">XDxpbnNlcnRNb2RlbE1ldGFcPg==</entry>
-        <entry>REquested</entry>
         <entry>Requested</entry>
         <entry encoding="base64">XDxGZXRjaGVkQXRcPg==</entry>
         <entry encoding="base64">XDxSZXV0ZXJzVGhyaWZ0U2VydmljZVw+</entry>
@@ -333,9 +339,11 @@
         <entry>println</entry>
         <entry encoding="base64">XDxlcG9jaE1pbGxpXD4=</entry>
         <entry encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</entry>
+        <entry>report</entry>
+        <entry>Report</entry>
+        <entry>getReport</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>2w</entry>
         <entry>%s/EtfClosingPrice/FxRate/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -354,6 +362,7 @@
         <entry>%s/Requested/Fetched/g</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>wo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
