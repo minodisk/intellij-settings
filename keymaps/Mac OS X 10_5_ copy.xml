@@ -60,7 +60,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="ParameterInfo" />
-  <action id="Play2.TypeInfo" />
+  <action id="Play2.TypeInfo">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl h" />
