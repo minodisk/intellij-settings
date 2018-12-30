@@ -3,421 +3,162 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.stories.ts" timestamp="1545922889321">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="43" />
-        <mark key="^" line="10" column="54" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546150151055">
+        <mark key="'" line="402" column="32" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
+        <mark key="^" line="426" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/webpack.config.js" timestamp="1545834517267">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/src/__fixtures__/amzn.json" timestamp="1544235335622">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545835145058">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" timestamp="1545921982588">
-        <mark key="'" line="362" column="0" />
-        <mark key="[" line="349" column="16" />
-        <mark key="]" line="349" column="22" />
-        <mark key="." line="349" column="22" />
-        <mark key="^" line="349" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/src/line/LineChart.stories.ts" timestamp="1545835466692">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/tslint.json" timestamp="1545834203261">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/src/__fixtures__/goog.json" timestamp="1544235411059">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/package.json" timestamp="1545835000571">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" timestamp="1545920572928">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/.prettierignore" timestamp="1545834360255">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.gitignore" timestamp="1545834349405">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="64" column="4" />
-        <mark key="^" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/config.ts" timestamp="1545920990449">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/package.json" timestamp="1545834796547">
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" timestamp="1545920223539">
-        <mark key="'" line="365" column="9" />
-        <mark key="[" line="328" column="15" />
-        <mark key="]" line="328" column="21" />
-        <mark key="^" line="328" column="21" />
-        <mark key="." line="328" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.prettierrc.json" timestamp="1545834277071">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="1" column="2" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/prettier.config.js" timestamp="1545834245247">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/src/__fixtures__/aapl.json" timestamp="1544235383449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/src/__fixtures__/appl.json" timestamp="1544235343795">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1545923190678">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/webpack.config.js" timestamp="1545834223865">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" timestamp="1545918847889">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="130" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/tslint.json" timestamp="1545834151136">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" timestamp="1545922773509">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/glaph/tsconfig.json" timestamp="1545834049201">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" timestamp="1545837138980">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="30" column="39" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" timestamp="1546150160537">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="55" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="394" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="400" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="399" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="424" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="404" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" />
-      <jump line="403" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="405" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="409" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="425" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" />
-      <jump line="123" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" />
-      <jump line="69" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" />
-      <jump line="78" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/types/omakase/Order.js" />
-      <jump line="1327" column="43" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/actions/index.js" />
-      <jump line="76" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
-      <jump line="350" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
-      <jump line="27" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/services/omakase.js" />
-      <jump line="518" column="38" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="187" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="53" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="5" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="52" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="55" column="18" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Application.ts" />
-      <jump line="19" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" />
-      <jump line="130" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
-      <jump line="9" column="24" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.cs" />
-      <jump line="14" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="25" column="115" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="2" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="4" column="28" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="62" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="63" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="64" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="120" column="21" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="121" column="5" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="59" column="49" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="67" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="68" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="69" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="70" column="20" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="71" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="72" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="73" column="38" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="118" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="51" column="8" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="57" column="11" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="13" column="26" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="28" column="81" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="50" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="74" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="61" column="7" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="337" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="342" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="347" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="349" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="350" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="355" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="357" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="15" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="371" column="18" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="271" column="54" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="12" column="26" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="329" column="28" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="330" column="34" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="331" column="39" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="332" column="22" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="333" column="33" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="334" column="39" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="335" column="44" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="364" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinNoise.ts" />
-      <jump line="24" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.storybook/circle.stories.ts" />
-      <jump line="282" column="21" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="365" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="338" column="77" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="340" column="43" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="341" column="43" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="345" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="346" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="352" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="353" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="357" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="358" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="372" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="360" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/Perlin.ts" />
-      <jump line="188" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="1" column="3" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="144" column="5" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="145" column="47" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="146" column="27" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="153" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="141" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/PerlinFilter.ts" />
+      <jump line="371" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="445" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="417" column="39" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="365" column="57" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="448" column="9" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="286" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="435" column="17" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="446" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="421" column="17" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="442" column="30" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="431" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="380" column="10" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="373" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="412" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="418" column="10" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="439" column="55" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="267" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="273" column="34" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="282" column="7" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="284" column="5" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="295" column="10" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="364" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="419" column="44" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="420" column="62" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="436" column="17" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="422" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="14" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="280" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="426" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="423" column="10" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="424" column="62" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="277" column="4" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="314" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="425" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="275" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="405" column="4" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="409" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="407" column="34" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="408" column="24" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="361" column="20" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="335" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="339" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="434" column="30" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="369" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="411" column="34" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="313" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="416" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="343" column="28" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="393" column="35" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="429" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="358" column="29" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="433" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="86" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="345" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="432" column="35" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="389" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="402" column="32" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCEiKQo=</text>
-      </register>
-      <register name="c" type="4">
-        <text>a</text>
-      </register>
-      <register name="*" type="4">
-        <text>a</text>
-      </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>, 4, 6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQZXJsaW5GaWx0ZXJcPg==</text>
+        <text>vertexAttribPointer</text>
       </register>
       <register name="0" type="4">
-        <text>a + x * (b - a)</text>
+        <text>vertexAttribPointer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8qCiAqIFBpeGkgU3RhcnQKICovClBJWEkuc2NhbGVNb2Rlcy5ERUZBVUxUID0gUElYSS5zY2FsZU1vZGVzLk5FQVJFU1Q7CnZhciBzdGFnZSA9IG5ldyBQSVhJLlN0YWdlKDB4YWEwMzIyKTsKdmFyIHJlbmRlcmVyID0gbmV3IFBJWEkuV2ViR0xSZW5kZXJlcig5NjAsIDY0MCk7CmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250YWluZXInKS5hcHBlbmRDaGlsZChyZW5kZXJlci52aWV3KTsKCnZhciBjb250YWluZXIgPSBuZXcgUElYSS5EaXNwbGF5T2JqZWN0Q29udGFpbmVyKCk7CmNvbnRhaW5lci5zY2FsZS54ID0gY29udGFpbmVyLnNjYWxlLnkgPSAyOwpzdGFnZS5hZGRDaGlsZChjb250YWluZXIpOwoKdmFyIHRleCA9IG5ldyBQSVhJLkdyYXBoaWNzKCk7CnRleC5iZWdpbkZpbGwoMHgwMDAwMDApOwp0ZXguZHJhd1JlY3QoMCwgMCwgNDgwLCAzMjApOwp0ZXguZW5kRmlsbCgpOwp2YXIgZmlsdGVyID0gbmV3IFBJWEkuUGVybGluRmlsdGVyKCk7CmNvbnRhaW5lci5maWx0ZXJzID0gW2ZpbHRlcl07CmNvbnRhaW5lci5hZGRDaGlsZCh0ZXgpOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgpyZXF1ZXN0QW5pbUZyYW1lKGFuaW1hdGUpOwoKZnVuY3Rpb24gYW5pbWF0ZSgpIHsKICAgIGZpbHRlci50aW1lID0gMC4wMDAwMiAqIChEYXRlLm5vdygpIC0gc3RhcnRUaW1lKTsKICAgIHJlcXVlc3RBbmltRnJhbWUoYW5pbWF0ZSk7CiAgICByZW5kZXJlci5yZW5kZXIoc3RhZ2UpOwogICAgc3RhdHMudXBkYXRlKCk7Cn0K</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2codGhpcy5nbC5nZXRBY3RpdmVBdHRyaWIodGhpcy5wcm9ncmFtLCBpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdHMuZG9tRWxlbWVudC5zdHlsZS56SW5kZXggPSAxMDA7CmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250YWluZXInKS5hcHBlbmRDaGlsZChzdGF0cy5kb21FbGVtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgLy8gYmluZCBhdHRyaWJ1dGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdHMuZG9tRWxlbWVudC5zdHlsZS5ib3R0b20gPSAnLTQ4cHgnOwpzdGF0cy5kb21FbGVtZW50LnN0eWxlLnJpZ2h0ID0gIjBweCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIHN0YXRzID0gbmV3IFN0YXRzKCk7CnN0YXRzLmRvbUVsZW1lbnQuc3R5bGUucG9zaXRpb24gPSAnYWJzb2x1dGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpLCBhcmcsIGRhdGEsIGxvY2F0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHhpLHlpLHppLHhmLHlmLHpmKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYXR0cmlidXRlcyA9IHRoaXMuYXR0cmlidXRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBlcmxpbi5ncmFkKGFhYSwgeGYsIHlmLCB6ZiksIFBlcmxpbi5ncmFkKGJhYSwgeGYgLSAxLCB5ZiwgemYpKQo=</text>
+        <text encoding="base64">ICAgIC8vIHNldHVwIHByb2dyYW0KICAgIGNvbnN0IHByb2dyYW0gPSB0aGlzLmdsLmNyZWF0ZVByb2dyYW0oKQogICAgaWYgKHByb2dyYW0gPT0gdW5kZWZpbmVkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgcHJvZ3JhbSBjYW4gbm90IGJlIGNyZWF0ZWRgKQogICAgfQogICAgdGhpcy5wcm9ncmFtID0gcHJvZ3JhbQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZhZGUodDogbnVtYmVyKTogbnVtYmVyIHsKICAgIC8vIEZhZGUgZnVuY3Rpb24gYXMgZGVmaW5lZCBieSBLZW4gUGVybGluLiAgVGhpcyBlYXNlcyBjb29yZGluYXRlIHZhbHVlcwogICAgLy8gc28gdGhhdCB0aGV5IHdpbGwgImVhc2UiIHRvd2FyZHMgaW50ZWdyYWwgdmFsdWVzLiAgVGhpcyBlbmRzIHVwIHNtb290aGluZwogICAgLy8gdGhlIGZpbmFsIG91dHB1dC4KICAgIHJldHVybiB0ICogdCAqIHQgKiAodCAqICh0ICogNiAtIDE1KSArIDEwKSAvLyA2dF41IC0gMTV0XjQgKyAxMHReMwogIH0KCiAgcHVibGljIHN0YXRpYyBsZXJwKGE6IG51bWJlciwgYjogbnVtYmVyLCB4OiBudW1iZXIpOiBudW1iZXIgewogICAgcmV0dXJuIGEgKyB4ICogKGIgLSBhKQogIH0KCiAgcHVibGljIHN0YXRpYyBncmFkKGhhc2g6IG51bWJlciwgeDogbnVtYmVyLCB5OiBudW1iZXIsIHo6IG51bWJlcik6IG51bWJlciB7CiAgICBjb25zdCBoID0gaGFzaCAmIDE1IC8vIFRha2UgdGhlIGhhc2hlZCB2YWx1ZSBhbmQgdGFrZSB0aGUgZmlyc3QgNCBiaXRzIG9mIGl0ICgxNSA9PSAwYjExMTEpCiAgICBjb25zdCB1ID0gaCA8IDggLyogMGIxMDAwICovID8geCA6IHkgLy8gSWYgdGhlIG1vc3Qgc2lnbmlmaWNhbnQgYml0IChNU0IpIG9mIHRoZSBoYXNoIGlzIDAgdGhlbiBzZXQgdSA9IHguICBPdGhlcndpc2UgeS4KCiAgICBsZXQgdiAvLyBJbiBLZW4gUGVybGluJ3Mgb3JpZ2luYWwgaW1wbGVtZW50YXRpb24gdGhpcyB3YXMgYW5vdGhlciBjb25kaXRpb25hbCBvcGVyYXRvciAoPzopLiAgSQogICAgLy8gZXhwYW5kZWQgaXQgZm9yIHJlYWRhYmlsaXR5LgoKICAgIGlmIChoIDwgNCAvKiAwYjAxMDAgKi8pCiAgICAgIC8vIElmIHRoZSBmaXJzdCBhbmQgc2Vjb25kIHNpZ25pZmljYW50IGJpdHMgYXJlIDAgc2V0IHYgPSB5CiAgICAgIHYgPSB5CiAgICBlbHNlIGlmIChoID09IDEyIC8qIDBiMTEwMCAqLyB8fCBoID09IDE0IC8qIDBiMTExMCovKQogICAgICAvLyBJZiB0aGUgZmlyc3QgYW5kIHNlY29uZCBzaWduaWZpY2FudCBiaXRzIGFyZSAxIHNldCB2ID0geAogICAgICB2ID0geAogICAgLy8gSWYgdGhlIGZpcnN0IGFuZCBzZWNvbmQgc2lnbmlmaWNhbnQgYml0cyBhcmUgbm90IGVxdWFsICgwLzEsIDEvMCkgc2V0IHYgPSB6CiAgICBlbHNlIHYgPSB6CgogICAgcmV0dXJuICgoaCAmIDEpID09IDAgPyB1IDogLXUpICsgKChoICYgMikgPT0gMCA/IHYgOiAtdikgLy8gVXNlIHRoZSBsYXN0IDIgYml0cyB0byBkZWNpZGUgaWYgdSBhbmQgdiBhcmUgcG9zaXRpdmUgb3IgbmVnYXRpdmUuICBUaGVuIHJldHVybiB0aGVpciBhZGRpdGlvbi4KICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2wudXNlUHJvZ3JhbSh0aGlzLnByb2dyYW0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBncmFkKGhhc2g6IG51bWJlciwgeDogbnVtYmVyLCB5OiBudW1iZXIsIHo6IG51bWJlcik6IG51bWJlciB7CiAgICBjb25zdCBoID0gaGFzaCAmIDE1IC8vIFRha2UgdGhlIGhhc2hlZCB2YWx1ZSBhbmQgdGFrZSB0aGUgZmlyc3QgNCBiaXRzIG9mIGl0ICgxNSA9PSAwYjExMTEpCiAgICBjb25zdCB1ID0gaCA8IDggLyogMGIxMDAwICovID8geCA6IHkgLy8gSWYgdGhlIG1vc3Qgc2lnbmlmaWNhbnQgYml0IChNU0IpIG9mIHRoZSBoYXNoIGlzIDAgdGhlbiBzZXQgdSA9IHguICBPdGhlcndpc2UgeS4KCiAgICBsZXQgdiAvLyBJbiBLZW4gUGVybGluJ3Mgb3JpZ2luYWwgaW1wbGVtZW50YXRpb24gdGhpcyB3YXMgYW5vdGhlciBjb25kaXRpb25hbCBvcGVyYXRvciAoPzopLiAgSQogICAgLy8gZXhwYW5kZWQgaXQgZm9yIHJlYWRhYmlsaXR5LgoKICAgIGlmIChoIDwgNCAvKiAwYjAxMDAgKi8pCiAgICAgIC8vIElmIHRoZSBmaXJzdCBhbmQgc2Vjb25kIHNpZ25pZmljYW50IGJpdHMgYXJlIDAgc2V0IHYgPSB5CiAgICAgIHYgPSB5CiAgICBlbHNlIGlmIChoID09IDEyIC8qIDBiMTEwMCAqLyB8fCBoID09IDE0IC8qIDBiMTExMCovKQogICAgICAvLyBJZiB0aGUgZmlyc3QgYW5kIHNlY29uZCBzaWduaWZpY2FudCBiaXRzIGFyZSAxIHNldCB2ID0geAogICAgICB2ID0geAogICAgLy8gSWYgdGhlIGZpcnN0IGFuZCBzZWNvbmQgc2lnbmlmaWNhbnQgYml0cyBhcmUgbm90IGVxdWFsICgwLzEsIDEvMCkgc2V0IHYgPSB6CiAgICBlbHNlIHYgPSB6CgogICAgcmV0dXJuICgoaCAmIDEpID09IDAgPyB1IDogLXUpICsgKChoICYgMikgPT0gMCA/IHYgOiAtdikgLy8gVXNlIHRoZSBsYXN0IDIgYml0cyB0byBkZWNpZGUgaWYgdSBhbmQgdiBhcmUgcG9zaXRpdmUgb3IgbmVnYXRpdmUuICBUaGVuIHJldHVybiB0aGVpciBhZGRpdGlvbi4KICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpLGFyZyxkYXRhLGxvY2F0aW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQZXJsaW5GaWx0ZXJcPg==</last-search>
+      <last-search>vertexAttribPointer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQZXJsaW5GaWx0ZXJcPg==</last-pattern>
-      <last-replace>21</last-replace>
-      <last-substitute encoding="base64">XDwxNFw+</last-substitute>
+      <last-pattern>vertexAttribPointer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzmipXkv6Hlp5ToqJfkvJrnpL7kubHnq4tcPg==</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>getUserWithdrawAccount</entry>
-        <entry>glaph</entry>
-        <entry>storybook</entry>
-        <entry>start</entry>
-        <entry>babel-load</entry>
-        <entry encoding="base64">XDxzdGFnZVdpZHRoXD4=</entry>
-        <entry encoding="base64">XDxyZXNpemVcPg==</entry>
-        <entry>stageWidth</entry>
-        <entry encoding="base64">XDxmYWRlXD4=</entry>
-        <entry>static</entry>
-        <entry encoding="base64">XDxwZXJsaW5cPg==</entry>
-        <entry encoding="base64">XDxsZXJwXD4=</entry>
-        <entry encoding="base64">XDxwZXJtdXRhdGlvblw+</entry>
-        <entry encoding="base64">XDxyZXBlYXRcPg==</entry>
-        <entry encoding="base64">XDxpbmNcPg==</entry>
-        <entry>grad</entry>
-        <entry encoding="base64">XDxTaGFkZXJcPg==</entry>
-        <entry encoding="base64">XDxQZXJsaW5GaWx0ZXJcPg==</entry>
+        <entry>createTransformFeedback</entry>
+        <entry encoding="base64">XDxjcmVhdGVCdWZmZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRCdWZmZXJTdWJEYXRhXD4=</entry>
+        <entry>feedbackBuffer</entry>
+        <entry encoding="base64">XDxidWZmZXJEYXRhXD4=</entry>
+        <entry>transformfeedback</entry>
+        <entry encoding="base64">XDxiaW5kQnVmZmVyQmFzZVw+</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1GZWVkYmFja1w+</entry>
+        <entry encoding="base64">XDxiaW5kVHJhbnNmb3JtRmVlZGJhY2tcPg==</entry>
+        <entry>attribute</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVMb2NhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVQcm9ncmFtXD4=</entry>
+        <entry>this.attributes</entry>
+        <entry>vertexAttribPointer</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDxQdXRFdGZDbG9zaW5nUHJpY2VSZXNwb25zZURUT1w+L1B1dEZ4UmF0ZVJlc3BvbnNlRFRPL2c=</entry>
-        <entry>306</entry>
-        <entry>sp</entry>
-        <entry>2w</entry>
-        <entry>%s/EtfClosingPrice/FxRate/g</entry>
-        <entry>%s/RoboAdvContractService/ReutersService/g</entry>
-        <entry>%s/RoboAdvContractService/ReutersThriftService/g</entry>
-        <entry encoding="base64">JXMvXDxyb2JvX2Fkdlw+L3JldXRlcnMvZw==</entry>
-        <entry>%s/robo_adv_contract/reuters_thrift/g</entry>
-        <entry>%s/etf-closing-price/fx-rate/g</entry>
-        <entry>w:w</entry>
-        <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
-        <entry>e!</entry>
-        <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
-        <entry>nohlsearch</entry>
         <entry>vs</entry>
-        <entry>q</entry>
-        <entry>368</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>402</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
