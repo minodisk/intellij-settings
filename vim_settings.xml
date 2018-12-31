@@ -3,15 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546151152890">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/glsl-tokenizer.d.ts" timestamp="1546264396844">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546151175806">
-        <mark key="'" line="306" column="15" />
-        <mark key="[" line="428" column="46" />
-        <mark key="]" line="428" column="47" />
-        <mark key="." line="428" column="47" />
-        <mark key="^" line="428" column="46" />
+      <file name="/Dummy.txt" timestamp="1546151194519">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546264400098">
+        <mark key="'" line="309" column="15" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" timestamp="1546150233121">
         <mark key="[" line="21" column="35" />
@@ -104,13 +113,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>webgl-noise/src/noise2D.glsl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getBufferSubData</text>
+        <text>glsl-tokenizer/string</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAwLAogICAgICAgIDMsCg==</text>
@@ -148,7 +157,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwxXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -187,6 +196,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
