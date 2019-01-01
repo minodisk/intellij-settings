@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/glsl-tokenizer.d.ts" timestamp="1546264396844">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/glsl-tokenizer.d.ts" timestamp="1546264537568">
         <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/glsl-parser.d.ts" timestamp="1546264506302">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1546151194519">
         <mark key="[" line="0" column="0" />
@@ -15,14 +20,27 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546264400098">
-        <mark key="'" line="309" column="15" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="52" />
-        <mark key="^" line="0" column="28" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" timestamp="1546270368184">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" timestamp="1546150233121">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1546265218369">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546269955632">
+        <mark key="'" line="307" column="8" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" timestamp="1546266093756">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="38" />
         <mark key="^" line="21" column="38" />
@@ -110,43 +128,50 @@
       <jump line="450" column="42" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="428" column="150" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="306" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="355" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="307" column="8" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
+      <jump line="2" column="7" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
+      <jump line="59" column="8" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
+      <jump line="13" column="22" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
+      <jump line="17" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>webgl-noise/src/noise2D.glsl</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>glsl-tokenizer/string</text>
+        <text>{ attributes, uniforms, varyings }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAwLAogICAgICAgIDMsCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdG9rZW5pemVyIGZyb20gJ2dsc2wtdG9rZW5pemVyL3N0cmluZycKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlCdWZmZXIoRmxvYXQzMkFycmF5LkJZVEVTX1BFUl9FTEVNRU5UKSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VucyA9IHRva2VuaXplcihzb3VyY2UpCiAgICBjb25zdCBhdHRyaWJ1dGVzOiBBcnJheTx7IHR5cGU6IHN0cmluZzsgbmFtZTogc3RyaW5nIH0+ID0gW10KICAgIGNvbnN0IHVuaWZvcm1zOiBBcnJheTx7IHR5cGU6IHN0cmluZzsgbmFtZTogc3RyaW5nIH0+ID0gW10KICAgIGNvbnN0IHZhcnlpbmdzOiBBcnJheTx7IHR5cGU6IHN0cmluZzsgbmFtZTogc3RyaW5nIH0+ID0gW10KICAgIGZvciAobGV0IGkgPSAwOyBpIDwgdG9rZW5zLmxlbmd0aDsgaSsrKSB7CiAgICAgIGNvbnN0IHRva2VuID0gdG9rZW5zW2ldCiAgICAgIHN3aXRjaCAodG9rZW4udHlwZSkgewogICAgICAgIGNhc2UgJ2tleXdvcmQnOiB7CiAgICAgICAgICBzd2l0Y2ggKHRva2VuLmRhdGEpIHsKICAgICAgICAgICAgY2FzZSAnaW4nOgogICAgICAgICAgICBjYXNlICd1bmlmb3JtJzoKICAgICAgICAgICAgY2FzZSAnb3V0JzogewogICAgICAgICAgICAgIGNvbnN0IG5vZGU6IHsgdHlwZTogc3RyaW5nOyBuYW1lOiBzdHJpbmcgfSA9IHsKICAgICAgICAgICAgICAgIHR5cGU6ICcnLAogICAgICAgICAgICAgICAgbmFtZTogJycsCiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGZvcndhcmRpbmc6IGZvciAoOyA7IGkrKykgewogICAgICAgICAgICAgICAgY29uc3QgdCA9IHRva2Vuc1tpXQogICAgICAgICAgICAgICAgc3dpdGNoICh0LnR5cGUpIHsKICAgICAgICAgICAgICAgICAgY2FzZSAna2V5d29yZCc6IHsKICAgICAgICAgICAgICAgICAgICBub2RlLnR5cGUgPSB0LmRhdGEKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgIGNhc2UgJ2lkZW50JzogewogICAgICAgICAgICAgICAgICAgIG5vZGUubmFtZSA9IHQuZGF0YQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgY2FzZSAnb3BlcmF0b3InOiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHQuZGF0YSA9PT0gJzsnKSB7CiAgICAgICAgICAgICAgICAgICAgICBicmVhayBmb3J3YXJkaW5nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgc3dpdGNoICh0b2tlbi5kYXRhKSB7CiAgICAgICAgICAgICAgICBjYXNlICdpbic6IHsKICAgICAgICAgICAgICAgICAgYXR0cmlidXRlcy5wdXNoKG5vZGUpCiAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXNlICd1bmlmb3JtJzogewogICAgICAgICAgICAgICAgICB1bmlmb3Jtcy5wdXNoKG5vZGUpCiAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXNlICdvdXQnOiB7CiAgICAgICAgICAgICAgICAgIHZhcnlpbmdzLnB1c2gobm9kZSkKICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgYnJlYWsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZXMsIHVuaWZvcm1zLCB2YXJ5aW5ncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlCdWZmZXIoRmxvYXQzMkFycmF5LkJZVEVTX1BFUl9FTEVNRU5UKSwKICAgICAgICBuZXcgQXJyYXlCdWZmZXIoRmxvYXQzMkFycmF5LkJZVEVTX1BFUl9FTEVNRU5UKSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF0dHJpYnV0ZXM6IEFycmF5PHsgdHlwZTogc3RyaW5nOyBuYW1lOiBzdHJpbmcgfT4gPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9ncmFtLAogICAgICB0aGlzLmdsLkFDVElWRV9BVFRSSUJVVEVTLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhdHRyaWJ1dGVzLnB1c2gobm9kZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBudW1BdHRyaWJzID0gdGhpcy5nbC5nZXRQcm9ncmFtUGFyYW1ldGVyKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAodG8pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG51bUF0dHJpYnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhdHRyaWJ1dGVzLnB1c2gobm9kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnb3V0JzogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -183,8 +208,8 @@
       </history-search>
       <history-cmd>
         <entry>vs</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>402</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
