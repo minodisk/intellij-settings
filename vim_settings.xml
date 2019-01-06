@@ -44,6 +44,12 @@
       <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/lib/gpgpu.js" timestamp="1546697662114">
         <mark key="'" line="126" column="1832" />
       </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/parser.ts" timestamp="1546736316262">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" timestamp="1546694837989">
         <mark key="'" line="0" column="5" />
         <mark key="[" line="0" column="0" />
@@ -51,12 +57,19 @@
         <mark key="^" line="437" column="10" />
         <mark key="." line="344" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/webpack.config.js" timestamp="1546698635579">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/webpack.config.js" timestamp="1546742586540">
         <mark key="'" line="19" column="38" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/parser.d.ts" timestamp="1546736366480">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" timestamp="1546700110055">
         <mark key="[" line="19" column="0" />
@@ -86,32 +99,24 @@
         <mark key="^" line="64" column="4" />
         <mark key="." line="64" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1546694932720">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="1" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546740986285">
+        <mark key="'" line="209" column="12" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+        <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546730002348">
-        <mark key="'" line="334" column="37" />
-        <mark key="^" line="437" column="18" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546742668989">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546729406524">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" timestamp="1546730365420">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="12" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1546696501649">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" timestamp="1546736537190">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/jest.config.js" timestamp="1546698872412">
         <mark key="'" line="0" column="0" />
@@ -120,17 +125,17 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1546730071103">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="60" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1546741040637">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546729232157">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="20" column="5" />
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546742721840">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.test.ts" timestamp="1546698787893">
         <mark key="'" line="0" column="0" />
@@ -139,21 +144,15 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.d.ts" timestamp="1546736474045">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="277" column="45" />
+        <mark key="]" line="277" column="51" />
+        <mark key="." line="277" column="51" />
+        <mark key="^" line="277" column="51" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="150" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="306" column="15" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="307" column="8" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="2" column="7" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
-      <jump line="59" column="8" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
-      <jump line="13" column="22" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
-      <jump line="67" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
-      <jump line="17" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/parser.ts" />
-      <jump line="301" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/storybook__html.d.ts" />
-      <jump line="261" column="1" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
-      <jump line="301" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
-      <jump line="1" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
       <jump line="300" column="2" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
       <jump line="297" column="10" filename="$USER_HOME$/Workspace/github.com/minodisk/generative/.definitions/webgl2-rendering-context.d.ts" />
@@ -241,61 +240,70 @@
       <jump line="333" column="35" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
       <jump line="334" column="37" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
       <jump line="18" column="3" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="13" column="46" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="20" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="105" column="11" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="172" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="175" column="13" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="5" column="5" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/parser.d.ts" />
+      <jump line="299" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.d.ts" />
+      <jump line="11" column="16" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="174" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="203" column="12" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="0" column="6" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.d.ts" />
+      <jump line="20" column="14" filename="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>*</text>
+        <text>libraryTarget: 'umd',</text>
       </register>
       <register name="/" type="4">
-        <text>covera</text>
+        <text>cover</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4K</text>
+      <register name="0" type="4">
+        <text>createGPGPUwithCanvas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb3ZlcmFnZURpcmVjdG9yeTogJ2NvdmVyYWdlJywKICBjb2xsZWN0Q292ZXJhZ2VGcm9tOiBbCiAgICAiKiovc3JjLyoqIgogIF0sCg==</text>
+        <text encoding="base64">ICAgIGxpYnJhcnk6ICdncGdwdScsCiAgICBsaWJyYXJ5VGFyZ2V0OiAndW1kJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIqKi9hcHBfbW9kdWxlcy8qKiIsCg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgZ2w6IFdlYkdMMlJlbmRlcmluZ0NvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBzd2l0Y2ggKHR5cGUpIHsKICAgICAgICAgIGNhc2UgJ2Zsb2F0JzoKICAgICAgICAgICAgdGhpcy5nbC51bmlmb3JtMWZ2KGxvY2F0aW9uLCB2YWx1ZSkKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgJ3ZlYzInOgogICAgICAgICAgICB0aGlzLmdsLnVuaWZvcm0yZnYobG9jYXRpb24sIHZhbHVlKQogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSAndmVjMyc6CiAgICAgICAgICAgIHRoaXMuZ2wudW5pZm9ybTNmdihsb2NhdGlvbiwgdmFsdWUpCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBjYXNlICd2ZWM0JzoKICAgICAgICAgICAgdGhpcy5nbC51bmlmb3JtNGZ2KGxvY2F0aW9uLCB2YWx1ZSkKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgJ21hdDMnOgogICAgICAgICAgICB0aGlzLmdsLnVuaWZvcm1NYXRyaXgzZnYobG9jYXRpb24sIGZhbHNlLCB2YWx1ZSkKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgJ21hdDQnOgogICAgICAgICAgICB0aGlzLmdsLnVuaWZvcm1NYXRyaXg0ZnYobG9jYXRpb24sIGZhbHNlLCB2YWx1ZSkKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgZG9lcyBub3QgbWF0Y2ggYW55IHR5cGVgKQogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2wgPSBnbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFBcnJheS5pc0FycmF5KHZhbHVlKSkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgImdsc2wtdG9rZW5pemVyIjogIl4yLjEuNSIKICB9LAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGdsID0gY2FudmFzLmdldENvbnRleHQoJ3dlYmdsMicsIHsKICAgICAgYW50aWFsaWFzOiBmYWxzZSwKICAgIH0pIGFzIFdlYkdMMlJlbmRlcmluZ0NvbnRleHQKICAgIGlmIChnbCA9PSB1bmRlZmluZWQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCdXZWJHTDIgaXMgbm90IGF2YWlsYWJsZScpCiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNhbnZhcyA9IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ3BncHUgPSBuZXcgR1BHUFUoZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnY2FudmFzJykpCmdwZ3B1LmJpbmQoW10pCg==</text>
+        <text encoding="base64">ICBjb3ZlcmFnZURpcmVjdG9yeTogJ2NvdmVyYWdlJywKICBjb2xsZWN0Q292ZXJhZ2VGcm9tOiBbCiAgICAic3JjLyoqLnRzIgogIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgTm9kZXMgfSBmcm9tICcuL3BhcnNlci5kJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTm9kZXMgfSBmcm9tICcuL3BhcnNlcicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>covera</last-search>
+      <last-search>cover</last-search>
       <last-offset />
-      <last-pattern>covera</last-pattern>
+      <last-pattern>cover</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmdcPg==</entry>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
-        <entry encoding="base64">XDx1bmlmb3Jtc1w+</entry>
-        <entry>node</entry>
         <entry>__tests</entry>
         <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
         <entry>ts-jest</entry>
@@ -312,6 +320,10 @@
         <entry>shader can not be created</entry>
         <entry encoding="base64">XDxjcmVhdGVTaGFkZXJcPg==</entry>
         <entry>covera</entry>
+        <entry encoding="base64">XDxXZWJHTFRyYW5zZm9ybUZlZWRiYWNrXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1GZWVkYmFja1w+</entry>
+        <entry encoding="base64">XDxiaW5kVHJhbnNmb3JtRmVlZGJhY2tcPg==</entry>
+        <entry>cover</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
