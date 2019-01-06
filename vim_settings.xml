@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546730309186">
+      <file name="/Dummy.txt" timestamp="1546745354319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -99,19 +99,19 @@
         <mark key="^" line="64" column="4" />
         <mark key="." line="64" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546740986285">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546745452084">
         <mark key="'" line="209" column="12" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="168" column="93" />
+        <mark key="]" line="168" column="93" />
+        <mark key="." line="168" column="93" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546742668989">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546745350292">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="1" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" timestamp="1546736537190">
         <mark key="[" line="18" column="0" />
@@ -256,7 +256,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>libraryTarget: 'umd',</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>cover</text>
