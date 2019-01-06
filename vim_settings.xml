@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546694784961">
+      <file name="/Dummy.txt" timestamp="1546730309186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -103,11 +103,11 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" timestamp="1546730250406">
+      <file name="$USER_HOME$/Workspace/github.com/minodisk/gpgpu/jest.config.js" timestamp="1546730365420">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="12" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1546696501649">
@@ -244,7 +244,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>covera</text>
