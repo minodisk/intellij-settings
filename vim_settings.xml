@@ -9,7 +9,8 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546826276483">
+      <file name="/Dummy.txt" timestamp="1546832310761">
+        <mark key="e" line="0" column="10" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/webpack.config.js" timestamp="1545961618115">
@@ -42,11 +43,11 @@
         <mark key="." line="336" column="11" />
         <mark key="^" line="336" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1545982631266">
-        <mark key="'" line="98" column="51" />
-        <mark key="[" line="98" column="45" />
-        <mark key="]" line="98" column="45" />
-        <mark key="." line="98" column="45" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1546832395932">
+        <mark key="'" line="95" column="8" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="98" column="53" />
+        <mark key="." line="97" column="34" />
         <mark key="^" line="77" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/.definitions/webgl-noise.d.ts" timestamp="1545961431546">
@@ -104,6 +105,13 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatchTest.scala" timestamp="1546832448847">
+        <mark key="'" line="92" column="45" />
+        <mark key="[" line="90" column="38" />
+        <mark key="]" line="90" column="39" />
+        <mark key="." line="90" column="39" />
+        <mark key="^" line="90" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/codeship.aes" timestamp="1546826921070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -129,10 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="296" column="38" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="206" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="165" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
@@ -229,6 +233,10 @@
       <jump line="1160" column="42" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="1162" column="8" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="182" column="16" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
+      <jump line="95" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
+      <jump line="151" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatchTest.scala" />
+      <jump line="87" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatchTest.scala" />
+      <jump line="88" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutEtfClosingPriceBatchTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -251,13 +259,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>BASIC_ISO_DATE.remove</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCQVNJQ19JU09fREFURVw+</text>
+        <text encoding="base64">XDxwdXRSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>BASIC_ISO_DATE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBwdXRLZXkgPSBwdXRSZXF1ZXN0LmdldEtleQogICAgYXNzZXJ0KHB1dEtleS5lbmRzV2l0aCgiL2Z4X3JhdGVfMjAxODEyMjcuanNvbiIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -291,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCQVNJQ19JU09fREFURVw+</last-search>
+      <last-search encoding="base64">XDxwdXRSZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCQVNJQ19JU09fREFURVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwdXRSZXF1ZXN0XD4=</last-pattern>
       <last-replace>GLenum</last-replace>
       <last-substitute encoding="base64">XDxudW1iZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCdWZmZXJTdWJEYXRhXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVTaGFkZXJcPg==</entry>
         <entry encoding="base64">XDxERVBUSF9TVEVOQ0lMX0FUVEFDSE1FTlRcPg==</entry>
         <entry encoding="base64">XDxmcmFnbWVudFNoYWRlclw+</entry>
@@ -321,6 +328,7 @@
         <entry>TRANSFORM_FEEDBACK_BUFFER</entry>
         <entry encoding="base64">XDxUUkFOU0ZPUk1fRkVFREJBQ0tfQlVGRkVSXD4=</entry>
         <entry encoding="base64">XDxCQVNJQ19JU09fREFURVw+</entry>
+        <entry encoding="base64">XDxwdXRSZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/EtfClosingPrice/FxRate/g</entry>
