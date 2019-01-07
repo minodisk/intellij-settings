@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="DiscretionaryInvestmentContract.yml" type="PLAIN_TEXT" />
+      <mapping ext="aes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
