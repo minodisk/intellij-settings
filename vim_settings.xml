@@ -9,10 +9,11 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1546839092402">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1546854584285">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/webpack.config.js" timestamp="1545961618115">
         <mark key="[" line="13" column="0" />
@@ -44,11 +45,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546836082126">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546853588512">
+        <mark key="'" line="200" column="32" />
+        <mark key="[" line="213" column="37" />
+        <mark key="]" line="213" column="45" />
+        <mark key="." line="213" column="45" />
+        <mark key="^" line="213" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/.definitions/webgl-noise.d.ts" timestamp="1545961431546">
         <mark key="[" line="0" column="44" />
@@ -134,7 +136,7 @@
         <mark key="." line="16" column="82" />
         <mark key="^" line="16" column="114" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546841104940">
+      <file name="/Dummy.txt" timestamp="1546854615946">
         <mark key="e" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
@@ -188,42 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="195" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="214" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="240" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="253" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="103" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="265" column="38" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="1" column="15" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="2" column="21" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="275" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="303" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="311" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="280" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="301" column="39" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="273" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="305" column="38" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="318" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="284" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="325" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="300" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="327" column="27" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="326" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="337" column="28" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="336" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/WebGL.ts" />
-      <jump line="1" column="26" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.stories.ts" />
-      <jump line="308" column="34" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="349" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="286" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="314" column="24" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="365" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="366" column="27" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="200" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="397" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="386" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="387" column="28" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="412" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="322" column="42" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
@@ -288,6 +254,42 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/server.js" />
       <jump line="39" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" />
+      <jump line="16" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="18" column="55" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="199" column="8" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="21" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="26" column="15" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="27" column="42" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="188" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="189" column="42" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="165" column="26" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="121" column="43" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="190" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="174" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="207" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="112" column="11" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="173" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="176" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="29" column="6" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="37" column="15" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="67" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="4" column="13" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="5" column="6" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="154" column="9" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="159" column="50" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="208" column="49" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="127" column="42" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="130" column="24" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="213" column="51" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="131" column="42" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="134" column="24" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="135" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="164" column="52" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="212" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="194" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="200" column="32" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -310,49 +312,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>り</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>circle</text>
+        <text>RASTERIZER_DISCARD</text>
       </register>
       <register name="0" type="4">
-        <text>https://folio-sec.atlassian.net/wiki/spaces/roboShareWithIIWI/pages/151164077/Storage</text>
+        <text>1.1 * 5.2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEdQR1BVIGZyb20gJy4uL3NyYy9HUEdQVScKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFjdHVhbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpbnRlcmZhY2UgR1BHUFVQa2cgewogICAgZGVmYXVsdDogR1BHUFUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">R1BHUFUuY3JlYXRlKCkKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cuZ3BncHUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>circle</last-search>
+      <last-search>RASTERIZER_DISCARD</last-search>
       <last-offset />
-      <last-pattern>circle</last-pattern>
+      <last-pattern>RASTERIZER_DISCARD</last-pattern>
       <last-replace>GLenum</last-replace>
       <last-substitute encoding="base64">XDxudW1iZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -360,18 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcmFnbWVudFNoYWRlclw+</entry>
-        <entry encoding="base64">XDxwcmVjaXNpb25cPg==</entry>
-        <entry encoding="base64">XDxiaW5kQnVmZmVyXD4=</entry>
-        <entry encoding="base64">XDxnZXRSZXN1bHRcPg==</entry>
-        <entry>result</entry>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1GZWVkYmFja1ZhcnlpbmdzXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVQcm9ncmFtXD4=</entry>
-        <entry encoding="base64">XDx2YXJ5aW5nc1w+</entry>
-        <entry>beginTransform</entry>
-        <entry encoding="base64">XDxzZXR1cEZlZWRiYWNrXD4=</entry>
-        <entry>Feedback</entry>
-        <entry>bindBufferBase</entry>
         <entry encoding="base64">XDx2YXJ5aW5nTGVuZ3RoXD4=</entry>
         <entry>TODO</entry>
         <entry>TRANSFORM_FEEDBACK_BUFFER</entry>
@@ -380,9 +370,20 @@
         <entry encoding="base64">XDxwdXRSZXF1ZXN0XD4=</entry>
         <entry>webpack</entry>
         <entry>circle</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>3</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
+        <entry encoding="base64">XDwzXD4=</entry>
+        <entry encoding="base64">XDxiaW5kVHJhbnNmb3JtRmVlZGJhY2tcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1GZWVkYmFja1w+</entry>
+        <entry>console.log</entry>
+        <entry>console</entry>
+        <entry>length</entry>
+        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDxiaW5kQnVmZmVyQmFzZVw+</entry>
+        <entry>RASTERIZER_DISCARD</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/EtfClosingPrice/FxRate/g</entry>
         <entry>%s/RoboAdvContractService/ReutersService/g</entry>
         <entry>%s/RoboAdvContractService/ReutersThriftService/g</entry>
         <entry encoding="base64">JXMvXDxyb2JvX2Fkdlw+L3JldXRlcnMvZw==</entry>
@@ -399,8 +400,9 @@
         <entry encoding="base64">JXMvXDxudW1iZXJcPi9HTGVudW0vZ2M=</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>:w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
