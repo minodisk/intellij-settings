@@ -80,6 +80,10 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1546841187955">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546836491515">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="26" />
@@ -130,7 +134,7 @@
         <mark key="." line="16" column="82" />
         <mark key="^" line="16" column="114" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546840978026">
+      <file name="/Dummy.txt" timestamp="1546841104940">
         <mark key="e" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
@@ -172,10 +176,10 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" timestamp="1546840960401">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_fx_rate.groovy" timestamp="1546841201256">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="19" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="84" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
@@ -311,8 +315,8 @@
       <register name="/" type="4">
         <text>circle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IEdQR1BVIH0gPSB3aW5kb3cuZ3BncHUKICAgICAgICBjb25zdCBncGdwdSA9IEdQR1BVLmNyZWF0ZSgpCiAgICAgICAgZ3BncHUuY29tcGlsZShgI3ZlcnNpb24gMzAwIGVzCmluIGZsb2F0IGluMTsKaW4gZmxvYXQgaW4yOwp1bmlmb3JtIGZsb2F0IHVuaTE7CnVuaWZvcm0gZmxvYXQgdW5pMjsKb3V0IGZsb2F0IHJlczE7Cm91dCBmbG9hdCByZXMyOwp2b2lkIG1haW4odm9pZCl7CiAgcmVzMSA9IGluMSAqIHVuaTE7CiAgcmVzMiA9IGluMiAqIHVuaTI7Cn1gKQogICAgICAgIGdwZ3B1LmJpbmQoMS41LCAyLjUpCiAgICAgICAgcmV0dXJuIHsgcmVzOiBncGdwdS5leGVjKFsxLCAzLCA1XSwgWzIsIDQsIDZdKSB9Cg==</text>
+      <register name="0" type="4">
+        <text>https://folio-sec.atlassian.net/wiki/spaces/roboShareWithIIWI/pages/151164077/Storage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
