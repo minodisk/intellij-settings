@@ -9,11 +9,11 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1546933612796">
-        <mark key="[" line="73" column="43" />
-        <mark key="]" line="73" column="44" />
-        <mark key="." line="73" column="44" />
-        <mark key="^" line="73" column="44" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1547019262673">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/webpack.config.js" timestamp="1545961618115">
         <mark key="[" line="13" column="0" />
@@ -214,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="422" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="1160" column="42" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="1162" column="8" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="182" column="16" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="95" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -314,6 +311,9 @@
       <jump line="326" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="377" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="361" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -336,43 +336,43 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>の</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>値の検査をする</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICogVE9ETyBzY2FsYSDjgrPjg7zjg4nlrp/oo4UK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6IGBub3RoaW5nYCwKICAgICAgICBjb2RlOiBgCiAgICAgICAgICBmbG9hdCByZXMxOwogICAgICAgICAgdm9pZCBtYWluKHZvaWQpewogICAgICAgICAgICByZXMxID0gMTIzLjAgKiA1LjA7CiAgICAgICAgICB9CiAgICAgICAgICBgLAogICAgICAgIHVuaWZvcm1zOiBbXSwKICAgICAgICBhdHRyaWJ1dGVzOiBbXSwKICAgICAgICBleHBlY3RlZDogW10sCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICog56mN56uL44Gu6Kit5a6a44Gu572u44GN5o+b44GI44GM44Gn44GN44KL44GL44KS5qSc5p+744GZ44KLCg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdmbG9hdCcsICgpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICog5oyH5a6a5pel44Gu56mN56uL44Gu6YeR6aGN44Go54q25oWL44KS572u44GN5o+b44GI5Y+v6IO944GL44KS44OQ44Oq44OH44O844OI44GZ44KLCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5BY2NvdW50U2VydmljZUVycm9yIGFjY291bnRTZXJ2aWNlRXJyb3IK</text>
+        <text encoding="base64">ICAgICog56mN56uL44Gu6Kit5a6a44Gu572u44GN5o+b44GI44GM44Gn44GN44KL44GL44KS5qSc5p+744GZ44KLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDI6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
+        <text encoding="base64">ICAgICog5oyH5a6a5pel44Gu56mN56uL44Gu6YeR6aGN44Go54q25oWL44KS572u44GN5o+b44GI5Y+v6IO944GL44KS44OQ44Oq44OH44O844OI44GZ44KLCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuUGluIHBpbgo=</text>
+        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5BY2NvdW50U2VydmljZUVycm9yIGFjY291bnRTZXJ2aWNlRXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgICog5YWo5aOy5Y2044KS44OQ44Oq44OH44O844OI44GZ44KLCiAgICAqCiAgICAqIEB0aHJvd3MgU2VydmVyRXJyb3IKICAgICogQHRocm93cyBEdXBsaWNhdGVkT3JkZXIKICAgICovCiAgdm9pZCB2YWxpZGF0ZUFsbFNlbGwoCiAgICAxOiByZXF1aXJlZCBvcmRlcl90eXBlZGVmLlVzZXJJZCB1c2VySWQsCiAgKSB0aHJvd3MgKAogICAgMTogZmluYXRyYV90aHJpZnRfZXhjZXB0aW9ucy5TZXJ2ZXJFcnJvciBzZXJ2ZXJFcnJvcgogICAgMjogb3JkZXJfZXhjZXB0aW9uLkR1cGxpY2F0ZWRPcmRlciBkdXBsaWNhdGVkT3JkZXIKICApCgo=</text>
+        <text encoding="base64">ICAgIDI6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICovCgo=</text>
+        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuUGluIHBpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgICog44Kt44Oj44Oz44K744Or44KS44OQ44Oq44OH44O844OI44GZ44KLCg==</text>
+        <text encoding="base64">ICAvKioKICAgICog5YWo5aOy5Y2044KS44OQ44Oq44OH44O844OI44GZ44KLCiAgICAqCiAgICAqIEB0aHJvd3MgU2VydmVyRXJyb3IKICAgICogQHRocm93cyBEdXBsaWNhdGVkT3JkZXIKICAgICovCiAgdm9pZCB2YWxpZGF0ZUFsbFNlbGwoCiAgICAxOiByZXF1aXJlZCBvcmRlcl90eXBlZGVmLlVzZXJJZCB1c2VySWQsCiAgKSB0aHJvd3MgKAogICAgMTogZmluYXRyYV90aHJpZnRfZXhjZXB0aW9ucy5TZXJ2ZXJFcnJvciBzZXJ2ZXJFcnJvcgogICAgMjogb3JkZXJfZXhjZXB0aW9uLkR1cGxpY2F0ZWRPcmRlciBkdXBsaWNhdGVkT3JkZXIKICApCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -426,8 +426,8 @@
         <entry>q</entry>
         <entry>%s/validate/can/g</entry>
         <entry>%s/値の検査をする/値を検査する/g</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
