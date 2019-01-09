@@ -104,6 +104,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="/sbtShell" timestamp="1547019123176">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/.storybook/webpack.config.js" timestamp="1545961654372">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -136,7 +142,7 @@
         <mark key="]" line="99" column="55" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546937578422">
+      <file name="/Dummy.txt" timestamp="1547019052722">
         <mark key="e" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
@@ -147,11 +153,12 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547007980548">
-        <mark key="'" line="316" column="0" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547017341073">
+        <mark key="'" line="367" column="17" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="22" />
+        <mark key="." line="329" column="0" />
+        <mark key="^" line="383" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/jest-puppeteer.config.js" timestamp="1546867682931">
         <mark key="[" line="2" column="0" />
@@ -207,27 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="9" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="424" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="428" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="414" column="4" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="343" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="363" column="23" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="419" column="6" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="417" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="280" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="393" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="369" column="11" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="310" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="446" column="10" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="398" column="75" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="370" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="434" column="30" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="445" column="39" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="175" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="178" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="179" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
-      <jump line="185" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="186" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="422" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/generative/src/webgl/GLSL.ts" />
       <jump line="1160" column="42" filename="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
@@ -290,7 +276,6 @@
       <jump line="31" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentOrderService.scala" />
       <jump line="55" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentOrderService.scala" />
       <jump line="56" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentOrderService.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="6" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="16" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="328" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
@@ -307,6 +292,28 @@
       <jump line="49" column="25" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/node_modules/typedoc/dist/lib/cli.js" />
       <jump line="11" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/scripts/doc.js" />
       <jump line="17" column="27" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/scripts/doc.js" />
+      <jump line="143" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="253" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="324" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="67" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="121" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="214" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="241" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="404" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="349" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="24" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="106" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="257" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="26" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="69" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="108" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="145" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="255" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="326" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="377" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="361" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -329,61 +336,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gQkZGIOWBtOOBjOWvvuW/nOWujOS6huOBl+OBn+OCiSByZXF1aXJlZCDjgavjgZnjgos=</text>
+        <text>の</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdFw+</text>
+        <text>値の検査をする</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDE6IGZpbmF0cmFfdGhyaWZ0X2V4Y2VwdGlvbnMuU2VydmVyRXJyb3Igc2VydmVyRXJyb3IKICAgIDI6IG9yZGVyX2V4Y2VwdGlvbi5EdXBsaWNhdGVkT3JkZXIgZHVwbGljYXRlZE9yZGVyCg==</text>
+        <text encoding="base64">ICAgICogVE9ETyBzY2FsYSDjgrPjg7zjg4nlrp/oo4UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICog56mN56uL44Gu6Kit5a6a44Gu572u44GN5o+b44GI44GM44Gn44GN44KL44GL44KS5qSc5p+744GZ44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDQ6IG9yZGVyX2V4Y2VwdGlvbi5BY2NvdW50U2VydmljZUVycm9yIGFjY291bnRTZXJ2aWNlRXJyb3IK</text>
+        <text encoding="base64">ICAgICog5oyH5a6a5pel44Gu56mN56uL44Gu6YeR6aGN44Go54q25oWL44KS572u44GN5o+b44GI5Y+v6IO944GL44KS44OQ44Oq44OH44O844OI44GZ44KLCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDU6IG9yZGVyX2V4Y2VwdGlvbi5Vc2VyT3JkZXJQcm9oaWJpdGVkIHVzZXJPcmRlclByb2hpYml0ZWQK</text>
+        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5BY2NvdW50U2VydmljZUVycm9yIGFjY291bnRTZXJ2aWNlRXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDU6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFZlcnNpb24gaW52YWxpZERpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RWZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgIDI6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDY6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuVW5peFRpbWVNaWxsaXMgY29udHJhY3REYXRlCg==</text>
+        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuUGluIHBpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDU6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFZlcnNpb24gZGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFZlcnNpb24K</text>
+        <text encoding="base64">ICAvKioKICAgICog5YWo5aOy5Y2044KS44OQ44Oq44OH44O844OI44GZ44KLCiAgICAqCiAgICAqIEB0aHJvd3MgU2VydmVyRXJyb3IKICAgICogQHRocm93cyBEdXBsaWNhdGVkT3JkZXIKICAgICovCiAgdm9pZCB2YWxpZGF0ZUFsbFNlbGwoCiAgICAxOiByZXF1aXJlZCBvcmRlcl90eXBlZGVmLlVzZXJJZCB1c2VySWQsCiAgKSB0aHJvd3MgKAogICAgMTogZmluYXRyYV90aHJpZnRfZXhjZXB0aW9ucy5TZXJ2ZXJFcnJvciBzZXJ2ZXJFcnJvcgogICAgMjogb3JkZXJfZXhjZXB0aW9uLkR1cGxpY2F0ZWRPcmRlciBkdXBsaWNhdGVkT3JkZXIKICApCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDQ6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuUGluIHBpbgo=</text>
+        <text encoding="base64">ICAgICovCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvKioKICAgICog44Kt44Oj44Oz44K744Or44KS44OQ44Oq44OH44O844OI44GZ44KLCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdFw+</last-search>
+      <last-search>値の検査をする</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
-      <last-replace>Orders</last-replace>
-      <last-substitute>Orers</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>値の検査をする</last-pattern>
+      <last-replace>値を検査する</last-replace>
+      <last-substitute>値の検査をする</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1GZWVkYmFja1w+</entry>
-        <entry>console.log</entry>
-        <entry>console</entry>
-        <entry>length</entry>
-        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxiaW5kQnVmZmVyQmFzZVw+</entry>
         <entry>RASTERIZER_DISCARD</entry>
         <entry encoding="base64">XDxCdXlPcmVyc1w+</entry>
@@ -399,11 +401,13 @@
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUpzb25cPg==</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry>バリデート</entry>
+        <entry>validate</entry>
+        <entry encoding="base64">IOODkOODquODh+ODvA==</entry>
+        <entry encoding="base64">IGNhbg==</entry>
+        <entry>値の検査をする</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/RoboAdvContractService/ReutersThriftService/g</entry>
-        <entry encoding="base64">JXMvXDxyb2JvX2Fkdlw+L3JldXRlcnMvZw==</entry>
-        <entry>%s/robo_adv_contract/reuters_thrift/g</entry>
         <entry>%s/etf-closing-price/fx-rate/g</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
@@ -417,10 +421,13 @@
         <entry>:w</entry>
         <entry>%s/Orers/Orders/g</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>nohlsearch</entry>
+        <entry>%s/validate/verify/g</entry>
+        <entry>q</entry>
+        <entry>%s/validate/can/g</entry>
+        <entry>%s/値の検査をする/値を検査する/g</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
