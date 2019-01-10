@@ -39,11 +39,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1547030155071">
-        <mark key="[" line="136" column="4" />
-        <mark key="]" line="136" column="30" />
-        <mark key="." line="136" column="30" />
-        <mark key="^" line="136" column="30" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1547084560985">
+        <mark key="[" line="142" column="5" />
+        <mark key="]" line="142" column="5" />
+        <mark key="." line="142" column="7" />
+        <mark key="^" line="126" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
@@ -148,7 +148,7 @@
         <mark key="]" line="99" column="55" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547019052722">
+      <file name="/Dummy.txt" timestamp="1547031155883">
         <mark key="e" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
@@ -342,13 +342,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>TooLittleAsset</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhjZXB0aW9uIFRvb0xpdHRsZUFzc2V0IHsKICAxOiBzdHJpbmcgbWVzc2FnZQp9Cg==</text>
+        <text encoding="base64">ICAyOiBpbnQgcmVxdWlyZWRBc3NldAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhjZXB0aW9uIFNob3J0T2ZBc3NldCB7CiAgMTogc3RyaW5nIG1lc3NhZ2UKfQoK</text>
@@ -382,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TooLittleAsset</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern>TooLittleAsset</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>値を検査する</last-replace>
       <last-substitute>値の検査をする</last-substitute>
       <last-dir>1</last-dir>
@@ -392,8 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CHROME</entry>
-        <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUpzb25cPg==</entry>
@@ -412,6 +410,8 @@
         <entry encoding="base64">XDxVc2VyT3JkZXJQcm9oaWJpdGVkXD4=</entry>
         <entry>ShortOf</entry>
         <entry>TooLittleAsset</entry>
+        <entry>float</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>%s/etf-closing-price/fx-rate/g</entry>
