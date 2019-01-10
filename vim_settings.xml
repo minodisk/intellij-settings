@@ -67,11 +67,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1547087728226">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1547094230700">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
@@ -142,6 +142,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" timestamp="1547088229369">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/tsconfig.json" timestamp="1546835989509">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="33" />
@@ -208,10 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
-      <jump line="164" column="52" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
-      <jump line="212" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
-      <jump line="194" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
       <jump line="200" column="32" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
       <jump line="45" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentTransferService.scala" />
       <jump line="55" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentTransferService.scala" />
@@ -308,6 +311,10 @@
       <jump line="37" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="150" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="400" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="4" column="68" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" />
+      <jump line="5" column="68" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" />
+      <jump line="14" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" />
+      <jump line="16" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,49 +337,51 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
-        <text>migrate</text>
+        <text encoding="base64">XDxOZXdCdXlSZXNwb25zZURUT1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgbWlncmF0ZUNvbXBvbmVudDogTWlncmF0ZUNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIEZ1dHVyZS4/Pz8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+        <text encoding="base64">ICAgIGNhbk1pZ3JhdGVDb21wb25lbnQuZ2F0ZXdheS5ydW4oYXJncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5TaG9ydE9mQnV5aW5nUG93ZXIgc2hvcnRPZkJ1eWluZ1Bvd2VyCg==</text>
+        <text encoding="base64">ICAgIGNhbk1pZ3JhdGVDb21wb25lbnQuZ2F0ZXdheS5ydW4oYXJncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDQ6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuVW5peFRpbWVNaWxsaXMgYXNzZXRMYXN0RmV0Y2hlZEF0Cg==</text>
+        <text encoding="base64">ICAgIGNhbkFsbFNlbGxDb21wb25lbnQuZ2F0ZXdheS5ydW4oYXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
+        <text encoding="base64">ICAgIGNhblBhcnRpYWxTZWxsQ29tcG9uZW50LmdhdGV3YXkucnVuKGFyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNhbkFkZGl0aW9uYWxCdXlDb21wb25lbnQuZ2F0ZXdheS5ydW4oYXJncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5uZXdfYnV5LmR0by5OZXdCdXlSZXNwb25zZURUTwppbXBvcnQgY29tLmZvbGlvLnJvYm9fYWR2Lm9yZGVyLmFwcGxpY2F0aW9uLnVzZWNhc2UuYnV5Lm5ld19idXkuZHRvLk5ld0J1eVJlc3BvbnNlRFRPLkNhbk5ld0J1eUFwcGxpY2F0aW9uRXhjZXB0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS57CiAgQWNjb3VudFNlcnZpY2VFcnJvciwKICBEdXBsaWNhdGVkT3JkZXIsCiAgSW5zdWZmaWNpZW50RnVuZHMsCiAgSW52YWxpZERpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RWZXJzaW9uLAogIEludmFsaWRQaW4sCiAgVXNlck9yZGVyUHJvaGliaXRlZAp9CmltcG9ydCBjb20uZm9saW8ucm9ib19hZHYub3JkZXIuaWRsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>{
+    e match 
+  }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAgICBjYXNlIERlbGVnYXRlZE5ld0J1eUFwcGxpY2F0aW9uRXhjZXB0aW9uKGNhdXNlKSA9PgogICAgICAgIGNhdXNlIG1hdGNoIHsKICAgICAgICAgIGNhc2UgRHVwbGljYXRlZE9yZGVyKG1lc3NhZ2UsIF8pICAgICA9PiBpZGwuRHVwbGljYXRlZE9yZGVyKG1lc3NhZ2UpCiAgICAgICAgICBjYXNlIEluc3VmZmljaWVudEZ1bmRzKG1lc3NhZ2UsIF8pICAgPT4gaWRsLkluc3VmZmljaWVudEZ1bmRzKG1lc3NhZ2UpCiAgICAgICAgICBjYXNlIEludmFsaWRQaW4obWVzc2FnZSwgXykgICAgICAgICAgPT4gaWRsLkludmFsaWRQaW4obWVzc2FnZSkKICAgICAgICAgIGNhc2UgQWNjb3VudFNlcnZpY2VFcnJvcihtZXNzYWdlLCBfKSA9PiBpZGwuQWNjb3VudFNlcnZpY2VFcnJvcihtZXNzYWdlKQogICAgICAgICAgY2FzZSBJbnZhbGlkRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFZlcnNpb24obWVzc2FnZSwgXykgPT4KICAgICAgICAgICAgaWRsLkludmFsaWREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0VmVyc2lvbihtZXNzYWdlKQogICAgICAgICAgY2FzZSBVc2VyT3JkZXJQcm9oaWJpdGVkKG1lc3NhZ2UsIHJlYXNvbnMsIF8pID0+CiAgICAgICAgICAgIGlkbC5Vc2VyT3JkZXJQcm9oaWJpdGVkKG1lc3NhZ2UsIHJlYXNvbnMubWFwKHVzZXJPcmRlclByb2hpYml0ZWRSZWFzb25TZXJpYWxpemVyLnRvVGhyaWZ0KSkKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>migrate</last-search>
+      <last-search encoding="base64">XDxOZXdCdXlSZXNwb25zZURUT1w+</last-search>
       <last-offset />
-      <last-pattern>migrate</last-pattern>
+      <last-pattern encoding="base64">XDxOZXdCdXlSZXNwb25zZURUT1w+</last-pattern>
       <last-replace>値を検査する</last-replace>
       <last-substitute>値の検査をする</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZUpzb25cPg==</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry>バリデート</entry>
         <entry>validate</entry>
@@ -400,6 +408,7 @@
         <entry>number</entry>
         <entry>canMigrate</entry>
         <entry>migrate</entry>
+        <entry encoding="base64">XDxOZXdCdXlSZXNwb25zZURUT1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/etf-closing-price/fx-rate/g</entry>
