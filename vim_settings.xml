@@ -51,10 +51,6 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/src/main/groovy/com/folio/jenkinsjobdsl/jobtemplates/mixinfeatures/WithCronTrigger.groovy" timestamp="1546866502368">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1546927623622">
         <mark key="'" line="200" column="32" />
         <mark key="[" line="50" column="18" />
@@ -71,11 +67,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1547086236595">
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-        <mark key="^" line="53" column="13" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1547087728226">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
@@ -101,10 +97,6 @@
         <mark key="]" line="14" column="45" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/jenkins-job-dsl/jobs/roboadv/batch/robo_adv_put_etf_closing_price.groovy" timestamp="1546841187955">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/server.js" timestamp="1546836491515">
         <mark key="'" line="4" column="0" />
@@ -344,34 +336,34 @@
         <text>migrate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5PcmRlckV4cGlyZWQgb3JkZXJFeHBpcmVkCg==</text>
+        <text encoding="base64">ICBkZWYgbWlncmF0ZUNvbXBvbmVudDogTWlncmF0ZUNvbXBvbmVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5TaG9ydE9mQnV5aW5nUG93ZXIgc2hvcnRPZkJ1eWluZ1Bvd2VyCg==</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDQ6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuVW5peFRpbWVNaWxsaXMgYXNzZXRMYXN0RmV0Y2hlZEF0Cg==</text>
+        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5TaG9ydE9mQnV5aW5nUG93ZXIgc2hvcnRPZkJ1eWluZ1Bvd2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
+        <text encoding="base64">ICAgIDQ6IHJlcXVpcmVkIG9yZGVyX3R5cGVkZWYuVW5peFRpbWVNaWxsaXMgYXNzZXRMYXN0RmV0Y2hlZEF0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDM6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkUGluIGludmFsaWRQaW4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhjZXB0aW9uIFNob3J0T2ZBc3NldCB7CiAgMTogc3RyaW5nIG1lc3NhZ2UKfQoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
