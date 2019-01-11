@@ -40,11 +40,11 @@
       <file name="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" timestamp="1546828305741">
         <mark key="'" line="182" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1547019262673">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1547168896331">
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/dto/NewBuyResponseDTO.scala" timestamp="1547117913396">
         <mark key="'" line="0" column="0" />
@@ -98,6 +98,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547168958653">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
         <mark key="]" line="11" column="85" />
@@ -128,7 +131,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1547117861504">
+      <file name="/fragment.java" timestamp="1547168958665">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -255,13 +258,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaWduRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlc3BvbnNlRFRPXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucm9ib19hZHYub3JkZXIuYXBwbGljYXRpb24udXNlY2FzZS5idXkubmV3X2J1eQoKaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5saWIuYXBwbGljYXRpb24udXNlY2FzZS5Vc2VDYXNlCmltcG9ydCBjb20uZm9saW8ucm9ib19hZHYub3JkZXIuYXBwbGljYXRpb24udXNlY2FzZS5idXkubmV3X2J1eS5kdG8ue05ld0J1eVJlcXVlc3REVE8sIE5ld0J1eVJlc3BvbnNlRFRPfQppbXBvcnQgY29tLmZvbGlvLnJvYm9fYWR2Lm9yZGVyLmFwcGxpY2F0aW9uLnVzZWNhc2UuYnV5LntCdXlQcm9jZWR1cmUsIEJ1eVByb2NlZHVyZUV4Y2VwdGlvbn0KaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlcgppbXBvcnQgY29tLmdvb2dsZS5pbmplY3Que0luamVjdCwgU2luZ2xldG9ufQppbXBvcnQgY29tLnR3aXR0ZXIudXRpbC5GdXR1cmUKCkBTaW5nbGV0b24KY2xhc3MgTmV3QnV5VXNlQ2FzZSBASW5qZWN0KCkoCiAgICBidXlQcm9jZWR1cmU6IEJ1eVByb2NlZHVyZQopIGV4dGVuZHMgVXNlQ2FzZVtOZXdCdXlSZXF1ZXN0RFRPLCBOZXdCdXlSZXNwb25zZURUT10gewoKICBvdmVycmlkZSBkZWYgcnVuKHJlcURUTzogTmV3QnV5UmVxdWVzdERUTyk6IEZ1dHVyZVtOZXdCdXlSZXNwb25zZURUT10gPSB7CiAgICB2YWwgb3JkZXIgPSBPcmRlci5jcmVhdGVOZXdCdXlPcmRlcigKICAgICAgcmVxRFRPLnVzZXJJZCwKICAgICAgcmVxRFRPLnBsYW5JZCwKICAgICAgcmVxRFRPLm9yZGVyQW1vdW50LAogICAgICByZXFEVE8ucmVxdWVzdGVkQXQKICAgICkKCiAgICBmb3IgewogICAgICBfIDwtIGJ1eVByb2NlZHVyZQogICAgICAgIC5ydW4ob3JkZXIsIHJlcURUTy5waW4sIHJlcURUTy5kaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0LCByZXFEVE8uY29udHJhY3REYXRlKQogICAgICAgIC5yZXNjdWUgewogICAgICAgICAgY2FzZSBlOiBCdXlQcm9jZWR1cmVFeGNlcHRpb24gPT4gRnV0dXJlLmV4Y2VwdGlvbihOZXdCdXlSZXNwb25zZURUTy5EZWxlZ2F0ZWROZXdCdXlBcHBsaWNhdGlvbkV4Y2VwdGlvbihlKSkKICAgICAgICB9CiAgICB9IHlpZWxkIE5ld0J1eVJlc3BvbnNlRFRPKCkKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6IGBpbnRgLAogICAgICAgIGNvZGU6IGAKICAgICAgICAgIGludCByZXMxOwogICAgICAgICAgdm9pZCBtYWluKHZvaWQpewogICAgICAgICAgICByZXMxID0gMyAqIDQ7CiAgICAgICAgICB9CiAgICAgICAgICBgLAogICAgICAgIHVuaWZvcm1zOiBbXSwKICAgICAgICBhdHRyaWJ1dGVzOiBbXSwKICAgICAgICBleHBlY3RlZDogW10sCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5jYW5fbmV3X2J1eS5kdG8ue05ld0J1eVJlcXVlc3REVE8sIE5ld0J1eVJlc3BvbnNlRFRPfQo=</text>
