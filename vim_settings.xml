@@ -40,11 +40,11 @@
       <file name="$USER_HOME$/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" timestamp="1546828305741">
         <mark key="'" line="182" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1547168896331">
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" timestamp="1547173498772">
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="15" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/dto/NewBuyResponseDTO.scala" timestamp="1547117913396">
         <mark key="'" line="0" column="0" />
@@ -65,6 +65,12 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/installment/InstallmentSettingState.scala" timestamp="1547115967216">
         <mark key="'" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" timestamp="1547171498658">
+        <mark key="[" line="151" column="61" />
+        <mark key="]" line="151" column="61" />
+        <mark key="." line="151" column="61" />
+        <mark key="^" line="151" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1547112064489">
         <mark key="[" line="15" column="26" />
@@ -136,33 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="255" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="377" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="361" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.test.ts" />
-      <jump line="12" column="64" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/installment/InstallmentSettingRepository.scala" />
-      <jump line="3" column="58" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/installment/InstallmentSettingRepository.scala" />
-      <jump line="375" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="73" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="141" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="210" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="252" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="323" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="374" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="212" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="254" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="325" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="376" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="261" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="148" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="342" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="29" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" />
-      <jump line="386" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="49" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="66" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="92" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="107" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
@@ -236,6 +215,33 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/dto/NewBuyResponseDTO.scala" />
       <jump line="24" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" />
+      <jump line="118" column="15" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="189" column="19" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="187" column="47" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="6" column="2" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="128" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="191" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="133" column="29" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="173" column="58" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="185" column="16" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="230" column="24" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="33" column="20" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="34" column="24" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="130" column="40" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="131" column="14" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="141" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="238" column="34" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="132" column="61" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="139" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="147" column="27" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="144" column="36" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="38" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="200" column="12" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="4" column="17" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="54" column="30" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="206" column="49" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="121" column="25" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
+      <jump line="74" column="18" filename="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/GPGPU.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -258,64 +264,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaWduRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlc3BvbnNlRFRPXD4=</text>
+        <text encoding="base64">XDxnbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6IGBpbnRgLAogICAgICAgIGNvZGU6IGAKICAgICAgICAgIGludCByZXMxOwogICAgICAgICAgdm9pZCBtYWluKHZvaWQpewogICAgICAgICAgICByZXMxID0gMyAqIDQ7CiAgICAgICAgICB9CiAgICAgICAgICBgLAogICAgICAgIHVuaWZvcm1zOiBbXSwKICAgICAgICBhdHRyaWJ1dGVzOiBbXSwKICAgICAgICBleHBlY3RlZDogW10sCiAgICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmxhdCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5jYW5fbmV3X2J1eS5kdG8ue05ld0J1eVJlcXVlc3REVE8sIE5ld0J1eVJlc3BvbnNlRFRPfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGluIGZsb2F0IGluMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FuTmV3QnV5VXNlQ2FzZSB7fQoK</text>
+        <text encoding="base64">ICAgICAgICAgIGZsYXQgaW4gaW50IGluMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucm9ib19hZHYub3JkZXIuYXBwbGljYXRpb24udXNlY2FzZS5idXkuY2FuX25ld19idXkKCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZlcnRleEF0dHJpYlBvaW50ZXJUeXBlTWFwID0gewogICAgZmxvYXQ6IHRoaXMuZ2wuRkxPQVQKICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FuTmV3QnV5UmVzcG9uc2VEVE8ge30KCg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdW5pZm9ybXM6IEFycmF5PHsKICAgIGRhdGE6IFdlYkdMQnVmZmVyCiAgICBsb2NhdGlvbjogV2ViR0xVbmlmb3JtTG9jYXRpb24KICAgIHR5cGU6IHN0cmluZwogIH0+ID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm9saW8ucm9ib19hZHYub3JkZXIuYXBwbGljYXRpb24udXNlY2FzZS5idXkuY2FuX25ld19idXkuZHRvCgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGRhdGEsIGxvY2F0aW9uIH0gPSB0aGlzLmF0dHJpYnV0ZXNbaV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBpbjogUGluLAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIF8gPC0gdXNlclNob3VsZE5vdEhhdmVBY3RpdmVEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UG9saWN5UGx1Z2luCiAgICAgICAgLmNoZWNrKHJlcURUTy51c2VySWQsIHJlcURUTy5kaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0LmNvbnRyYWN0VHlwZSkKICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogUG9saWN5UGx1Z2luRXhjZXB0aW9uID0+CiAgICAgICAgICAgIEZ1dHVyZS5leGNlcHRpb24oCiAgICAgICAgICAgICAgU2lnbkRpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RSZXNwb25zZURUTwogICAgICAgICAgICAgICAgLlVzZXJIYXNBY3RpdmVEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0KGUuZ2V0TWVzc2FnZSwgZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGF0dHJpYnV0ZXMgIT0gdW5kZWZpbmVkKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBvdXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaWduRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlc3BvbnNlRFRPXD4=</last-search>
+      <last-search encoding="base64">XDxnbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaWduRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlc3BvbnNlRFRPXD4=</last-pattern>
-      <last-replace>insufficientOrderAmount</last-replace>
-      <last-substitute encoding="base64">XDx0b29MaXR0bGVBbW91bnRcPg==</last-substitute>
+      <last-pattern encoding="base64">XDxnbFw+</last-pattern>
+      <last-replace>bytesPerElement</last-replace>
+      <last-substitute encoding="base64">XDxidWZmZXJTaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TooLittleAsset</entry>
-        <entry>float</entry>
-        <entry>number</entry>
-        <entry>canMigrate</entry>
-        <entry>migrate</entry>
-        <entry encoding="base64">XDxOZXdCdXlSZXNwb25zZURUT1w+</entry>
-        <entry encoding="base64">XDxDYW5OZXdCdXlDb21wb25lbnRcPg==</entry>
-        <entry encoding="base64">XDxjYW5BY3RpdmF0ZUluc3RhbGxtZW50U2V0dGluZ1w+</entry>
         <entry encoding="base64">XDxyZXBsYWNlSW5zdGFsbG1lbnRzXD4=</entry>
         <entry>Asset</entry>
         <entry encoding="base64">XDxTaG9ydE9mQnV5aW5nUG93ZXJcPg==</entry>
@@ -328,9 +326,16 @@
         <entry encoding="base64">XDxGb2xpb0RvbWFpbkV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDxJbnN0YWxsbWVudFNldHRpbmdTdGF0ZUV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDxTaWduRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlc3BvbnNlRFRPXD4=</entry>
+        <entry encoding="base64">XDxidWZmZXJTaXplXD4=</entry>
+        <entry encoding="base64">XDxGbG9hdDMyQXJyYXlcPg==</entry>
+        <entry encoding="base64">XDxCWVRFU19QRVJfRUxFTUVOVFw+</entry>
+        <entry>bytesPerElement</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxBcnJheUJ1ZmZlck1hcFw+</entry>
+        <entry encoding="base64">XDxBdHRyaWJ1dGVcPg==</entry>
+        <entry encoding="base64">XDxnbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry encoding="base64">JXMvXDxLRVlfSlBZXD4vUklDX0pQWS9n</entry>
         <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
         <entry>e!</entry>
@@ -347,8 +352,9 @@
         <entry>%s/値の検査をする/値を検査する/g</entry>
         <entry encoding="base64">JXMvXDx0b29MaXR0bGVBbW91bnRcPi9pbnN1ZmZpY2llbnRPcmRlckFtb3VudC9n</entry>
         <entry>vs</entry>
-        <entry>q</entry>
+        <entry encoding="base64">JXMvXDxidWZmZXJTaXplXD4vYnl0ZXNQZXJFbGVtZW50L2c=</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
