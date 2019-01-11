@@ -74,12 +74,12 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547108925011">
-        <mark key="'" line="65" column="27" />
-        <mark key="[" line="275" column="52" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547196826345">
+        <mark key="'" line="99" column="2" />
+        <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="52" />
-        <mark key="." line="275" column="52" />
-        <mark key="^" line="275" column="14" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="89" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/webpack.config.js" timestamp="1546837631263">
         <mark key="[" line="4" column="16" />
@@ -209,7 +209,7 @@
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547194986328">
+      <file name="/Dummy.txt" timestamp="1547196040690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -280,23 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="47" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="193" column="47" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="502" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" />
-      <jump line="251" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="18" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="37" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="65" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
-      <jump line="29" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/application/src/main/scala/com/folio/robo_adv/contract/application/usecase/discretionary_investment/policy/SignDiscretionaryInvestmentContractPolicy.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/application/src/main/scala/com/folio/robo_adv/contract/application/usecase/discretionary_investment/policy/SignDiscretionaryInvestmentContractPolicy.scala" />
-      <jump line="9" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/application/src/main/scala/com/folio/robo_adv/contract/application/usecase/discretionary_investment/policy/plugin/DiscretionaryInvestmentContractVersionShouldNotEmptyPolicyPlugin.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/application/src/main/scala/com/folio/robo_adv/contract/application/usecase/discretionary_investment/policy/plugin/DiscretionaryInvestmentContractVersionShouldNotEmptyPolicyPlugin.scala" />
-      <jump line="2" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/installment/InstallmentSettingState.scala" />
-      <jump line="37" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/installment/InstallmentSettingState.scala" />
-      <jump line="23" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/CanNewBuyPolicy.scala" />
-      <jump line="5" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/dto/NewBuyResponseDTO.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/dto/NewBuyResponseDTO.scala" />
       <jump line="24" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" />
@@ -380,6 +363,23 @@
       <jump line="7" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedure.scala" />
       <jump line="8" column="47" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedure.scala" />
       <jump line="9" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedure.scala" />
+      <jump line="60" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="229" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="57" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="89" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="253" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="275" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="298" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="351" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="366" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="489" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="494" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="509" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="18" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="36" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="65" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
+      <jump line="99" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -402,25 +402,25 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>, CanNewBuyResponseDTO}</text>
+        <text>optional</text>
       </register>
       <register name="/" type="4">
-        <text>PolicyPlugin</text>
+        <text encoding="base64">XDxDb250cmFjdFR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDI6IHJlcXVpcmVkIG9yZGVyX2VudW0uQ29udHJhY3RUeXBlIGNvbnRyYWN0VHlwZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5CdXlQcm9jZWR1cmVFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX2VudW0uQ29udHJhY3RUeXBlIGNvbnRyYWN0VHlwZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX2VudW0uQ29udHJhY3RUeXBlIGNvbnRyYWN0VHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDM6IHJlcXVpcmVkIG9yZGVyX2VudW0uQ29udHJhY3RUeXBlIGNvbnRyYWN0VHlwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5CdXlQcm9jZWR1cmVFeGNlcHRpb24K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
@@ -429,31 +429,29 @@
         <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBvcmRlciA9IE9yZGVyLmNyZWF0ZU5ld0J1eU9yZGVyKAogICAgICByZXFEVE8udXNlcklkLAogICAgICByZXFEVE8ucGxhbklkLAogICAgICByZXFEVE8ub3JkZXJBbW91bnQsCiAgICAgIHJlcURUTy5yZXF1ZXN0ZWRBdAogICAgKQoK</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5wb2xpY3kucGx1Z2luLnsKICBCdXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwKICBEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0U2hvdWxkQmVMYXRlc3RQb2xpY3lQbHVnaW4sCiAgT3JkZXJBbW91bnRTaG91bGRCZVN1ZmZpY2llbnRQb2xpY3lQbHVnaW4sCiAgT3JkZXJTaG91bGROb3RCZUR1cGxpY2F0ZWRQb2xpY3lQbHVnaW4sCiAgVXNlck9yZGVyU2hvdWxkQmVQcm9oaWJpdGVkUG9saWN5UGx1Z2luCn0KaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5CdXlQcm9jZWR1cmVFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PolicyPlugin</last-search>
+      <last-search encoding="base64">XDxDb250cmFjdFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern>PolicyPlugin</last-pattern>
+      <last-pattern encoding="base64">XDxDb250cmFjdFR5cGVcPg==</last-pattern>
       <last-replace>bytesPerElement</last-replace>
       <last-substitute encoding="base64">XDxidWZmZXJTaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DuplicatedOrder</entry>
-        <entry encoding="base64">XDxEdXBsaWNhdGVkT3JkZXJcPg==</entry>
         <entry>account</entry>
         <entry>userOrderService</entry>
         <entry encoding="base64">XDxhY3RpdmVPcmRlclNlcnZpY2VcPg==</entry>
@@ -472,6 +470,8 @@
         <entry encoding="base64">XDxyZXF1ZXN0ZWRBdFw+</entry>
         <entry>requestAt</entry>
         <entry>PolicyPlugin</entry>
+        <entry>ContractType</entry>
+        <entry encoding="base64">XDxDb250cmFjdFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
