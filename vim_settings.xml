@@ -170,12 +170,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/CanNewBuyPolicy.scala" timestamp="1547116896708">
-        <mark key="'" line="23" column="14" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/CanNewBuyPolicy.scala" timestamp="1547196008878">
+        <mark key="[" line="2" column="91" />
+        <mark key="]" line="2" column="91" />
+        <mark key="." line="33" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
@@ -220,12 +218,12 @@
         <mark key="." line="11" column="85" />
         <mark key="^" line="11" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/CanNewBuyUseCase.scala" timestamp="1547194928277">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/CanNewBuyUseCase.scala" timestamp="1547195960793">
         <mark key="'" line="30" column="13" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-        <mark key="^" line="34" column="51" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" timestamp="1547088229369">
         <mark key="'" line="14" column="29" />
@@ -271,10 +269,11 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" timestamp="1547117980743">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/new_buy/NewBuyUseCase.scala" timestamp="1547195956401">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1547192485310">
         <mark key="[" line="0" column="0" />
@@ -403,40 +402,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>userOrderShouldBeProhibitedPolicyPlugin</text>
+        <text>, CanNewBuyResponseDTO}</text>
       </register>
       <register name="/" type="4">
         <text>PolicyPlugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSB1c2VyT3JkZXJTaG91bGRCZVByb2hpYml0ZWRQb2xpY3lQbHVnaW4KICAgICAgICAuY2hlY2sob3JkZXIpCiAgICAgICAgLnJlc2N1ZSB7CiAgICAgICAgICBjYXNlIGU6IEJ1eVByb2NlZHVyZUV4Y2VwdGlvbiA9PiBGdXR1cmUuZXhjZXB0aW9uKENhbk5ld0J1eVJlc3BvbnNlRFRPLkRlbGVnYXRlZE5ld0J1eUFwcGxpY2F0aW9uRXhjZXB0aW9uKGUpKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yZGVyQW1vdW50U2hvdWxkQmVTdWZmaWNpZW50UG9saWN5UGx1Z2luOiBPcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5CdXlQcm9jZWR1cmVFeGNlcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBvcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbi5jaGVjayhidXlPcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXJBbW91bnQ6IE9yZGVyQW1vdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQubW9kZWwuVXNlcklkCg==</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkOiBVc2VySWQsCiAgICAgIG9yZGVyQW1vdW50OiBPcmRlckFtb3VudCwK</text>
+        <text encoding="base64">ICAgICAgICAucmVzY3VlIHsKICAgICAgICAgIGNhc2UgZTogQnV5UHJvY2VkdXJlRXhjZXB0aW9uID0+IEZ1dHVyZS5leGNlcHRpb24oQ2FuTmV3QnV5UmVzcG9uc2VEVE8uRGVsZWdhdGVkTmV3QnV5QXBwbGljYXRpb25FeGNlcHRpb24oZSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQubW9kZWwuVXNlcklkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkOiBVc2VySWQK</text>
+        <text encoding="base64">ICAgIHZhbCBvcmRlciA9IE9yZGVyLmNyZWF0ZU5ld0J1eU9yZGVyKAogICAgICByZXFEVE8udXNlcklkLAogICAgICByZXFEVE8ucGxhbklkLAogICAgICByZXFEVE8ub3JkZXJBbW91bnQsCiAgICAgIHJlcURUTy5yZXF1ZXN0ZWRBdAogICAgKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQubW9kZWwuVXNlcklkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5wb2xpY3kucGx1Z2luLnsKICBCdXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwKICBEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0U2hvdWxkQmVMYXRlc3RQb2xpY3lQbHVnaW4sCiAgT3JkZXJBbW91bnRTaG91bGRCZVN1ZmZpY2llbnRQb2xpY3lQbHVnaW4sCiAgT3JkZXJTaG91bGROb3RCZUR1cGxpY2F0ZWRQb2xpY3lQbHVnaW4sCiAgVXNlck9yZGVyU2hvdWxkQmVQcm9oaWJpdGVkUG9saWN5UGx1Z2luCn0KaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLmJ1eS5CdXlQcm9jZWR1cmVFeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -475,7 +474,6 @@
         <entry>PolicyPlugin</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDwxNFw+LzIxL2c=</entry>
         <entry>e!</entry>
         <entry>74</entry>
         <entry>108</entry>
@@ -494,6 +492,7 @@
         <entry>sp</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>2w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
