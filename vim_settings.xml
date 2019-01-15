@@ -412,7 +412,7 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1547516642224">
+      <file name="/fragment.java" timestamp="1547524057870">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -575,7 +575,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -585,7 +585,7 @@
       <last-replace>AdditionalBuy</last-replace>
       <last-substitute>NewBuy</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -623,14 +623,14 @@
         <entry>%s/値の検査をする/値を検査する/g</entry>
         <entry encoding="base64">JXMvXDx0b29MaXR0bGVBbW91bnRcPi9pbnN1ZmZpY2llbnRPcmRlckFtb3VudC9n</entry>
         <entry encoding="base64">JXMvXDxidWZmZXJTaXplXD4vYnl0ZXNQZXJFbGVtZW50L2c=</entry>
-        <entry>sp</entry>
         <entry>2w</entry>
         <entry>%s/CanNewBuy/NewBuy/g</entry>
         <entry>%s/NewBuy/AdditionalBuy/g</entry>
         <entry>vs</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
