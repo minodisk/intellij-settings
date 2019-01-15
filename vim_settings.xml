@@ -45,12 +45,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547203650986">
-        <mark key="'" line="525" column="0" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="72" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="118" column="71" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1547541173031">
+        <mark key="'" line="527" column="0" />
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="120" column="71" />
+        <mark key="." line="46" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/CanNewBuyUseCase.scala" timestamp="1547539737270">
         <mark key="[" line="5" column="0" />
@@ -225,11 +225,12 @@
         <mark key="." line="18" column="88" />
         <mark key="^" line="18" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" timestamp="1547540871636">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" timestamp="1547542363199">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="58" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -351,11 +352,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/dto/CanNewBuyRequestDTO.scala" timestamp="1547537223669">
-        <mark key="[" line="0" column="81" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/dto/CanNewBuyRequestDTO.scala" timestamp="1547542379180">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRate.scala" timestamp="1545896036574">
         <mark key="[" line="2" column="36" />
@@ -418,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="494" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="509" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
       <jump line="18" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
@@ -518,6 +518,7 @@
       <jump line="21" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyRequestAdapter.scala" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyRequestAdapter.scala" />
       <jump line="17" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
+      <jump line="30" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -540,49 +541,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>NewBuy</text>
+        <text encoding="base64">XDxjb250cmFjdERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuY2hlY2socmVxRFRPLnVzZXJJZCwgcmVxRFRPLm9yZGVyQW1vdW50LCByZXFEVE8uZGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCwgcmVxRFRPLnBpbikK</text>
+        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5JbnZhbGlkRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFZlcnNpb24gaW52YWxpZERpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RWZXJzaW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFycy5jb24K</text>
+        <text encoding="base64">ICAgIHBsYW5JZDogUGxhbklkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuY29udHJhY3QK</text>
+        <text encoding="base64">ICAgICAgcGxhbklkID0gcGxhbklkRGVzZXJpYWxpemVyLmZyb21UaHJpZnQoYXJncy5wbGFuSWQpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3Mub3JkZXIK</text>
+        <text encoding="base64">ICAgICAgcGxhbklkID0gcGxhbklkRGVzZXJpYWxpemVyLmZyb21UaHJpZnQoYXJncy5wbGFuSWQpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGluID0gUGluKGFyZ3MucGluKSwK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLmNvbnRyYWN0VHlwZS5tYXAoY29udHJhY3RUeXBlRGVzZXJpYWxpemVyLmZyb21UaHJpZnQpLmdldE9yRWxzZShDb250cmFjdFR5cGUuT21ha2FzZSksIC8vIOWujOWFqOOBq+enu+ihjOOBmeOCi+OBvuOBp+OBryBOb25lIOOBoOOBo+OBn+WgtOWQiOOBq09tYWthc2Xlm7rlrprjgavjgZfjgabjgYTjgosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyZ3NnLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgIGFyZ3Mub3JkZXJBbW91bnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgb3JkZXJBbW91bnQgPSBPcmRlckFtb3VudChhcmdzLm9yZGVyQW1vdW50KSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NewBuy</last-search>
+      <last-search encoding="base64">XDxjb250cmFjdERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>NewBuy</last-pattern>
+      <last-pattern encoding="base64">XDxjb250cmFjdERhdGVcPg==</last-pattern>
       <last-replace>CanNewBuy</last-replace>
       <last-substitute>NewBuy</last-substitute>
       <last-dir>1</last-dir>
@@ -590,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2FjdGlvbk1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxvcmRlclJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0U2VydmljZVw+</entry>
         <entry encoding="base64">XDx3aXRoZHJhd1NlcnZpY2VcPg==</entry>
@@ -610,6 +610,7 @@
         <entry encoding="base64">XDxOb3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXJcPg==</entry>
         <entry encoding="base64">XDxDYW5OZXdCdXlSZXF1ZXN0RFRPXD4=</entry>
         <entry>NewBuy</entry>
+        <entry encoding="base64">XDxjb250cmFjdERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -621,14 +622,14 @@
         <entry>2w</entry>
         <entry>%s/CanNewBuy/NewBuy/g</entry>
         <entry>%s/NewBuy/AdditionalBuy/g</entry>
-        <entry>sp</entry>
         <entry encoding="base64">JXMvXDxCdXlQcm9jZWR1cmVFeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
         <entry>w;w</entry>
         <entry encoding="base64">JXMvXDxBZGRpdGlvbmFsQnV5QXBwbGljYXRpb25FeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
         <entry>vs</entry>
-        <entry>e!</entry>
         <entry>%s/AdditionalBuy/CanAdditionalBuy/g</entry>
         <entry>%s/NewBuy/CanNewBuy/gc</entry>
+        <entry>sp</entry>
+        <entry>e!</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
