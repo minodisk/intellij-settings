@@ -578,7 +578,7 @@
         <text encoding="base64">ICAgICAgcGxhbklkID0gcGxhbklkRGVzZXJpYWxpemVyLmZyb21UaHJpZnQoYXJncy5wbGFuSWQpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -631,9 +631,9 @@
         <entry>%s/NewBuy/CanNewBuy/gc</entry>
         <entry>sp</entry>
         <entry>e!</entry>
-        <entry>q</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
