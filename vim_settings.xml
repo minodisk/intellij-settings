@@ -65,11 +65,11 @@
         <mark key="^" line="26" column="89" />
         <mark key="." line="26" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/NewBuyPolicy.scala" timestamp="1547530731746">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/NewBuyPolicy.scala" timestamp="1547531980862">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="59" />
+        <mark key="^" line="18" column="59" />
+        <mark key="." line="18" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRateStorageServiceImpl.scala" timestamp="1546828340984">
         <mark key="[" line="31" column="43" />
@@ -139,10 +139,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="23" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/PinShouldBeValidPolicyPlugin.scala" timestamp="1547531159020">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="5" column="59" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/PinShouldBeValidPolicyPlugin.scala" timestamp="1547531973139">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
         <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/plugin/BuyOrderAmountShouldBeUpperThanMinAmountPolicyPlugin.scala" timestamp="1547189346857">
@@ -184,11 +184,11 @@
         <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/AdditionalBuyPolicy.scala" timestamp="1547530899334">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+        <mark key="'" line="39" column="11" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -207,6 +207,12 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedDiscretionaryInvestmentPolicyPlugin.scala" timestamp="1547531781690">
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="2" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderController.scala" timestamp="1547100313914">
         <mark key="[" line="11" column="38" />
@@ -268,11 +274,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/AdditionalBuyUseCase.scala" timestamp="1547531516579">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="103" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/AdditionalBuyUseCase.scala" timestamp="1547533783510">
+        <mark key="[" line="3" column="113" />
+        <mark key="]" line="3" column="113" />
+        <mark key="^" line="26" column="103" />
+        <mark key="." line="3" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
@@ -356,7 +362,7 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1547531528176">
+      <file name="/fragment.java" timestamp="1547531844872">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -483,40 +489,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRpdGlvbmFsQnV5QXBwbGljYXRpb25FeGNlcHRpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>PolicyPluginException</text>
+        <text>pinShouldBeValidPolicyPlugin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpd2lBc3NldFNlcnZpY2UuY2hlY2tEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIocmVxRFRPLnVzZXJJZCkucmVzY3VlIHsKICAgICAgICBjYXNlIGU6IGl3aS5Ob3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIgPT4gRnV0dXJlLmV4Y2VwdGlvbihOb3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIoZS5nZXRNZXNzYWdlLCBlKSkKICAgICAgfQoK</text>
+        <text encoding="base64">ICBOb3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIsCiAgT3JkZXJFeHBpcmVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpd2lBc3NldFNlcnZpY2UuY2hlY2tEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIocmVxRFRPLnVzZXJJZCkucmVzY3VlIHsKICAgICAgICBjYXNlIGU6IGl3aS5Ob3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIgPT4gRnV0dXJlLmV4Y2VwdGlvbihOb3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIoZS5nZXRNZXNzYWdlLCBlKSkKICAgICAgfQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpZiAoQ2hyb25vVW5pdC5EQVlTLmJldHdlZW4ocmVxRFRPLmFzc2V0TGFzdEZldGNoZWRBdC52YWx1ZSwgcmVxRFRPLnJlcXVlc3RlZEF0LnZhbHVlKSA+PSAxKSB7CiAgICAgICAgRnV0dXJlLmV4Y2VwdGlvbihPcmRlckV4cGlyZWQocyJPcmRlckV4cGlyZWQuIHJlcXVlc3RlZEF0PSR7b3JkZXIucmVxdWVzdGVkQXR9LCBsYXN0RmV0Y2hlZEF0PSR7cmVxRFRPLmFzc2V0TGFzdEZldGNoZWRBdH0iKSkKICAgICAgfSBlbHNlIEZ1dHVyZS5Vbml0Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIE9yZGVyRXhwaXJlZChtZXNzYWdlOiBTdHJpbmcsIGNhdXNlOiBUaHJvd2FibGUgPSBudWxsKSBleHRlbmRzIEFkZGl0aW9uYWxCdXlBcHBsaWNhdGlvbkV4Y2VwdGlvbihtZXNzYWdlLCBjYXVzZSkgewogICAgb3ZlcnJpZGUgdmFsIGxvZ0xldmVsOiBGb2xpb0xvZ0xldmVsID0gRm9saW9Mb2dMZXZlbC5XYXJuCiAgfQoKICBjYXNlIGNsYXNzIE5vdERpc2NyZXRpb25hcnlJbnZlc3RtZW50VXNlcihtZXNzYWdlOiBTdHJpbmcsIGNhdXNlOiBUaHJvd2FibGUgPSBudWxsKSBleHRlbmRzIEFkZGl0aW9uYWxCdXlBcHBsaWNhdGlvbkV4Y2VwdGlvbihtZXNzYWdlLCBjYXVzZSkgewogICAgb3ZlcnJpZGUgdmFsIGxvZ0xldmVsOiBGb2xpb0xvZ0xldmVsID0gRm9saW9Mb2dMZXZlbC5XYXJuCiAgfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHVzZXJJZDogVXNlcklkLAogICAgICAgICAgICAgcGluOiBQaW4sCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS50ZW1wb3JhbC5DaHJvbm9Vbml0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS57ZXhjZXB0aW9ucyA9PiBpd2l9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBVc2VyT3JkZXJTaG91bGRCZVByb2hpYml0ZWRQb2xpY3lQbHVnaW4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFVzZXJUcmFuc2FjdGlvbkxvY2tlZEV4Y2VwdGlvbihlLCBfKSA9PiBGdXR1cmUuZXhjZXB0aW9uKEFjY291bnRTZXJ2aWNlRXJyb3IoZSkpCiAgICAgIH0K</text>
+        <text encoding="base64">ICBCdXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwKICBEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0U2hvdWxkQmVMYXRlc3RQb2xpY3lQbHVnaW4sCiAgT3JkZXJBbW91bnRTaG91bGRCZVN1ZmZpY2llbnRQb2xpY3lQbHVnaW4sCiAgT3JkZXJTaG91bGROb3RCZUR1cGxpY2F0ZWRQb2xpY3lQbHVnaW4sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBwaW5TZXJ2aWNlLnZhbGlkYXRlUGluKGJ1eU9yZGVyLnVzZXJJZCwgcGluKS5yZXNjdWUgewogICAgICAgIGNhc2UgSW52YWxpZFBpbkV4Y2VwdGlvbihlLCBfKSAgICAgICAgICAgID0+IEZ1dHVyZS5leGNlcHRpb24oSW52YWxpZFBpbihlKSkK</text>
+        <text encoding="base64">ICAgICAgXyA8LSBvcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbi5jaGVjayhvcmRlci5vcmRlckFtb3VudCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0U2hvdWxkQmVMYXRlc3RQb2xpY3lQbHVnaW4uY2hlY2soZGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSB1c2VyT3JkZXJTaG91bGRCZVByb2hpYml0ZWRQb2xpY3lQbHVnaW4uY2hlY2sob3JkZXIudXNlcklkKQogICAgICBfIDwtIG9yZGVyU2hvdWxkTm90QmVEdXBsaWNhdGVkUG9saWN5UGx1Z2luLmNoZWNrKG9yZGVyLnVzZXJJZCkKICAgICAgXyA8LSBidXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbi5jaGVjayhvcmRlci51c2VySWQsIG9yZGVyLm9yZGVyQW1vdW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQuZXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIG9yZGVyQW1vdW50U2hvdWxkQmVTdWZmaWNpZW50UG9saWN5UGx1Z2luOiBPcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwKICAgIGRpc2NyZXRpb25hcnlJbnZlc3RtZW50Q29udHJhY3RTaG91bGRCZUxhdGVzdFBvbGljeVBsdWdpbjogRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFNob3VsZEJlTGF0ZXN0UG9saWN5UGx1Z2luLAogICAgdXNlck9yZGVyU2hvdWxkQmVQcm9oaWJpdGVkUG9saWN5UGx1Z2luOiBVc2VyT3JkZXJTaG91bGRCZVByb2hpYml0ZWRQb2xpY3lQbHVnaW4sCiAgICBvcmRlclNob3VsZE5vdEJlRHVwbGljYXRlZFBvbGljeVBsdWdpbjogT3JkZXJTaG91bGROb3RCZUR1cGxpY2F0ZWRQb2xpY3lQbHVnaW4sCiAgICBidXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbjogQnV5aW5nUG93ZXJTaG91bGRCZVN1ZmZpY2llbnRQb2xpY3lQbHVnaW4sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -529,7 +535,7 @@
       <last-replace>PolicyPluginException</last-replace>
       <last-substitute encoding="base64">XDxBZGRpdGlvbmFsQnV5QXBwbGljYXRpb25FeGNlcHRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -570,10 +576,10 @@
         <entry>vs</entry>
         <entry>sp</entry>
         <entry encoding="base64">JXMvXDxCdXlQcm9jZWR1cmVFeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
-        <entry>nohlsearch</entry>
         <entry>w;w</entry>
         <entry encoding="base64">JXMvXDxBZGRpdGlvbmFsQnV5QXBwbGljYXRpb25FeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
