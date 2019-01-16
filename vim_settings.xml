@@ -331,10 +331,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/OrderAmount.scala" timestamp="1547184187716">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/OrderAmount.scala" timestamp="1547616000520">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
@@ -611,7 +612,7 @@
       <last-replace>CanNewBuy</last-replace>
       <last-substitute>NewBuy</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -649,13 +650,13 @@
         <entry encoding="base64">JXMvXDxCdXlQcm9jZWR1cmVFeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
         <entry>w;w</entry>
         <entry encoding="base64">JXMvXDxBZGRpdGlvbmFsQnV5QXBwbGljYXRpb25FeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
-        <entry>vs</entry>
         <entry>%s/AdditionalBuy/CanAdditionalBuy/g</entry>
         <entry>%s/NewBuy/CanNewBuy/gc</entry>
         <entry>sp</entry>
         <entry>e!</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
