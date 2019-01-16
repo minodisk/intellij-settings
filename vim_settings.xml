@@ -55,12 +55,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentTransferService.scala" timestamp="1546855174388">
         <mark key="'" line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderAmountShouldBeSufficientPolicyPlugin.scala" timestamp="1547626250942">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderAmountShouldBeSufficientPolicyPlugin.scala" timestamp="1547627190640">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="32" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="31" column="30" />
-        <mark key="." line="33" column="32" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/AdditionalBuyPolicy.scala" timestamp="1547539640513">
         <mark key="'" line="32" column="11" />
@@ -325,7 +325,7 @@
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="6" />
       </file>
-      <file name="/sbtShell" timestamp="1547626566962">
+      <file name="/sbtShell" timestamp="1547627196093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -570,13 +570,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXaXRoZHJhd2FibGVBbW91bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgPih0aGF0OiBPcmRlckFtb3VudCk6IEJvb2xlYW4gPSB0aGlzLnZhbHVlID4gdGhhdC52YWx1ZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJpdmF0ZVtvcmRlcl0g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgPT0odGhhdDogT3JkZXJBbW91bnQpOiBCb29sZWFuID0gdGhpcy52YWx1ZSA9PSB0aGF0LnZhbHVlCg==</text>
