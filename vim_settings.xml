@@ -211,11 +211,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1547797255572">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1547798663067">
         <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="26" column="9" />
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="26" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
@@ -291,7 +291,7 @@
         <mark key="." line="156" column="19" />
         <mark key="^" line="156" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547795889072">
+      <file name="/Dummy.txt" timestamp="1547798455745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -487,7 +487,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>可能額</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text>ディレクタ</text>
