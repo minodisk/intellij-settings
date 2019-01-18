@@ -129,12 +129,11 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/PolicyPluginException.scala" timestamp="1547797315968">
-        <mark key="'" line="39" column="11" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/PolicyPluginException.scala" timestamp="1547803544710">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/account/exception/UserOrderServiceException.scala" timestamp="1547800071811">
         <mark key="[" line="16" column="0" />
@@ -242,11 +241,11 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1547802981480">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1547803821197">
         <mark key="'" line="11" column="21" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="15" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
         <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1547100267385">
@@ -261,7 +260,7 @@
         <mark key="]" line="517" column="0" />
         <mark key="." line="517" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1547799369085">
+      <file name="/sbtShell" timestamp="1547803703902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -280,10 +279,13 @@
         <mark key="." line="156" column="19" />
         <mark key="^" line="156" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547799585407">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/OrderPolicyException.scala" timestamp="1547803546934">
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1547803867472">
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
@@ -469,7 +471,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>完全に</text>
+        <text>CAUTION</text>
       </register>
       <register name="/" type="4">
         <text>ディレクタ</text>
@@ -541,7 +543,6 @@
         <entry>ディレクタ</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/CanNewBuy/NewBuy/g</entry>
         <entry>%s/NewBuy/AdditionalBuy/g</entry>
         <entry encoding="base64">JXMvXDxCdXlQcm9jZWR1cmVFeGNlcHRpb25cPi9Qb2xpY3lQbHVnaW5FeGNlcHRpb24vZw==</entry>
         <entry>w;w</entry>
@@ -560,6 +561,7 @@
         <entry>e!</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
