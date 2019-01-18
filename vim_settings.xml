@@ -121,11 +121,11 @@
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedDiscretionaryInvestmentPolicyPlugin.scala" timestamp="1547726638429">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedDiscretionaryInvestmentPolicyPlugin.scala" timestamp="1547774352032">
         <mark key="'" line="10" column="21" />
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
         <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" timestamp="1547707093732">
@@ -154,10 +154,10 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/policy/NewBuyPolicy.scala" timestamp="1547516585213">
         <mark key="'" line="2" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/DiscretionaryInvestmentContractShouldBeLatestPolicyPlugin.scala" timestamp="1547726677128">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/DiscretionaryInvestmentContractShouldBeLatestPolicyPlugin.scala" timestamp="1547774316152">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/webpack.config.js" timestamp="1546837631263">
@@ -218,11 +218,11 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1547726539985">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="16" column="5" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1547774326346">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="16" />
         <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="5" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546923757214">
         <mark key="[" line="35" column="34" />
@@ -269,12 +269,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1547726509466">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1547774309009">
         <mark key="'" line="11" column="21" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="5" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1547100267385">
         <mark key="[" line="16" column="0" />
@@ -301,7 +301,7 @@
         <mark key="." line="76" column="41" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547722758711">
+      <file name="/Dummy.txt" timestamp="1547726694522">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="47" />
       </file>
@@ -494,40 +494,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>ケースを</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBc3NldFNob3VsZEJlRmV0Y2hlZFJlY2VudGx5UG9saWN5UGx1Z2luXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICog44GK44G+44GL44Gb44GL44Ov44Oz44Kz44Kk44Oz44Gu5oqV6LOH5LiA5Lu75aWR57SE44Gr5aWR57SE5Lit44Gu44Om44O844K244O844GL56K66KqN44GZ44KLCg==</text>
+        <text encoding="base64">ICAgICogVE9ETyDnkIbnlLHjgoTnlKjms5UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICoKICAgICoK</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICog44GK44G+44GL44Gb44GL44Ov44Oz44Kz44Kk44Oz44Gu5oqV6LOH5LiA5Lu75aWR57SE44Gr5aWR57SE5Lit44Gu44Om44O844K244O844GL56K66KqN44GZ44KLCg==</text>
+        <text encoding="base64">ICAgICoKICAgICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICog44GK44G+44GL44Gb44GL44Ov44Oz44Kz44Kk44Oz44Gu5oqV6LOH5LiA5Lu75aWR57SE44Gr5aWR57SE5Lit44Gu44Om44O844K244O844GL56K66KqN44GZ44KLCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcGFyYW0gcGluCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcmV0dXJuCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcmV0dXJuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIG9yZGVyQW1vdW50CiAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHVzZXJJZAogICAgKiBAcGFyYW0gcGluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
