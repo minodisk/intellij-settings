@@ -201,11 +201,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1547798663067">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="26" column="10" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_exception.thrift" timestamp="1548037338496">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
@@ -286,7 +286,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547806267951">
+      <file name="/Dummy.txt" timestamp="1548037341327">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -474,13 +474,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>InsufficientFunds</text>
+        <text>る</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBlID0gdGhlW2lkbC5JbnN1ZmZpY2llbnRPcmRlckFtb3VudF0udGhyb3duQnkoZi52YWx1ZSkKICAgIGFzc2VydChlLm1pbiA9PSAiMTAwMDAwIikK</text>
+      <register name="0" type="4">
+        <text>// 注文するのに必要な最低金額です</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -560,11 +560,11 @@
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFRvT3JkZXJcPi9JbnN1ZmZpY2llbnRPcmRlckFtb3VudEZvck1pbk9yZGVyQW1vdW50Lw==</entry>
         <entry encoding="base64">JXMvXDxpbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+L2luc3VmZmljaWVudE9yZGVyQW1vdW50Rm9yTWluT3JkZXJBbW91bnQvZw==</entry>
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+L0luc3VmZmljaWVudE9yZGVyQW1vdW50Rm9yTWluT3JkZXJBbW91bnQvZw==</entry>
-        <entry>e!</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>vs</entry>
+        <entry>e!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
