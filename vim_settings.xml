@@ -122,6 +122,12 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190118.md" timestamp="1548058542425">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" timestamp="1548036363057">
         <mark key="'" line="238" column="28" />
         <mark key="[" line="247" column="0" />
@@ -203,12 +209,6 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyResponseAdapter.scala" timestamp="1547799360770">
-        <mark key="[" line="38" column="121" />
-        <mark key="]" line="38" column="129" />
-        <mark key="." line="38" column="129" />
-        <mark key="^" line="38" column="129" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/ReutersThriftService.scala" timestamp="1547719632547">
         <mark key="'" line="13554" column="39" />
       </file>
@@ -217,6 +217,9 @@
         <mark key="]" line="9" column="46" />
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20181221.md" timestamp="1548058215179">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1548053368611">
         <mark key="[" line="17" column="0" />
@@ -389,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13554" column="39" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/ReutersThriftService.scala" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/reuters/service/fx_rate/ReutersFxRateServiceImpl.scala" />
       <jump line="67" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
       <jump line="54" column="53" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" />
@@ -489,6 +491,7 @@
       <jump line="45" column="6" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/core/src/main/scala/com/folio/billing/domain/billing/service/BillingsystemClearingDomainService.scala" />
       <jump line="46" column="15" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/batch/batch/src/main/scala/com/folio/billing/batch/clearing_quick_deposit_result/ClearingQuickDepositResultBatchService.scala" />
       <jump line="67" column="52" filename="$USER_HOME$/workspace/gitlab.com/ledger-dw/billing/batch/batch/src/main/scala/com/folio/billing/batch/clearing_quick_deposit_result/ClearingQuickDepositResultBatchService.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20181221.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -511,7 +514,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>史</text>
       </register>
       <register name="/" type="4">
         <text>storeParsedData</text>
@@ -520,19 +523,19 @@
         <text>注文金額が最低注文金額を下回っていないか</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICoKICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIK</text>
+        <text encoding="base64">6Kqt44G/6Kej44GPCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">IyMjIyDml6XmnKzjga7mipXkv6Hjg5Pjgrjjg43jgrnlj7IKCi0gMTkzNyDol6TmnKzjg5Pjg6vjg5bjg63jg7zjgqvjg7zoqLzliLjvvIjlpKflkozoqLzliLjvvInjgYzmipXos4fntYTlkIjjgrnjgr/jg7zjg4gKLSAxOTQxIOmHjuadkeiovOWIuOOBjOiovOWIuOWFvOWWtualreWLmeOBqOOBl+OBpuOCueOCv+ODvOODiAotIDE5NTEg5oim5b6M44Gu6LKh6Zal6Kej5L2T44Gr44KI44KL5qCq5byP5pS+5Ye644Gu5Y+X44GR55q/44Go44GX44Gm5oqV5L+h44KS5pmu5Y+K44GV44Gb44Gf44GE5oCd5oORCi0gMTk1NyDmipXkv6HljZTkvJroqK3nq4sKLSAxOTU5IOiovOWIuOS8muekvuOBruaKleS/oeWnlOiol+alreWLmeOCkuWIhumbogotIDE5NjDlubTku6Mg5oqV5L+h5aeU6KiX5Lya56S+5Lmx56uLCi0gMTk3MSDlpJblm73moKrjgoTlgrXliLjjga7mipXkv6HjgYzop6PnpoEKLSAxOTgw5bm05LujIOS4reacn+ODu+mVt+acn+WbveWCteODleOCoeODs+ODieS5seeriwotIDE5ODUg5Zu96Zqb5oqV5L+h44GM5Zu95YaF5Yid44Gu44Kk44Oz44OH44OD44Kv44K55oqV5L+h44KS6Kit5a6aCi0gMTk4OS4xMi4yOSDml6XntYzlubPlnYfntYLlgKTmnIDpq5jlgKQzODkxNQotIDE5ODkg5aSW6LOH57O75oqV5L+h5aeU6KiX5Lya56S+44Gu5Y+C5YWl6Kej56aBCi0gMTk5MCDjgqbjgqnjg7zjg5Djg7zjgrDjgIHjgrjjg6Pjg7zjg4fjgqPjg7Pjg5Xjg6zjg5/jg7PjgrDjgYzlhY3oqLHlj5blvpcKLSAxOTkwIOODkOODluODq+W0qeWjigotIDE5OTIgTU1G6KqV55SfCi0gMTk5NSDpmKrnpZ7lpKfpnIfngb0KLSAxOTk3IOa2iOiyu+eojuWil+eojjUlCi0gMTk5NyDjgqLjgrjjgqLpgJrosqjljbHmqZ/jgIHlpKfmiYvph5Hono3mqZ/plqLnoLTntrsKLSAxOTk4IOa2iOiyu+eojuWil+eojuOAgemHkeiejeODk+ODg+OCsOODkOODs++8iOagquW8j+WnlOiol+aJi+aVsOaWmeiHqueUseWMluOAgeWFjeioseWItuOBi+OCieeZu+mMsuWItuOBuO+8iQotIDE5OTgg5oqV5L+h44Gu6YqA6KGM56qT6LKp6ZaL5aeLCi0gMTk5OCDjg43jg4Pjg4joqLzliLjoqpXnlJ8KLSAxOTk5IOOBleOCj+OBi+OBv+aKleS/oeioreWumgotIDE5OTkgSUZB5pSv5o+05bCC5qWt44GuTFBM5pel5pys6Ki85Yi477yIUFdN5pel5pys6Ki85Yi477yJ6KqV55SfCi0gMjAwMCDml6XpioDliKnkuIrjgZIKLSAyMDAwIElU44OQ44OW44Or5bSp5aOKCi0gMjAwMSDlsI/ms4nmlL/mqKnoqpXnlJ8KLSAyMDAxIOmHkeWVhuazleaWveihjOOAgUVURuS4iuWgtOOAgUotUkVJVOiqleeUnwotIDIwMDEg56K65a6a5oug5Ye65bm06YeR5rOV5pa96KGMCi0gMjAwMSDkv53pmbrjga7pioDooYznqpPosqnkuIDpg6jop6PnpoEKLSAyMDAxIOWQjOaZguWkmueZuuODhuODreOAgeOCqOODs+ODreODs+egtOe2uwotIDIwMDIg5aSJ6aGN5bm06YeR5L+d6Zm644GM6YqA6KGM56qT6LKp6Kej5rG6Ci0gMjAwMy40IOOCiuOBneOBquWun+izquWbveacieWMluOAgeaXpee1jOW5s+Wdh+e1guWApOacgOWuieWApAotIDIwMDMg44Gy44G144G/5oqV5L+h6Kit5a6aCi0gMjAwNCBmYWNlYm9va+iqleeUnwotIDIwMDUg44Oa44Kk44Kq44OV6Kej56aBCi0gMjAwNSDkuIDmmYLmiZXjgYTntYLouqvkv53pmbrjga7pioDooYznqpPosqnop6PnpoEKLSAyMDA1IOmDteaUv+awkeWWtuWMluOAgemDteS+v+WxgOOBp+OBruaKleS/oeeqk+iyqemWi+WniwotIDIwMDYg5pel6YqA5Yip5LiK44GSCi0gMjAwNiBHQUlB77yISUZB5bCC5qWt5Lya56S+77yJ6Kit56uLCi0gMjAwNyBpUGhvbmXnmbrlo7IKLSAyMDA4IOODquODvOODnuODs+OCt+ODp+ODg+OCrwotIDIwMDgg5qW95aSp44GMSUZB44OT44K444ON44K544KS6ZaL5aeLCi0gMjAwOSDoh6rmsJHlhZrlpKfmlZcKLSAyMDA5IOODk+ODg+ODiOOCs+OCpOODs+iqleeUnwotIDIwMTEg5p2x5pel5pys5aSn6ZyH54G9Ci0gMjAxMiDjgqLjg5njg47jg5/jgq/jgrnjgrnjgr/jg7zjg4gKLSAyMDE0IOa2iOiyu+eojuWil+eojjglCi0gMjAxNCBOSVNB44K544K/44O844OICi0gMjAxNSDmo67ph5Hono3luoHplbflrpjlsLHku7sKLSAyMDE1LTIwMTYg44Ot44Oc44Ki44OJ44OZ44Oz44OB44Oj44O86KqV55SfCi0gMjAxNyBpRGVDb+OCueOCv+ODvOODiAotIDIwMTcg6aGn5a6i5pys5L2N44Gu5qWt5YuZ6YGL5Za244Gr6Zai44GZ44KL5Y6f5YmH77yIRkTlrqPoqIDvvIkKLSAyMDE3IFNCSeOBruWPo+W6p+aVsOOBjOWkp+WSjOiovOWIuOOCkuaKnOOBjealreeVjO+8kuS9jeOBqwotIDIwMTcg6YO15L6/5bGA44Gn44Gu5oqV5L+h6LKp5aOy5ouh5aSnCi0gMjAxOCBMSU5FIEZpbmFuY2lhbOioreeriwotIDIwMTgg44Gk44G/44Gf44GmTklTQeOCueOCv+ODvOODiAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIKICAgICoK</text>
+        <text encoding="base64">ICAgICoKICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIKICAgICoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -544,10 +547,10 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50RnVuZHNdIHsKICAgICAgZi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -601,8 +604,8 @@
         <entry>e!</entry>
         <entry>q</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
