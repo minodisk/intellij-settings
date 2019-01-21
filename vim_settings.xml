@@ -99,11 +99,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1547806203753">
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="78" column="38" />
-        <mark key="." line="78" column="38" />
-        <mark key="^" line="78" column="38" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548035948964">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="45" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="216" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" timestamp="1547804478200">
         <mark key="[" line="260" column="54" />
@@ -284,7 +284,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547804747785">
+      <file name="/Dummy.txt" timestamp="1547806267951">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -472,13 +472,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>CAUTION</text>
+        <text>ServerError</text>
       </register>
       <register name="/" type="4">
         <text>ディレクタ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB3aXRoZHJhd2FibGVBbW91bnQgPSBXaXRoZHJhd2FibGVBbW91bnQoMjAwMDAwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICB3aGVuKHdpdGhkcmF3U2VydmljZU1vY2suZ2V0V2l0aGRyYXdhYmxlQW1vdW50KGFueVtVc2VySWRdKSkudGhlblJldHVybihGdXR1cmUod2l0aGRyYXdhYmxlQW1vdW50KSkK</text>
