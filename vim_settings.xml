@@ -48,9 +48,9 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/service/IdempotentTransferService.scala" timestamp="1546855174388">
         <mark key="'" line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderAmountShouldBeSufficientPolicyPlugin.scala" timestamp="1547797355192">
-        <mark key="[" line="23" column="133" />
-        <mark key="]" line="23" column="138" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderAmountShouldBeSufficientPolicyPlugin.scala" timestamp="1548054196774">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="25" />
         <mark key="." line="23" column="138" />
         <mark key="^" line="23" column="138" />
       </file>
@@ -114,6 +114,13 @@
         <mark key="]" line="213" column="28" />
         <mark key="." line="213" column="0" />
         <mark key="^" line="216" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedDiscretionaryInvestmentPolicyPlugin.scala" timestamp="1548053907274">
+        <mark key="'" line="10" column="21" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" timestamp="1548036363057">
         <mark key="'" line="238" column="28" />
@@ -211,9 +218,9 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1547800109781">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="19" column="37" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1548053368611">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="24" />
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="37" />
       </file>
@@ -235,9 +242,9 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/BuyingPowerShouldBeSufficientPolicyPlugin.scala" timestamp="1547797841034">
-        <mark key="[" line="37" column="110" />
-        <mark key="]" line="37" column="117" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/BuyingPowerShouldBeSufficientPolicyPlugin.scala" timestamp="1548053848093">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="24" />
         <mark key="." line="37" column="117" />
         <mark key="^" line="37" column="117" />
       </file>
@@ -268,10 +275,10 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1548050877669">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1548053874411">
         <mark key="'" line="11" column="21" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="53" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="16" column="34" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1547100267385">
@@ -316,7 +323,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548037360540">
+      <file name="/Dummy.txt" timestamp="1548050884670">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -510,7 +517,7 @@
         <text>storeParsedData</text>
       </register>
       <register name="0" type="4">
-        <text>// 注文するのに必要な最低金額です</text>
+        <text>注文金額が最低注文金額を下回っていないか</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICoKICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIK</text>
@@ -540,7 +547,7 @@
         <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50RnVuZHNdIHsKICAgICAgZi52YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -550,7 +557,7 @@
       <last-replace>InsufficientOrderAmountForMinOrderAmount</last-replace>
       <last-substitute encoding="base64">XDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -590,12 +597,12 @@
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFRvT3JkZXJcPi9JbnN1ZmZpY2llbnRPcmRlckFtb3VudEZvck1pbk9yZGVyQW1vdW50Lw==</entry>
         <entry encoding="base64">JXMvXDxpbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+L2luc3VmZmljaWVudE9yZGVyQW1vdW50Rm9yTWluT3JkZXJBbW91bnQvZw==</entry>
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+L0luc3VmZmljaWVudE9yZGVyQW1vdW50Rm9yTWluT3JkZXJBbW91bnQvZw==</entry>
-        <entry>nohlsearch</entry>
         <entry>wq</entry>
         <entry>e!</entry>
         <entry>q</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
