@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanAdditionalBuyPolicy.scala" timestamp="1547791689228">
-        <mark key="[" line="31" column="99" />
-        <mark key="]" line="31" column="99" />
-        <mark key="^" line="31" column="99" />
-        <mark key="." line="31" column="99" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanAdditionalBuyPolicy.scala" timestamp="1548065427108">
+        <mark key="[" line="31" column="94" />
+        <mark key="]" line="31" column="94" />
+        <mark key="^" line="27" column="125" />
+        <mark key="." line="31" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/robo_adv/order/idl/RoboAdvOrderService.scala" timestamp="1547689030103">
         <mark key="[" line="62" column="132" />
@@ -58,6 +58,12 @@
         <mark key="." line="23" column="138" />
         <mark key="^" line="23" column="138" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" timestamp="1548064509095">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="56" />
+        <mark key="^" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/lib/domain/src/main/scala/com/folio/robo_adv/lib/domain/date/service/DateTimeService.scala" timestamp="1545973728081">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="45" />
@@ -82,11 +88,11 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/reuters/idl/FxRate.scala" timestamp="1547721582003">
         <mark key="'" line="515" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/CanAdditionalBuyUseCase.scala" timestamp="1548060519169">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="16" column="94" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/CanAdditionalBuyUseCase.scala" timestamp="1548065398125">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/InsufficientOrderAmountException.scala" timestamp="1547116391601">
         <mark key="[" line="1" column="0" />
@@ -272,10 +278,11 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyRequestAdapter.scala" timestamp="1548063913996">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyRequestAdapter.scala" timestamp="1548065227146">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="53" />
+        <mark key="^" line="24" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/dto/CanNewBuyRequestDTO.scala" timestamp="1547542379180">
         <mark key="[" line="10" column="0" />
@@ -540,43 +547,43 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>args.orderAmount</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>canAdditionalBuy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRyYWN0VHlwZURlc2VyaWFsaXplcjogQ29udHJhY3RUeXBlRGVzZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXJBbW91bnQgPSBhcmdzLm9yZGVyQW1vdW50Lm1hcChPcmRlckFtb3VudChfKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUodikgPT4gU29tZShPcmRlckFtb3VudCh2KSkKICAgICAgICBjYXNlIE5vbmUgICAgPT4gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udHJhY3RUeXBlID0gQ29udHJhY3RUeXBlKGFyZ3MuY29udHJhY3RUeXBlKSwK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXJBbW91bnQgPSBhcmdzLm9yZGVyQW1vdW50Lm1hcCB7IHYgPT4KICAgICAgICBPcmRlckFtb3VudCh2KQogICAgICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5jb250cmFjdC50aHJpZnQuQ29udHJhY3RUeXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZGVyQW1vdW50OiBPcmRlckFtb3VudCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2V0TGFzdEZldGNoZWRBdDogQXNzZXRMYXN0RmV0Y2hlZEF0LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGluID0gUGluKGFyZ3MucGluKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5idXkuYWRkaXRpb25hbF9idXkuZHRvLkFkZGl0aW9uYWxCdXlSZXF1ZXN0RFRPCg==</text>
+        <text encoding="base64">ICAgICAgY29udHJhY3RUeXBlID0gQ29udHJhY3RUeXBlKGFyZ3MuY29udHJhY3RUeXBlKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlckFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgb3JkZXJBbW91bnQgPSBhcmdzLm9yZGVyQW1vdW50Lm1hcCB7IHYgPT4KICAgICAgICBPcmRlckFtb3VudCh2KQogICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -586,7 +593,7 @@
       <last-replace>InsufficientOrderAmountForMinOrderAmount</last-replace>
       <last-substitute encoding="base64">XDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -628,10 +635,10 @@
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+L0luc3VmZmljaWVudE9yZGVyQW1vdW50Rm9yTWluT3JkZXJBbW91bnQvZw==</entry>
         <entry>wq</entry>
         <entry>e!</entry>
-        <entry>vs</entry>
-        <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
