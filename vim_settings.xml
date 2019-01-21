@@ -134,6 +134,7 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1548050763995" />
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/test/scala/com/folio/robo_adv/gateway/infrastructure/batch/PutFxRateBatchTest.scala" timestamp="1547721589272">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="38" />
@@ -267,12 +268,11 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1547803821197">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeFetchedRecentlyPolicyPlugin.scala" timestamp="1548050877669">
         <mark key="'" line="11" column="21" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="24" column="17" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1547100267385">
         <mark key="[" line="16" column="0" />
@@ -504,7 +504,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>る</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>storeParsedData</text>
@@ -513,34 +513,34 @@
         <text>// 注文するのに必要な最低金額です</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICoKICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICogQG5vdGUg44GT44GuY2hlY2vjga/jgYvjgarjgorloLTlvZPjgZ/jgornmoTjgarlrp/oo4Xjgarjga7jgafjgIFjYW7ns7vjga5BUEnjgYvjgonjga/jgrPjg7zjg6vjgZfjgarjgYTjgIIKICAgICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50RnVuZHNdIHsKICAgICAgZi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50T3JkZXJBbW91bnRdIHsKICAgICAgZi52YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50RnVuZHNdIHsKICAgICAgZi52YWx1ZQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRocm93c1tpZGwuSW5zdWZmaWNpZW50RnVuZHNdIHsKICAgICAgZi52YWx1ZQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -593,9 +593,9 @@
         <entry>nohlsearch</entry>
         <entry>wq</entry>
         <entry>e!</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
