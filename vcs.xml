@@ -66,8 +66,12 @@
           <option name="url" value="git@github.com:minodisk/akashi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:minodisk/board.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/github.com/minodisk" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/gitlab.com/dmino" />
   </component>
 </application>
