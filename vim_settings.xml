@@ -79,8 +79,10 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyResponseAdapter.scala" timestamp="1548224669133">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyResponseAdapter.scala" timestamp="1548389037011">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="93" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -140,12 +142,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548387770237">
-        <mark key="'" line="233" column="6" />
-        <mark key="[" line="226" column="55" />
-        <mark key="]" line="226" column="55" />
-        <mark key="." line="226" column="55" />
-        <mark key="^" line="226" column="55" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548390489184">
+        <mark key="'" line="390" column="48" />
+        <mark key="[" line="179" column="35" />
+        <mark key="]" line="179" column="5" />
+        <mark key="." line="179" column="5" />
+        <mark key="^" line="179" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedDiscretionaryInvestmentPolicyPlugin.scala" timestamp="1548302287762">
         <mark key="'" line="10" column="21" />
@@ -178,6 +180,11 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/policy/NewBuyPolicy.scala" timestamp="1547516585213">
         <mark key="'" line="2" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/AdditionalBuyResponseAdapter.scala" timestamp="1548389028473">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="93" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/scala/com/folio/robo_adv/contract/infrastructure/implementations/domain/core/contract/model/discretionary_investment/UserDiscretionaryInvestmentContractRepositoryImpl.scala" timestamp="1548244909635">
         <mark key="'" line="63" column="15" />
@@ -253,12 +260,12 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548387565463">
-        <mark key="'" line="338" column="26" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="201" column="3" />
-        <mark key="." line="133" column="21" />
-        <mark key="^" line="133" column="21" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548390375222">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="151" column="10" />
+        <mark key="]" line="151" column="12" />
+        <mark key="^" line="151" column="12" />
+        <mark key="." line="151" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546923757214">
         <mark key="[" line="35" column="34" />
@@ -440,23 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="24" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/InvalidContractTypePolicyPlugin.scala" />
-      <jump line="10" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/InvalidContractTypePolicyPlugin.scala" />
-      <jump line="177" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="246" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="53" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="121" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="201" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/core/order/model/UserDiscretionaryInvestmentContractRepositoryImpl.scala" />
-      <jump line="93" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="139" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
-      <jump line="153" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
-      <jump line="98" column="60" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="40" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
-      <jump line="59" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
       <jump line="60" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
       <jump line="57" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
       <jump line="103" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" />
@@ -529,7 +519,6 @@
       <jump line="192" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="208" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="222" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="277" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="239" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="278" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="294" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
@@ -540,6 +529,24 @@
       <jump line="166" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="181" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="233" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyResponseAdapter.scala" />
+      <jump line="42" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyResponseAdapter.scala" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="365" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="261" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="329" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="139" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="382" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="304" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="290" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="65" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="277" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="330" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="334" column="78" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="2" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="372" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
+      <jump line="390" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -562,61 +569,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlcklkXD4=</text>
+        <text encoding="base64">XDxab25lZERhdGVUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCJPbWFrYXNl44KS6YGL55So44GX44Gm44GE44GmT21ha2FzZeOCkuazqOaWh+OBl+OBn+WgtOWQiOOBr+OAgeS+i+WkluOCkuaKleOBkuOBquOBhCIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVySWQgPC0gY3JlYXRlTmV3QnV5T3JkZXIodXNlcklkLCBDb250cmFjdFR5cGUuT21ha2FzZSkKICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQogICAgICBfIDwtIGludm9rZUFwaSh1c2VySWQsIENvbnRyYWN0VHlwZS5PbWFrYXNlLCBTb21lKE9yZGVyQW1vdW50KDIwMDAwKSkpCiAgICB9IHlpZWxkICgpCgogICAgZi52YWx1ZQogIH0KCiAgdGVzdCgiT25lQ29pbuOCkumBi+eUqOOBl+OBpuOBhOOBpk9uZUNvaW7jgpLms6jmlofjgZfjgZ/loLTlkIjjga/jgIHkvovlpJbjgpLmipXjgZLjgarjgYQiKSB7CiAgICB2YWwgdXNlcklkID0gVXNlcklkKDEpCgogICAgdmFsIGYgPSBmb3IgewogICAgICBvcmRlcklkIDwtIGNyZWF0ZU5ld0J1eU9yZGVyKHVzZXJJZCwgQ29udHJhY3RUeXBlLk9uZUNvaW4pCiAgICAgIF8gPC0gdGVybWluYXRlT3JkZXIob3JkZXJJZCkKICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkLCBDb250cmFjdFR5cGUuT25lQ29pbiwgU29tZShPcmRlckFtb3VudCgyMDAwMCkpKQogICAgfSB5aWVsZCAoKQoKICAgIGYudmFsdWUKICB9CgogIHRlc3QoIk9tYWthc2XjgpLpgYvnlKjjgZfjgabjgYTjgaZPbmVDb2lu44KS5rOo5paH44GX44Gf5aC05ZCI44Gv44CBIEludmFsaWRDb250cmFjdFR5cGUg5L6L5aSW44KS5oqV44GS44KLIikgewogICAgdmFsIHVzZXJJZCA9IFVzZXJJZCgxKQoKICAgIHZhbCBmID0gZm9yIHsKICAgICAgb3JkZXJJZCA8LSBjcmVhdGVOZXdCdXlPcmRlcih1c2VySWQsIENvbnRyYWN0VHlwZS5PbWFrYXNlKQogICAgICBfIDwtIHRlcm1pbmF0ZU9yZGVyKG9yZGVySWQpCiAgICAgIF8gPC0gaW52b2tlQXBpKHVzZXJJZCwgQ29udHJhY3RUeXBlLk9uZUNvaW4sIFNvbWUoT3JkZXJBbW91bnQoMjAwMDApKSkKICAgIH0geWllbGQgKCkKCiAgICBhc3NlcnRUaHJvd3NbSW52YWxpZENvbnRyYWN0VHlwZV0gewogICAgICBmLnZhbHVlCiAgICB9CiAgfQoKICB0ZXN0KCJPbmVDb2lu44KS6YGL55So44GX44Gm44GE44GmT21ha2FzZeOCkuazqOaWh+OBl+OBn+WgtOWQiOOBr+OAgSBJbnZhbGlkQ29udHJhY3RUeXBlIOS+i+WkluOCkuaKleOBkuOCiyIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVySWQgPC0gY3JlYXRlTmV3QnV5T3JkZXIodXNlcklkLCBDb250cmFjdFR5cGUuT25lQ29pbikKICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQogICAgICBfIDwtIGludm9rZUFwaSh1c2VySWQsIENvbnRyYWN0VHlwZS5PbWFrYXNlLCBTb21lKE9yZGVyQW1vdW50KDIwMDAwKSkpCiAgICB9IHlpZWxkICgpCgogICAgYXNzZXJ0VGhyb3dzW0ludmFsaWRDb250cmFjdFR5cGVdIHsKICAgICAgZi52YWx1ZQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgb3JkZXJJZCA8LSBjcmVhdGVOZXdCdXlPcmRlcih1c2VySWQpCiAgICAgIF8gPC0gdGVybWluYXRlT3JkZXIob3JkZXJJZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGluOiBQaW4gPSBQaW4oIjExMTEiKSwK</text>
+        <text encoding="base64">Ly8gIHRlc3QoImNyZWF0ZVBlbmRpbmdXaXRoZHJhd+OBq+WkseaVl+OBl+OBn+WgtOWQiOOAgU9yZGVyU3RhdGXjga9CdXlJbml044Gr44Gq44KLIikgewovLyAgICB2YWwgdXNlcklkID0gVXNlcklkKDEpCi8vCi8vICAgIHdoZW4od2l0aGRyYXdTZXJ2aWNlTW9jay5jcmVhdGVQZW5kaW5nV2l0aGRyYXcoYW55W0J1eU9yZGVyXSkpLnRoZW5SZXR1cm4oRnV0dXJlLmV4Y2VwdGlvbihuZXcgUnVudGltZUV4Y2VwdGlvbikpCi8vCi8vICAgIHZhbCBmID0gZm9yIHsKLy8gICAgICBfIDwtIGludm9rZUFwaSh1c2VySWQpCi8vICAgIH0geWllbGQgKCkKLy8KLy8gICAgdmFsIGUgPSB0aGVbU2VydmVyRXJyb3JdLnRocm93bkJ5KGYudmFsdWUpCi8vICAgIGFzc2VydChlLmVycm9yQ2F1c2UgPT0gU2VydmVyRXJyb3JDYXVzZS5JbnRlcm5hbFNlcnZlckVycm9yKQovLwovLyAgICAoZm9yIHsKLy8gICAgICBvcmRlck9wdCA8LSBvcmRlclJlcG9zaXRvcnkuZmluZEFjdGl2ZU9yZGVyQnkodXNlcklkKQovLyAgICB9IHlpZWxkIHsKLy8gICAgICBhc3NlcnQob3JkZXJPcHQuaXNEZWZpbmVkKQovLyAgICAgIHZhbCBvcmRlciA9IG9yZGVyT3B0LmdldAovLyAgICAgIGFzc2VydChvcmRlci5zdGF0ZSA9PSBPcmRlclN0YXRlLkJ1eUluaXQpCi8vICAgIH0pLnZhbHVlCi8vICB9Ci8vCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udHJhY3RUeXBlOiBPcHRpb25bQ29udHJhY3RUeXBlXSA9IFNvbWUoQ29udHJhY3RUeXBlLk9tYWthc2UpLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQuZXhjZXB0aW9uLntJbnZhbGlkUGluRXhjZXB0aW9uLCBVc2VyT3JkZXJQcm9oaWJpdGVkLCBVc2VyVHJhbnNhY3Rpb25Mb2NrZWRFeGNlcHRpb259Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLmFjY291bnQuZXhjZXB0aW9uLlVzZXJPcmRlclByb2hpYml0ZWQuVW5jaGVja2VkUmVxdWlyZWREb2N1bWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0KCJwaW7jgYzplpPpgZXjgaPjgabjgYTjgovloLTlkIjjgIFJbnZhbGlkUGlu5L6L5aSW44KS5oqV44GS44KLIikgewogICAgdmFsIHVzZXJJZCA9IFVzZXJJZCgxKQoKICAgIHdoZW4ocGluU2VydmljZU1vY2sudmFsaWRhdGVQaW4oYW55W1VzZXJJZF0sIGFueVtQaW5dKSkudGhlblJldHVybihGdXR1cmUuZXhjZXB0aW9uKEludmFsaWRQaW5FeGNlcHRpb24oIiIpKSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIF8gPC0gaW52b2tlQXBpKHVzZXJJZCkKICAgIH0geWllbGQgKCkKCiAgICBhc3NlcnRUaHJvd3NbaWRsLkludmFsaWRQaW5dIHsKICAgICAgZi52YWx1ZQogICAgfQogIH0KCg==</text>
+        <text encoding="base64">Ly8gIHRlc3QoIuOBiuOBvuOBi+OBm+Wlkee0hOS4reOBruODpuODvOOCtuODvOOBp+OBr+OBquOBhOWgtOWQiOOAgU5vdERpc2NyZXRpb25hcnlJbnZlc3RtZW50VXNlcuS+i+WkluOCkuaKleOBkuOCiyIpIHsKLy8gICAgdmFsIHVzZXJJZCA9IFVzZXJJZCgxKQovLyAgICB3aGVuKGl3aUFzc2V0U2VydmljZU1vY2suY2hlY2tEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIoYW55W1VzZXJJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5leGNlcHRpb24oTm90RGlzY3JldGlvbmFyeUludmVzdG1lbnRVc2VyKCIiKSkpCi8vCi8vICAgIHZhbCBmID0gaW52b2tlQXBpKHVzZXJJZCkKLy8KLy8gICAgYXNzZXJ0VGhyb3dzW2lkbC5Ob3REaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXJdKGYudmFsdWUpCi8vICB9Ci8vCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBlID0gdGhlW1NlcnZlckVycm9yXS50aHJvd25CeShmLnZhbHVlKQo=</text>
+        <text encoding="base64">Ly8gIHRlc3QoIuacquWQjOaEj+OBque0hOasvuOBjOOBguOCi+WgtOWQiOOAgVVzZXJPcmRlclByb2hpYml0ZWTkvovlpJbjgpLmipXjgZLjgosiKSB7Ci8vICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKLy8gICAgd2hlbih1c2VyT3JkZXJTZXJ2aWNlTW9jay5jaGVja1VzZXJPcmRlclBlcm1pc3Npb24oYW55W1VzZXJJZF0pKQovLyAgICAgIC50aGVuUmV0dXJuKEZ1dHVyZS5leGNlcHRpb24oVXNlck9yZGVyUHJvaGliaXRlZCgiIiwgU2VxKFVuY2hlY2tlZFJlcXVpcmVkRG9jdW1lbnQpKSkpCi8vCi8vICAgIHZhbCBmID0gaW52b2tlQXBpKHVzZXJJZCkKLy8KLy8gICAgdmFsIGNhdWdodCA9IGludGVyY2VwdFtpZGwuVXNlck9yZGVyUHJvaGliaXRlZF0oZi52YWx1ZSkKLy8gICAgYXNzZXJ0KGNhdWdodC51c2VyT3JkZXJQcm9oaWJpdGVkUmVhc29ucyA9PSBTZXEoaWRsLlVzZXJPcmRlclByb2hpYml0ZWRSZWFzb24uVW5jaGVja2VkUmVxdWlyZWREb2N1bWVudCkpCi8vICB9Ci8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZW4ocGluU2VydmljZU1vY2sudmFsaWRhdGVQaW4oYW55W1VzZXJJZF0sIGFueVtQaW5dKSkudGhlblJldHVybihGdXR1cmUuZXhjZXB0aW9uKG5ldyBSdW50aW1lRXhjZXB0aW9uKSkK</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0KCLpgY7ljrvjga7os7zlhaXms6jmlofjgYzlrZjlnKjjgZfjgabjgoJBY3RpdmVPcmRlcuOBjOepuuOBquOCieazqOaWh+OBp+OBjeOCiyIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVySWQgPC0gY3JlYXRlTmV3QnV5T3JkZXIodXNlcklkKQogICAgICBfIDwtIG9yZGVyUmVwb3NpdG9yeS50ZXJtaW5hdGVBY3RpdmVPcmRlckJ5KG9yZGVySWQpCgogICAgICBfIDwtIGludm9rZUFwaSh1c2VySWQpCiAgICAgIG9yZGVyIDwtIG9yZGVyUmVwb3NpdG9yeS5maW5kQWN0aXZlT3JkZXJCeSh1c2VySWQpLm1hcChfLmdldCkKICAgIH0geWllbGQgewogICAgICBhc3NlcnQob3JkZXIub3JkZXJUeXBlID09IE9yZGVyVHlwZS5BZGRpdGlvbmFsQnV5KQogICAgICBhc3NlcnQob3JkZXIuc3RhdGUgPT0gT3JkZXJTdGF0ZS5PcmRlclJlY2VpdmVkKQogICAgfQoKICAgIGYudmFsdWUKICB9Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlcklkXD4=</last-search>
+      <last-search encoding="base64">XDxab25lZERhdGVUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlcklkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxab25lZERhdGVUaW1lXD4=</last-pattern>
       <last-replace>InsufficientOrderAmountForMinOrderAmount</last-replace>
       <last-substitute encoding="base64">XDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0XD4=</entry>
-        <entry>terminate</entry>
-        <entry encoding="base64">XDxJbnZhbGlkQ29udHJhY3RUeXBlXD4=</entry>
-        <entry encoding="base64">XDxvcmRlclJlcG9zaXRvcnlNb2NrXD4=</entry>
-        <entry encoding="base64">XDx1c2VyRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlcG9zaXRvcnlNb2NrXD4=</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVcPg==</entry>
         <entry encoding="base64">XDxEdXBsaWNhdGVkT3JkZXJcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</entry>
@@ -632,6 +634,11 @@
         <entry>map</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVBY3RpdmVPcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxvcmRlcklkXD4=</entry>
+        <entry encoding="base64">XDxJbnZhbGlkQ29udHJhY3RUeXBlXD4=</entry>
+        <entry encoding="base64">XDxjaGVja1VzZXJPcmRlclBlcm1pc3Npb25cPg==</entry>
+        <entry>account</entry>
+        <entry>wiw</entry>
+        <entry encoding="base64">XDxab25lZERhdGVUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -650,9 +657,9 @@
         <entry>q:q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>sp</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
