@@ -444,9 +444,6 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548845209879">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
         <mark key="]" line="11" column="85" />
@@ -479,11 +476,23 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/resources/discretionary_investment_contract/email/omakase_v3_subject.txt" timestamp="1548846283504">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545961762289">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/resources/discretionary_investment_contract/email/omakase_v2_subject.txt" timestamp="1548846301117">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.stories.ts" timestamp="1545963183959">
         <mark key="[" line="16" column="33" />
@@ -501,20 +510,17 @@
         <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" timestamp="1548839755064">
-        <mark key="'" line="228" column="0" />
-        <mark key="[" line="148" column="2" />
-        <mark key="]" line="198" column="3" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="147" column="1" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" timestamp="1548846485049">
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="85" column="35" />
+        <mark key="." line="85" column="35" />
+        <mark key="^" line="85" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/resources/discretionary_investment_contract/email/omakase_v3_body.txt" timestamp="1548841401742">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1548836127695">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
