@@ -57,6 +57,9 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="29" column="173" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/account/thrift/AccountOpeningAgreementType.scala" timestamp="1548834547536">
+        <mark key="'" line="131" column="114" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/InsufficientOrderAmountException.scala" timestamp="1547116391601">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -75,6 +78,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548844432857">
+        <mark key="[" line="364" column="25" />
+        <mark key="]" line="364" column="25" />
+        <mark key="." line="364" column="25" />
+        <mark key="^" line="114" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/infrastructure/src/main/resources/discretionary_investment_contract/memorandum.csv" timestamp="1548842031451">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -85,6 +94,10 @@
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/CanNewBuyUseCase.scala" timestamp="1548830864596">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/AdditionalBuyResponseAdapter.scala" timestamp="1548832144794">
         <mark key="'" line="13" column="2" />
@@ -236,11 +249,14 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/dto/AdditionalBuyRequestDTO.scala" timestamp="1548397450353">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/dto/AdditionalBuyRequestDTO.scala" timestamp="1548844647011">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="29" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" timestamp="1548842970728">
+        <mark key="'" line="163" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/src/index.ts" timestamp="1546836058000">
         <mark key="[" line="2" column="7" />
@@ -320,6 +336,10 @@
         <mark key="]" line="28" column="33" />
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
+      </file>
+      <file name="/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1548844424045">
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/test/webpack.config.js" timestamp="1546837631263">
         <mark key="[" line="4" column="16" />
@@ -439,17 +459,19 @@
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" timestamp="1548842967970">
+        <mark key="'" line="284" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/contract/service/serializer/ContractTypeSerializer.scala" timestamp="1548836861134">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="40" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/AdditionalBuyRequestAdapter.scala" timestamp="1548397532130">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/AdditionalBuyRequestAdapter.scala" timestamp="1548844653263">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="166" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/.d.ts/gpgpu.d.ts" timestamp="1546839420426">
         <mark key="[" line="3" column="0" />
@@ -468,6 +490,10 @@
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
+      </file>
+      <file name="/AdditionalBuyRequestAdapter.scala" timestamp="1548844569466">
+        <mark key="[" line="24" column="113" />
+        <mark key="]" line="24" column="165" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" timestamp="1548833511033">
         <mark key="[" line="36" column="33" />
@@ -492,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="406" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="424" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="450" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="456" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
@@ -592,6 +616,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/stg/required_document.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/prod/agreement_relation.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/stg/agreement_relation.csv" />
+      <jump line="284" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/omakase-api.js" />
+      <jump line="163" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -614,49 +640,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>prior-written</text>
+        <text encoding="base64">XDxzZWxsRnVuZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MSwyCg==</text>
+      <register name="0" type="4">
+        <text>// bff 側の対応が終わり thrift parameter が必須になったらおまかせ固定が修正される</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJhY3RUeXBlID0gYXJncy5jb250cmFjdFR5cGUubWFwKGNvbnRyYWN0VHlwZURlc2VyaWFsaXplci5mcm9tVGhyaWZ0KS5nZXRPckVsc2UoQ29udHJhY3RUeXBlLk9tYWthc2UpLCAvLyBiZmYg5YG044Gu5a++5b+c44GM57WC44KP44KKIHRocmlmdCBwYXJhbWV0ZXIg44GM5b+F6aCI44Gr44Gq44Gj44Gf44KJ44GK44G+44GL44Gb5Zu65a6a44GM5L+u5q2j44GV44KM44KLCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44OV44Kp44Oq44Kq44GK44G+44GL44Gb5oqV6LOH44Gu5oqV6LOH5LiA5Lu75aWR57SE57Sw5YmH44KS5pS56KiC44GZ44KL44GT44Go44Go44Gq44KK44G+44GX44Gf44Gu44Gn44CB6YCa55+l44GE44Gf44GX44G+44GZ44CCCuKWoOaUueioguaXpe+8mjIwMTjlubQxMuaciDE35pelCuKWoOaUueiogueCuQrjg7vjgIzjg5Xjgqnjg6rjgqrmipXos4fkuIDku7vlpZHntITmm7jjgI3jga7liKXntJnjgIzmipXos4fkuIDku7vlpZHntITntLDliYfjgI0K44CA5aCx6YWs44Gu566X5Ye65Y+K44Gz5pSv5omV44GE44Gu5pa55rOV77yIM++8ieWgsemFrOOBruW+tOWPjuaWueazleOCkuOAgeOCiOOCiueahOeiuuOBquihqOePvuOBq+WkieabtOOBhOOBn+OBl+OBvuOBl+OBn+OAggrilqDmlLnoqILniYjmipXos4fkuIDku7vlpZHntITmm7jjga7norroqo3mlrnms5UK44OV44Kp44Oq44Kq44Oe44Kk44Oa44O844K45YaF44Gu44CM5Lqk5LuY5pu46Z2i44CN77yIIGh0dHBzOi8vZm9saW8tc2VjLmNvbS9teXBhZ2UvaGlzdG9yeS9yZXBvcnQg77yJ5LiK44Gn44CM5oqV6LOH5LiA5Lu75aWR57SE44Gr6Zai44GZ44KL5pu46Z2i77yI44GK44G+44GL44Gb77yJ44CN44KS6YG45oqe44GX44CB5aSJ5pu06Kaa5pu444KS44GU56K66KqN44GP44Gg44GV44GE44CCCgoK</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0VHlwZTogQ29udHJhY3RUeXBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44OV44Kp44Oq44Kq44GK44G+44GL44Gb5oqV6LOH44Gu5oqV6LOH5LiA5Lu75aWR57SE57Sw5YmH44KS5pS56KiC44GZ44KL44GT44Go44Go44Gq44KK44G+44GX44Gf44Gu44Gn44CB6YCa55+l44GE44Gf44GX44G+44GZ44CCCuKWoOaUueioguaXpe+8mjIwMTjlubQxMuaciDE35pelCuKWoOaUueiogueCuQrjg7vjgIzjg5Xjgqnjg6rjgqrmipXos4fkuIDku7vlpZHntITmm7jjgI3jga7liKXntJnjgIzmipXos4fkuIDku7vlpZHntITntLDliYfjgI0K44CA5aCx6YWs44Gu566X5Ye65Y+K44Gz5pSv5omV44GE44Gu5pa55rOV77yIM++8ieWgsemFrOOBruW+tOWPjuaWueazleOCkuOAgeOCiOOCiueahOeiuuOBquihqOePvuOBq+WkieabtOOBhOOBn+OBl+OBvuOBl+OBn+OAggrilqDmlLnoqILniYjmipXos4fkuIDku7vlpZHntITmm7jjga7norroqo3mlrnms5UK44OV44Kp44Oq44Kq44Oe44Kk44Oa44O844K45YaF44Gu44CM5Lqk5LuY5pu46Z2i44CN77yIIGh0dHBzOi8vZm9saW8tc2VjLmNvbS9teXBhZ2UvaGlzdG9yeS9yZXBvcnQg77yJ5LiK44Gn44CM5oqV6LOH5LiA5Lu75aWR57SE44Gr6Zai44GZ44KL5pu46Z2i77yI44GK44G+44GL44Gb77yJ44CN44KS6YG45oqe44GX44CB5aSJ5pu06Kaa5pu444KS44GU56K66KqN44GP44Gg44GV44GE44CCCgo=</text>
+        <text encoding="base64">ICB0ZXN0KCLmnInlirnjgarms6jmlofjgYzjgZnjgafjgatEQuOBq+WtmOWcqOOBl+OBpuOBhOOCi+WgtOWQiOOAgUR1cGxpY2F0ZWRPcmRlcuS+i+WkluOCkuaKleOBkuOCiyIpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGluOiBQaW4gPSBQaW4oIjExMTEiKSwKICAgICAgYXNzZXRMYXN0RmV0Y2hlZEF0OiBBc3NldExhc3RGZXRjaGVkQXQgPSBBc3NldExhc3RGZXRjaGVkQXQoSW5zdGFudC5ub3cpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5JbnN0YW50Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">44OV44Kp44Oq44Kq44GK44G+44GL44Gb5oqV6LOH44Gu5oqV6LOH5LiA5Lu75aWR57SE57Sw5YmH44KS5pS56KiC44GZ44KL44GT44Go44Go44Gq44KK44G+44GX44Gf44Gu44Gn44CB6YCa55+l44GE44Gf44GX44G+44GZ44CCCuKWoOaUueioguaXpe+8mjIwMTjlubQxMuaciDE35pelCuKWoOaUueiogueCuQrjg7vjgIzjg5Xjgqnjg6rjgqrmipXos4fkuIDku7vlpZHntITmm7jjgI3jga7liKXntJnjgIzmipXos4fkuIDku7vlpZHntITntLDliYfjgI0K44CA5aCx6YWs44Gu566X5Ye65Y+K44Gz5pSv5omV44GE44Gu5pa55rOV77yIM++8ieWgsemFrOOBruW+tOWPjuaWueazleOCkuOAgeOCiOOCiueahOeiuuOBquihqOePvuOBq+WkieabtOOBhOOBn+OBl+OBvuOBl+OBn+OAggrilqDmlLnoqILniYjmipXos4fkuIDku7vlpZHntITmm7jjga7norroqo3mlrnms5UK44OV44Kp44Oq44Kq44Oe44Kk44Oa44O844K45YaF44Gu44CM5Lqk5LuY5pu46Z2i44CN77yIIGh0dHBzOi8vZm9saW8tc2VjLmNvbS9teXBhZ2UvaGlzdG9yeS9yZXBvcnQg77yJ5LiK44Gn44CM5oqV6LOH5LiA5Lu75aWR57SE44Gr6Zai44GZ44KL5pu46Z2i77yI44GK44G+44GL44Gb77yJ44CN44KS6YG45oqe44GX44CB5aSJ5pu06Kaa5pu444KS44GU56K66KqN44GP44Gg44GV44GE44CCCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZGVyQW1vdW50U2hvdWxkQmVTdWZmaWNpZW50UG9saWN5UGx1Z2luOiBPcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwKICAgIGFzc2V0U2hvdWxkQmVTdWZmaWNpZW50UG9saWN5UGx1Z2luOiBBc3NldFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwK</text>
+        <text encoding="base64">44OV44Kp44Oq44Kq44GK44G+44GL44Gb5oqV6LOH44Gu5oqV6LOH5LiA5Lu75aWR57SE57Sw5YmH44KS5pS56KiC44GZ44KL44GT44Go44Go44Gq44KK44G+44GX44Gf44Gu44Gn44CB6YCa55+l44GE44Gf44GX44G+44GZ44CCCuKWoOaUueioguaXpe+8mjIwMTjlubQxMuaciDE35pelCuKWoOaUueiogueCuQrjg7vjgIzjg5Xjgqnjg6rjgqrmipXos4fkuIDku7vlpZHntITmm7jjgI3jga7liKXntJnjgIzmipXos4fkuIDku7vlpZHntITntLDliYfjgI0K44CA5aCx6YWs44Gu566X5Ye65Y+K44Gz5pSv5omV44GE44Gu5pa55rOV77yIM++8ieWgsemFrOOBruW+tOWPjuaWueazleOCkuOAgeOCiOOCiueahOeiuuOBquihqOePvuOBq+WkieabtOOBhOOBn+OBl+OBvuOBl+OBn+OAggrilqDmlLnoqILniYjmipXos4fkuIDku7vlpZHntITmm7jjga7norroqo3mlrnms5UK44OV44Kp44Oq44Kq44Oe44Kk44Oa44O844K45YaF44Gu44CM5Lqk5LuY5pu46Z2i44CN77yIIGh0dHBzOi8vZm9saW8tc2VjLmNvbS9teXBhZ2UvaGlzdG9yeS9yZXBvcnQg77yJ5LiK44Gn44CM5oqV6LOH5LiA5Lu75aWR57SE44Gr6Zai44GZ44KL5pu46Z2i77yI44GK44G+44GL44Gb77yJ44CN44KS6YG45oqe44GX44CB5aSJ5pu06Kaa5pu444KS44GU56K66KqN44GP44Gg44GV44GE44CCCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBvcmRlckFtb3VudFNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbi5jaGVjayhtaW5PcmRlckFtb3VudCwgb3JkZXJBbW91bnQpCiAgICAgIF8gPC0gYXNzZXRTaG91bGRCZVN1ZmZpY2llbnRQb2xpY3lQbHVnaW4uY2hlY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prior-written</last-search>
+      <last-search encoding="base64">XDxzZWxsRnVuZFw+</last-search>
       <last-offset />
-      <last-pattern>prior-written</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxsRnVuZFw+</last-pattern>
       <last-replace>CanPartialSell</last-replace>
       <last-substitute>PartialSell</last-substitute>
       <last-dir>1</last-dir>
@@ -664,7 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AccountOpeningAgreementType</entry>
         <entry>AccountOpening</entry>
         <entry encoding="base64">XDxBY2NvdW50T3BlbmluZ0FncmVlbWVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxBc3NldExhc3RGZXRjaGVkQXRcPg==</entry>
@@ -684,6 +709,7 @@
         <entry encoding="base64">XDxhY3RpdmVPcmRlclNlcnZpY2VNb2NrXD4=</entry>
         <entry>ServiceMock</entry>
         <entry>prior-written</entry>
+        <entry encoding="base64">XDxzZWxsRnVuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxnZXREZWxheWVkUmVhbHRpbWVEaXNwbGF5RGF0YU9mU2ltcGxlUHJpY2VcPi9nZXRGeC9n</entry>
@@ -704,8 +730,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
