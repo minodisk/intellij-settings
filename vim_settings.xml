@@ -114,6 +114,9 @@
         <mark key="." line="24" column="6" />
         <mark key="^" line="24" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/account/thrift/AccountOpeningAgreementType.scala" timestamp="1548834547536">
+        <mark key="'" line="131" column="114" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/InsufficientOrderAmountException.scala" timestamp="1547116391601">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -367,7 +370,7 @@
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548833636133">
+      <file name="/Dummy.txt" timestamp="1548834046945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/BuyProcedure.scala" timestamp="1548314837150">
@@ -454,12 +457,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1548833962955">
+      <file name="/fragment.java" timestamp="1548836127695">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="77" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="278" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
       <jump line="73" column="55" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" />
@@ -559,6 +561,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/dto/CanPartialSellResponseDTO.scala" />
       <jump line="15" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
       <jump line="22" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
+      <jump line="131" column="114" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/account/thrift/AccountOpeningAgreementType.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -584,7 +587,7 @@
         <text>userId, orderAmount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250cmFjdFR5cGVEZXNlcmlhbGl6ZXJcPg==</text>
+        <text encoding="base64">XDxBY2NvdW50T3BlbmluZ0FncmVlbWVudFR5cGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>assetShouldBeSufficientPolicyPlugin</text>
@@ -617,23 +620,20 @@
         <text encoding="base64">ICAgIGJ1eWluZ1Bvd2VyU2hvdWxkQmVTdWZmaWNpZW50UG9saWN5UGx1Z2luOiBCdXlpbmdQb3dlclNob3VsZEJlU3VmZmljaWVudFBvbGljeVBsdWdpbiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250cmFjdFR5cGVEZXNlcmlhbGl6ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxBY2NvdW50T3BlbmluZ0FncmVlbWVudFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250cmFjdFR5cGVEZXNlcmlhbGl6ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBY2NvdW50T3BlbmluZ0FncmVlbWVudFR5cGVcPg==</last-pattern>
       <last-replace>CanPartialSell</last-replace>
       <last-substitute>PartialSell</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlcklkXD4=</entry>
-        <entry encoding="base64">XDxJbnZhbGlkQ29udHJhY3RUeXBlXD4=</entry>
-        <entry encoding="base64">XDxjaGVja1VzZXJPcmRlclBlcm1pc3Npb25cPg==</entry>
         <entry>account</entry>
         <entry>wiw</entry>
         <entry encoding="base64">XDxab25lZERhdGVUaW1lXD4=</entry>
@@ -651,6 +651,9 @@
         <entry encoding="base64">XDxwYXJ0aWFsU2VsbENvbXBvbmVudFw+</entry>
         <entry>PartialSell</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVEZXNlcmlhbGl6ZXJcPg==</entry>
+        <entry>AccountOpeningAgreementType</entry>
+        <entry>AccountOpening</entry>
+        <entry encoding="base64">XDxBY2NvdW50T3BlbmluZ0FncmVlbWVudFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxnZXREZWxheWVkUmVhbHRpbWVEaXNwbGF5RGF0YU9mU2ltcGxlUHJpY2VcPi9nZXRGeC9n</entry>
@@ -669,10 +672,10 @@
         <entry>ww</entry>
         <entry>2w</entry>
         <entry>%s/PartialSell/CanPartialSell/g</entry>
-        <entry>q</entry>
-        <entry>nohlsearch</entry>
         <entry>w:w</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
