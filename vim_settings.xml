@@ -292,12 +292,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" timestamp="1548909819284">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="90" column="2" />
-        <mark key="]" line="90" column="8" />
-        <mark key="." line="90" column="8" />
-        <mark key="^" line="90" column="8" />
+      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" timestamp="1548910535778">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/README.md" timestamp="1547102309776">
         <mark key="[" line="7" column="2" />
@@ -438,11 +438,12 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" timestamp="1548909303427">
-        <mark key="[" line="92" column="44" />
-        <mark key="]" line="92" column="63" />
-        <mark key="." line="92" column="63" />
-        <mark key="^" line="92" column="63" />
+      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" timestamp="1548910770209">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1548908139276">
         <mark key="[" line="0" column="0" />
@@ -534,16 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/CanPartialSellComponent.scala" />
-      <jump line="13" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/adapters/CanPartialSellRequestAdapter.scala" />
-      <jump line="14" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/adapters/CanPartialSellResponseAdapter.scala" />
-      <jump line="17" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/CanPartialSellUseCase.scala" />
-      <jump line="9" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/dto/PartialSellResponseDTO.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/dto/PartialSellResponseDTO.scala" />
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/dto/CanPartialSellResponseDTO.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/dto/CanPartialSellResponseDTO.scala" />
-      <jump line="15" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
-      <jump line="22" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/adapters/CanNewBuyRequestAdapter.scala" />
       <jump line="131" column="114" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/contract/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/account/thrift/AccountOpeningAgreementType.scala" />
       <jump line="51" column="47" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
@@ -634,6 +625,16 @@
       <jump line="40" column="0" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
       <jump line="106" column="0" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
       <jump line="16" column="21" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
+      <jump line="98" column="9" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="18" column="10" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="61" column="4" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
+      <jump line="31" column="4" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Box.ts" />
+      <jump line="63" column="9" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="64" column="38" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="67" column="10" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="102" column="38" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Board.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -656,66 +657,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>, duration: 0.5</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
-        <text>targetHeight</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHRhcmdldFdpZHRoOiBudW1iZXIK</text>
+      <register name="0" type="4">
+        <text>this.currentFrame % 18 === 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudEZyYW1lCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGludGVydmFsID0gNjAwCiAgICAvLyBpZiAodGhpcy5jdXJyZW50RnJhbWUgJSBpbnRlcnZhbCAhPT0gMCkgewogICAgLy8gICB0aGlzLmN1cnJlbnRGcmFtZSsrCiAgICAvLyAgIHJldHVybgogICAgLy8gfQogICAgLy8gY29uc3QgY291bnQgPSAodGhpcy5jdXJyZW50RnJhbWUgLyBpbnRlcnZhbCkgPj4gMAogICAgLy8KICAgIC8vIGxldCBpID0gMAogICAgLy8gZm9yIChsZXQgeSA9IDA7IHkgPCB0aGlzLm51bVk7IHkrKykgewogICAgLy8gICBmb3IgKGxldCB4ID0gMDsgeCA8IHRoaXMubnVtWDsgeCsrKSB7CiAgICAvLyAgICAgY29uc3QgYm94ID0gdGhpcy5ib3hlc1tpXQogICAgLy8KICAgIC8vICAgICBpZiAoKHggKyB5ICsgY291bnQpICUgMiA9PT0gMCkgewogICAgLy8gICAgICAgYm94LnVwZGF0ZVJlZDEoKQogICAgLy8gICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICBib3gudXBkYXRlUmVkMigpCiAgICAvLyAgICAgfQogICAgLy8KICAgIC8vICAgICBpKysKICAgIC8vICAgfQogICAgLy8gfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHRhcmdldFdpZHRoOiBudW1iZXIKICBwcml2YXRlIHRhcmdldEhlaWdodDogbnVtYmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMub24oJ3N0YWdlcmVzaXplJywgdGhpcy5vblN0YWdlUmVzaXplKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFzayA9IHRoaXMubWFza0dyYXBoaWNzCg==</text>
+        <text encoding="base64">ICAgIGRhdGEuZm9yRWFjaCgoeyB0aGVtZXMgfSkgPT4gKHRoaXMudGhlbWVzID0gdGhpcy50aGVtZXMuY29uY2F0KHRoZW1lcykpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1cGRhdGVSZWQyKCkge30KCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSxib3gpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVSZWQxKCkge30KCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSxib3gpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>= o.value = assetWithoutCash * 0.95) {
-            Future.exception(
-              TooManyOrderAmount(s&quot;Partial sell isn't allowed when order amount is ${maxOrderAmountRatioToAssetWithoutCash * 100}% or more of asset without cash.&quot;, ))
-          } else {
-            Future.Unit
-          }
-        case None =</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm94Lm9wZW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>targetHeight</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>targetHeight</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>TooLittle</last-replace>
       <last-substitute>Insufficient</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb250cmFjdFR5cGVcPg==</entry>
-        <entry encoding="base64">XDxDb250cmFjdFR5cGVTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0VmVyc2lvblw+</entry>
-        <entry>DuplicatedOrder</entry>
         <entry encoding="base64">XDxvcmRlclJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVPcmRlclw+</entry>
         <entry>IWIW</entry>
@@ -732,6 +723,10 @@
         <entry>Insufficient</entry>
         <entry encoding="base64">XDxUb29NYW55T3JkZXJBbW91bnRcPg==</entry>
         <entry>targetHeight</entry>
+        <entry encoding="base64">XDxjdXJyZW50RnJhbWVcPg==</entry>
+        <entry>console.log</entry>
+        <entry encoding="base64">XDxvbkZyYW1lXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxJbnN1ZmZpY2llbnRGdW5kc1w+L0luc3VmZmljaWVudEJ1eWluZ1Bvd2VyRm9yT3JkZXJBbW91bnQv</entry>
@@ -751,8 +746,8 @@
         <entry>2w</entry>
         <entry>q</entry>
         <entry>%s/Insufficient/TooLittle/g</entry>
-        <entry>nohlsearch</entry>
         <entry>26</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
