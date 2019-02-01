@@ -9,10 +9,11 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanAdditionalBuyPolicy.scala" timestamp="1549021771273">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanAdditionalBuyPolicy.scala" timestamp="1549022008976">
+        <mark key="[" line="36" column="87" />
+        <mark key="]" line="36" column="100" />
+        <mark key="." line="36" column="100" />
+        <mark key="^" line="36" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" timestamp="1548842970728">
         <mark key="'" line="163" column="2" />
@@ -144,12 +145,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1549021513989">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" timestamp="1549025278914">
         <mark key="'" line="503" column="57" />
-        <mark key="[" line="502" column="94" />
-        <mark key="]" line="503" column="5" />
-        <mark key="." line="503" column="5" />
-        <mark key="^" line="503" column="5" />
+        <mark key="[" line="433" column="93" />
+        <mark key="]" line="433" column="94" />
+        <mark key="." line="433" column="93" />
+        <mark key="^" line="433" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190118.md" timestamp="1548058542425">
         <mark key="[" line="20" column="6" />
@@ -243,12 +244,12 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1549003531040">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1549024155671">
         <mark key="'" line="248" column="16" />
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="47" />
-        <mark key="." line="93" column="35" />
-        <mark key="^" line="93" column="35" />
+        <mark key="[" line="363" column="73" />
+        <mark key="]" line="363" column="90" />
+        <mark key="." line="363" column="90" />
+        <mark key="^" line="363" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546923757214">
         <mark key="[" line="35" column="34" />
@@ -324,7 +325,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1549012812921">
+      <file name="/sbtShell" timestamp="1549021906118">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="113" />
         <mark key="^" line="0" column="113" />
@@ -359,7 +360,7 @@
         <mark key="." line="36" column="79" />
         <mark key="^" line="36" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549019579579">
+      <file name="/Dummy.txt" timestamp="1549021817954">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="21" />
       </file>
@@ -599,13 +600,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb29MaXR0bGVBc3NldFdpaHRvdXRDYXNoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDY6IG9yZGVyX2V4Y2VwdGlvbi5Ub29MaXR0bGVBc3NldFdpdGhvdXRDYXNoIHRvb0xpdHRsZUFzc2V0V2l0aG91dENhc2gKICAgIDc6IG9yZGVyX2V4Y2VwdGlvbi5Ub29NYW55T3JkZXJBbW91bnQgdG9vTWFueU9yZGVyQW1vdW50CiAgICA4OiBvcmRlcl9leGNlcHRpb24uVG9vTGl0dGxlT3JkZXJBbW91bnQgdG9vTGl0dGxlT3JkZXJBbW91bnQK</text>
+      <register name="0" type="4">
+        <text>,any[ContractType]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5yZXF1ZXN0Lm1vZGVsLkFzc2V0TGFzdEZldGNoZWRBdAo=</text>
@@ -687,9 +688,9 @@
         <entry>%s/Insufficient/TooLittle/g</entry>
         <entry>%s/insufficient/tooLittle/g</entry>
         <entry encoding="base64">JXMvXDxUb29MaXR0bGVBc3NldFw+L1Rvb0xpdHRsZUFzc2V0V2lodG91dENhc2gv</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
