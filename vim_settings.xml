@@ -373,7 +373,7 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/adapters/CanPartialSellResponseAdapter.scala" timestamp="1548998944748">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548912089066">
+      <file name="/Dummy.txt" timestamp="1549003752759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/BuyProcedure.scala" timestamp="1548314837150">
@@ -403,11 +403,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549002897912">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549004481376">
         <mark key="'" line="58" column="12" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="59" column="21" />
+        <mark key="[" line="55" column="78" />
+        <mark key="]" line="55" column="78" />
+        <mark key="." line="55" column="78" />
         <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/PinShouldBeValidPolicyPlugin.scala" timestamp="1548302266730">
@@ -624,13 +624,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>endOrderAmountRatioToAssetWithoutCash</text>
       </register>
       <register name="/" type="4">
         <text>Insufficient</text>
       </register>
       <register name="0" type="4">
-        <text>CanPartialSellOrderControllerFeatureTest</text>
+        <text>endOrderAmountRatioToAssetWithoutCash</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -712,9 +712,9 @@
         <entry>;;w</entry>
         <entry>e</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>%s/Insufficient/TooLittle/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
