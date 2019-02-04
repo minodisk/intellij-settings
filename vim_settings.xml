@@ -360,7 +360,7 @@
         <mark key="." line="36" column="79" />
         <mark key="^" line="36" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549279517972">
+      <file name="/Dummy.txt" timestamp="1549282301085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -390,8 +390,12 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549279685320">
-        <mark key="'" line="22" column="28" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549281537017">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="56" column="140" />
+        <mark key="]" line="56" column="159" />
+        <mark key="." line="56" column="159" />
+        <mark key="^" line="56" column="159" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/PartialSellUseCase.scala" timestamp="1549276038559">
         <mark key="'" line="20" column="21" />
@@ -489,9 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="502" column="57" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AdditionalBuyOrderControllerFeatureTest.scala" />
-      <jump line="8" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanNewBuyOrderControllerFeatureTest.scala" />
       <jump line="54" column="130" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" />
       <jump line="23" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" />
       <jump line="372" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
@@ -589,6 +590,9 @@
       <jump line="318" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
       <jump line="390" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
       <jump line="101" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" />
+      <jump line="47" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" />
+      <jump line="43" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" />
+      <jump line="42" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,10 +615,10 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>SummarizedIwiAssetRecord</text>
+        <text>cash</text>
       </register>
       <register name="/" type="4">
-        <text>Summ</text>
+        <text encoding="base64">XDxpd2lBc3NldHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdoZW4oaXdpQXNzZXRTZXJ2aWNlTW9jay5nZXRJd2lBc3NldHMoYW55W1VzZXJJZF0sIGFueVtDb250cmFjdFR5cGVdKSkKICAgICAgLnRoZW5SZXR1cm4oRnV0dXJlLnZhbHVlKEl3aUFzc2V0cyhTZXEoZHVtbXlJd2lTdG9ja0Fzc2V0LmNvcHkobWFya2V0VmFsdWUgPSBNYXJrZXRWYWx1ZSgxMDAwMDApKSkpKSkK</text>
@@ -651,18 +655,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Summ</last-search>
+      <last-search encoding="base64">XDxpd2lBc3NldHNcPg==</last-search>
       <last-offset />
-      <last-pattern>Summ</last-pattern>
+      <last-pattern encoding="base64">XDxpd2lBc3NldHNcPg==</last-pattern>
       <last-replace>注文が受け付けられる</last-replace>
       <last-substitute>例外を投げない</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb250cmFjdFR5cGVTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0XD4=</entry>
         <entry encoding="base64">XDxleGNlcHRpb25cPg==</entry>
         <entry>iwi</entry>
         <entry encoding="base64">XDxBZGRpdGlvbmFsQnV5UmVzcG9uc2VEVE9cPg==</entry>
@@ -681,6 +683,8 @@
         <entry encoding="base64">XDxkdW1teUl3aVN0b2NrQXNzZXRcPg==</entry>
         <entry encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</entry>
         <entry>Summ</entry>
+        <entry>without</entry>
+        <entry encoding="base64">XDxpd2lBc3NldHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
