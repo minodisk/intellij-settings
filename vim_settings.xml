@@ -136,13 +136,11 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanPartialSellPolicy.scala" timestamp="1549017825908">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/NewBuyOrderControllerFeatureTest.scala" timestamp="1549003509849">
-        <mark key="'" line="258" column="42" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanPartialSellPolicy.scala" timestamp="1549245642923">
+        <mark key="[" line="32" column="61" />
+        <mark key="]" line="32" column="73" />
+        <mark key="." line="32" column="73" />
+        <mark key="^" line="32" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderController.scala" timestamp="1547100313914">
         <mark key="[" line="11" column="38" />
@@ -168,6 +166,7 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/orders/active/ActiveOrder.scala" timestamp="1549245586545" />
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderShouldNotBeDuplicatedPolicyPlugin.scala" timestamp="1548325368724">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="20" />
@@ -223,7 +222,6 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1549024155671">
-        <mark key="'" line="248" column="16" />
         <mark key="[" line="363" column="73" />
         <mark key="]" line="363" column="90" />
         <mark key="." line="363" column="90" />
@@ -289,7 +287,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1549025817423">
+      <file name="/sbtShell" timestamp="1549247079206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="113" />
         <mark key="^" line="0" column="113" />
@@ -319,10 +317,6 @@
         <mark key="." line="36" column="79" />
         <mark key="^" line="36" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549025405159">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
         <mark key="]" line="11" column="85" />
@@ -344,11 +338,12 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549017300055">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="59" column="37" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/AssetShouldBeSufficientToSellPartiallyPolicyPlugin.scala" timestamp="1549245622393">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="55" />
+        <mark key="." line="41" column="55" />
+        <mark key="^" line="41" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/PinShouldBeValidPolicyPlugin.scala" timestamp="1548302266730">
         <mark key="[" line="10" column="0" />
@@ -552,7 +547,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdFJlcG9zaXRvcnlcPg==</text>
@@ -588,7 +583,7 @@
         <text encoding="base64">ICAgICAgICAuY2hlY2socmVxRFRPLnVzZXJJZCwgcmVxRFRPLmNvbnRyYWN0VHlwZSwgcmVxRFRPLm9yZGVyQW1vdW50LCByZXFEVE8uYXNzZXRMYXN0RmV0Y2hlZEF0LCByZXFEVE8ucmVxdWVzdGVkQXQsIHJlcURUTy5waW4pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -598,7 +593,7 @@
       <last-replace>TooLittleAssetWihtoutCash</last-replace>
       <last-substitute encoding="base64">XDxUb29MaXR0bGVBc3NldFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -641,9 +636,9 @@
         <entry>%s/insufficient/tooLittle/g</entry>
         <entry encoding="base64">JXMvXDxUb29MaXR0bGVBc3NldFw+L1Rvb0xpdHRsZUFzc2V0V2lodG91dENhc2gv</entry>
         <entry>vs</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
