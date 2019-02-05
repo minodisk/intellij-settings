@@ -137,12 +137,11 @@
         <mark key="." line="72" column="63" />
         <mark key="^" line="72" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Leaf.ts" timestamp="1549284892938">
+      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Leaf.ts" timestamp="1549329678886">
         <mark key="'" line="1" column="45" />
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="31" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/PartialSellOrderControllerFeatureTest.scala" timestamp="1549277324492">
         <mark key="'" line="336" column="2" />
@@ -157,11 +156,11 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanPartialSellPolicy.scala" timestamp="1549328949210">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanPartialSellPolicy.scala" timestamp="1549332917333">
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderController.scala" timestamp="1547100313914">
         <mark key="[" line="11" column="38" />
@@ -171,10 +170,6 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1549282387586">
         <mark key="'" line="211" column="32" />
-        <mark key="[" line="228" column="43" />
-        <mark key="]" line="228" column="5" />
-        <mark key="." line="228" column="5" />
-        <mark key="^" line="228" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/tsconfig.json" timestamp="1546835989509">
         <mark key="[" line="28" column="33" />
@@ -301,11 +296,11 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/EyeCatch.ts" timestamp="1549286184262">
-        <mark key="'" line="19" column="38" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/EyeCatch.ts" timestamp="1549329947503">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
@@ -336,7 +331,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1549275539491">
+      <file name="/sbtShell" timestamp="1549340596589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="110" />
         <mark key="^" line="0" column="110" />
@@ -370,7 +365,8 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/adapters/CanPartialSellResponseAdapter.scala" timestamp="1549282349205">
         <mark key="'" line="42" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549328723144">
+      <file name="/Dummy.txt" timestamp="1549328953564">
+        <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -473,6 +469,9 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/batch/installment_settle/InstallmentSettleUseCase.scala" timestamp="1549340537226">
+        <mark key="'" line="6" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/resources/env/test.conf" timestamp="1549273997330">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="2" />
@@ -496,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/AllSellUseCase.scala" />
-      <jump line="5" column="86" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/AllSellUseCase.scala" />
       <jump line="26" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/AllSellUseCase.scala" />
       <jump line="33" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/SellProcedure.scala" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/SellProcedure.scala" />
@@ -596,6 +593,8 @@
       <jump line="10" column="29" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/EyeCatch.ts" />
       <jump line="51" column="8" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/util/timer.ts" />
       <jump line="19" column="38" filename="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/EyeCatch.ts" />
+      <jump line="55" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/batch/installment_settle/InstallmentSettleUseCase.scala" />
+      <jump line="6" column="72" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/batch/installment_settle/InstallmentSettleUseCase.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -618,58 +617,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>minAssetWithoutCash</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lclw+</text>
+        <text>Insufficient</text>
       </register>
-      <register name="0" type="4">
-        <text>TimerEvent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChjb3VudCAlIDEwMCA9PT0gMCkgewogICAgICB0aGlzLmxheWVyID0gbmV3IENvbnRhaW5lcigpCiAgICAgIHRoaXMubGF5ZXIueCA9IDUwMAogICAgICB0aGlzLmxheWVyLnkgPSA1MDAKICAgICAgdGhpcy5hZGRDaGlsZCh0aGlzLmxheWVyKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlYWYuY2FjaGVBc0JpdG1hcCA9IHRydWUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYWYuY2FjaGVBc0JpdG1hcCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hZGRDaGlsZCh0aGlzLmxheWVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FjaGVBc0JpdG1hcCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sYXllci54ID0gNTAwCiAgICAgIHRoaXMubGF5ZXIueSA9IDUwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxlYWYueCA9IDUwMAogICAgbGVhZi55ID0gNTAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IGxlbjsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgbGVuOyBpKyspIHsKICAgICAgY29uc3QgbGVhZiA9IG5ldyBMZWFmKHNpemUgLSBzICogaSkKICAgICAgbGVhZi54ID0gNTAwCiAgICAgIGxlYWYueSA9IDUwMAogICAgICBsZWFmLnJvdGF0aW9uID0gTWF0aC5QSSAqIDIgKiBNYXRoLnJhbmRvbSgpCiAgICAgIHRoaXMuYWRkQ2hpbGQobGVhZikKICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCBsYXllcjogQ29udGFpbmVyCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxlbiA9IDUwMAogICAgY29uc3Qgc2l6ZSA9IDEwMDAKICAgIGNvbnN0IHMgPSBzaXplIC8gbGVuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGltZXIub24oMzAwLCB0aGlzLm9uVXBkYXRlUHJpY2UpCg==</text>
+        <text encoding="base64">ICAgIGxlYWYuY2FjaGVBc0JpdG1hcCA9IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGltZXIub24oMTIwMCwgdGhpcy5jcmVhdGVOZXdCb3hlcykK</text>
+        <text encoding="base64">ICAgIGxlYWYuY2FjaGVBc0JpdG1hcCA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lclw+</last-search>
+      <last-search>Insufficient</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lclw+</last-pattern>
-      <last-replace>SellableAssetValue</last-replace>
-      <last-substitute>AssetWithoutCash</last-substitute>
+      <last-pattern>Insufficient</last-pattern>
+      <last-replace>TooLittle</last-replace>
+      <last-substitute>Insufficient</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXN0XD4=</entry>
-        <entry>12345</entry>
         <entry encoding="base64">XDxwaW5TZXJ2aWNlTW9ja1w+</entry>
         <entry encoding="base64">XDxhY3RpdmVPcmRlclNlcnZpY2VNb2NrXD4=</entry>
         <entry encoding="base64">XDx1c2VyT3JkZXJTZXJ2aWNlTW9ja1w+</entry>
@@ -688,6 +685,8 @@
         <entry encoding="base64">XDxUb29MaXR0bGVTZWxsYWJsZUFzc2V0VmFsdWVcPg==</entry>
         <entry encoding="base64">XDxUaW1lclw+</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
+        <entry encoding="base64">XDxJbnN1ZmZpY2llbnRPcmRlckFtb3VudFw+</entry>
+        <entry>Insufficient</entry>
       </history-search>
       <history-cmd>
         <entry>%s/insufficient/tooLittle/</entry>
@@ -696,7 +695,6 @@
         <entry>%s/TooLittle/Insufficient/g</entry>
         <entry>;;w</entry>
         <entry>e</entry>
-        <entry>%s/Insufficient/TooLittle/g</entry>
         <entry>%s/insufficient/tooLittle/g</entry>
         <entry encoding="base64">JXMvXDxUb29MaXR0bGVBc3NldFw+L1Rvb0xpdHRsZUFzc2V0V2lodG91dENhc2gv</entry>
         <entry>;w</entry>
@@ -709,6 +707,7 @@
         <entry>::w</entry>
         <entry>w:w</entry>
         <entry>nohlsearch</entry>
+        <entry>%s/Insufficient/TooLittle/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
