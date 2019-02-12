@@ -66,11 +66,10 @@
       <file name="/Dummy.scala" timestamp="1549523736606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/SummarizedIwiAsset.scala" timestamp="1549435217464">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
-        <mark key="^" line="50" column="45" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/SummarizedIwiAsset.scala" timestamp="1549959974765">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/InvalidContractTypePolicyPlugin.scala" timestamp="1549946092760">
         <mark key="[" line="28" column="0" />
@@ -547,7 +546,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549959166561">
+      <file name="/Dummy.txt" timestamp="1549959229168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -761,31 +760,31 @@
         <text>OrderNotCancellable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5wb2xpY3kuT3JkZXJOb3RDYW5jZWxsYWJsZQo=</text>
+        <text encoding="base64">ICB2YWwgcGxhbklkOiBQbGFuSWQgPSBQbGFuSWQuQmFsYW5jZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIgPC0gb3JkZXJSZXBvc2l0b3J5LmZpbmRCeShvcmRlcklkKQogICAgICBfIDwtIG9yZGVyIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUobzogT3JkZXIpID0+CiAgICAgICAgICBvcmRlclJlcG9zaXRvcnkudXBkYXRlKG8uY29weShzdGF0ZSA9IE9yZGVyU3RhdGUuQnV5SW5pdCkpCiAgICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKFJ1bnRpbWVFeGNlcHRpb24pCiAgICAgIH0K</text>
+        <text encoding="base64">ICB2YWwgcGxhbklkOiBQbGFuSWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydEZhaWxlZEZ1dHVyZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5wb2xpY3kuT3JkZXJOb3RDYW5jZWxsYWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXIgPC0gb3JkZXJSZXBvc2l0b3J5LmZpbmRCeShvcmRlcklkKQogICAgICBfIDwtIG9yZGVyIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUobzogT3JkZXIpID0+CiAgICAgICAgICBvcmRlclJlcG9zaXRvcnkudXBkYXRlKG8uY29weShzdGF0ZSA9IE9yZGVyU3RhdGUuQnV5SW5pdCkpCiAgICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKFJ1bnRpbWVFeGNlcHRpb24pCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydEZhaWxlZEZ1dHVyZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPdXRPZkNhbmNlbGFibGVUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
+        <text encoding="base64">ICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
+        <text encoding="base64">ICAgICogQHRocm93cyBPdXRPZkNhbmNlbGFibGVUaW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
