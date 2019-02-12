@@ -271,8 +271,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" timestamp="1549525918595">
-        <mark key="'" line="94" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" timestamp="1549963995026">
+        <mark key="'" line="39" column="75" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="52" />
         <mark key="^" line="94" column="18" />
@@ -585,7 +585,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549959229168">
+      <file name="/Dummy.txt" timestamp="1549964038807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -625,10 +625,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/MigrationPlanIdShouldNotBeTheSamePolicyPlugin.scala" timestamp="1549963217312">
-        <mark key="[" line="6" column="83" />
-        <mark key="]" line="6" column="83" />
-        <mark key="." line="6" column="83" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/MigrationPlanIdShouldNotBeTheSamePolicyPlugin.scala" timestamp="1549964261425">
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="20" column="76" />
+        <mark key="." line="20" column="76" />
+        <mark key="^" line="20" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" timestamp="1549429973808">
         <mark key="'" line="1057" column="12" />
@@ -690,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" />
-      <jump line="22" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="41" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" />
       <jump line="7" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/cancel/CanCancelComponent.scala" />
       <jump line="8" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/cancel/CanCancelComponent.scala" />
@@ -790,6 +788,9 @@
       <jump line="37" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/iwi/service/asset/IwiAssetServiceImpl.scala" />
       <jump line="6" column="91" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/iwi/service/asset/IwiAssetServiceImpl.scala" />
       <jump line="2" column="96" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/MigrationPlanIdShouldNotBeTheSamePolicyPlugin.scala" />
+      <jump line="110" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
+      <jump line="265" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
+      <jump line="39" column="75" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -812,58 +813,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>使います。</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFw+</text>
+        <text encoding="base64">XDxJbnZhbGlkRGVzdGluYXRpb25QbGFuSWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKE5vdERpc2NyZXRpb25hcnlJbnZlc3RtZW50VXNlcihzIlVzZXIoaWQ9JHt1c2VySWQudmFsdWV9KSBkb2Vzbid0IGhhdmUgYXNzZXRzIG9mIGRpc2NyZXRpb25hcnkgaW52ZXN0bWVudC4iKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5taWdyYXRlLmR0by5NaWdyYXRlUmVzcG9uc2VEVE8uTm90RGlzY3JldGlvbmFyeUludmVzdG1lbnRVc2VyCg==</text>
+        <text encoding="base64">ICAgICog5ZCM44GY44OX44Op44Oz44G444Gu5aSJ5pu044Gv6KqN44KB44KJ44KM44Gq44GE44Go44GE44GG5LuV5qeY44KS5rqA44Gf44GZ44Gf44KB44Gu44OB44Kn44OD44Kv44Gn44GZ44CCCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIF86IFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50ID0+CiAgICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKE5vdERpc2NyZXRpb25hcnlJbnZlc3RtZW50VXNlcihzIlVzZXIkdXNlcklkIGRvZXNuJ3QgaGF2ZSBhc3NldHMgb2YgZGlzY3JldGlvbmFyeSBpbnZlc3RtZW50LiIpKQo=</text>
+        <text encoding="base64">ICAgICog5pei44Gr6YGL55So44KS44GX44Gm44GE44Gm44GE44Gm44CBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZS5leGNlcHRpb24oT3JkZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5taWdyYXRlLmR0by5NaWdyYXRlUmVzcG9uc2VEVE8uTm90RGlzY3JldGlvbmFyeUludmVzdG1lbnRVc2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIF86IFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50ID0+CiAgICAgICAgICBGdXR1cmUuVW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF86IFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50ID0+CiAgICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKE5vdERpc2NyZXRpb25hcnlJbnZlc3RtZW50VXNlcihzIlVzZXIkdXNlcklkIGRvZXNuJ3QgaGF2ZSBhc3NldHMgb2YgZGlzY3JldGlvbmFyeSBpbnZlc3RtZW50LiIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUoU3VtbWFyaXplZEl3aUFzc2V0Tm90WWV0RGlzY3JldGlvbmFyeUludmVzdG1lbnQpID0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZ1dHVyZS5leGNlcHRpb24oT3JkZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF86IFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50ID0+CiAgICAgICAgICBGdXR1cmUuVW5pdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNvbWUoU3VtbWFyaXplZEl3aUFzc2V0Tm90WWV0RGlzY3JldGlvbmFyeUludmVzdG1lbnQpID0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgcGxhbklkOiBQbGFuSWQgPSBQbGFuSWQuQmFsYW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcGxhbklkOiBQbGFuSWQK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFw+</last-search>
+      <last-search encoding="base64">XDxJbnZhbGlkRGVzdGluYXRpb25QbGFuSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxJbnZhbGlkRGVzdGluYXRpb25QbGFuSWRcPg==</last-pattern>
       <last-replace>CanCancel</last-replace>
       <last-substitute>CanCanCancel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250cmFjdFR5cGVTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeVw+</entry>
         <entry>idl</entry>
         <entry encoding="base64">XDxJbnZhbGlkQ29udHJhY3RUeXBlXD4=</entry>
         <entry>println</entry>
@@ -882,6 +881,8 @@
         <entry encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</entry>
         <entry>match</entry>
         <entry encoding="base64">XDxTdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFw+</entry>
+        <entry>InvalidDestinationPlanId</entry>
+        <entry encoding="base64">XDxJbnZhbGlkRGVzdGluYXRpb25QbGFuSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PartialSell/AllSell/g</entry>
