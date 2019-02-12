@@ -407,12 +407,10 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" timestamp="1549949750735">
-        <mark key="'" line="145" column="27" />
-        <mark key="[" line="149" column="6" />
-        <mark key="]" line="149" column="12" />
-        <mark key="^" line="149" column="12" />
-        <mark key="." line="149" column="12" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" timestamp="1549959154684">
+        <mark key="[" line="155" column="17" />
+        <mark key="]" line="155" column="35" />
+        <mark key="^" line="151" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanSwitch.jsx" timestamp="1549430173896">
         <mark key="'" line="134" column="22" />
@@ -441,6 +439,9 @@
         <mark key="]" line="35" column="37" />
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/state/OrderState.scala" timestamp="1549958820305">
+        <mark key="a" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/webpack.config.js" timestamp="1545961618115">
         <mark key="[" line="13" column="0" />
@@ -483,6 +484,9 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/Order.scala" timestamp="1549958824592">
+        <mark key="'" line="47" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/CanAdditionalBuyRequestAdapter.scala" timestamp="1548068560527">
         <mark key="[" line="5" column="0" />
@@ -543,7 +547,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549947246525">
+      <file name="/Dummy.txt" timestamp="1549959166561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
@@ -552,7 +556,6 @@
         <mark key="." line="11" column="85" />
         <mark key="^" line="11" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanCancelPolicy.scala" timestamp="1549606259151" />
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" timestamp="1547540387560">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="22" />
@@ -619,9 +622,6 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1549607138558">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/dto/CanAllSellResponseDTO.scala" timestamp="1549367570773">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -630,12 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="39" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="350" column="42" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="366" column="42" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
-      <jump line="8" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/additional_buy/adapters/AdditionalBuyResponseAdapter.scala" />
-      <jump line="33" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" />
@@ -677,7 +671,6 @@
       <jump line="127" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="90" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
-      <jump line="91" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="37" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="23" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="95" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
@@ -717,7 +710,6 @@
       <jump line="52" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/OrderPolicyException.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="144" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
-      <jump line="153" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="18" column="58" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="31" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/OrderRepository.scala" />
       <jump line="16" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/core/order/model/OrderRepositoryImpl.scala" />
@@ -728,8 +720,16 @@
       <jump line="151" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="154" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
-      <jump line="5" column="72" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="145" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/Order.scala" />
+      <jump line="58" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="153" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="48" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="53" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="91" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="104" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="115" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -752,59 +752,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>orderId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPcmRlck5vdENhbmNlbGxhYmxlXD4=</text>
+        <text encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>findActiveOrderBy</text>
+        <text>OrderNotCancellable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPdXRPZkNhbmNlbGFibGVUaW1lCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5wb2xpY3kuT3JkZXJOb3RDYW5jZWxsYWJsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
+        <text encoding="base64">ICAgICAgb3JkZXIgPC0gb3JkZXJSZXBvc2l0b3J5LmZpbmRCeShvcmRlcklkKQogICAgICBfIDwtIG9yZGVyIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUobzogT3JkZXIpID0+CiAgICAgICAgICBvcmRlclJlcG9zaXRvcnkudXBkYXRlKG8uY29weShzdGF0ZSA9IE9yZGVyU3RhdGUuQnV5SW5pdCkpCiAgICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgICBGdXR1cmUuZXhjZXB0aW9uKFJ1bnRpbWVFeGNlcHRpb24pCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydEZhaWxlZEZ1dHVyZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIGNhc2UgY2xhc3MgT3V0T2ZDYW5DYW5jZWxhYmxlVGltZShtZXNzYWdlOiBTdHJpbmcsIGNhdXNlOiBUaHJvd2FibGUgPSBudWxsKSBleHRlbmRzIENhbkNhbmNlbEFwcGxpY2F0aW9uRXhjZXB0aW9uKG1lc3NhZ2UsIGNhdXNlKSB7Ci8vICAgIG92ZXJyaWRlIHZhbCBsb2dMZXZlbDogRm9saW9Mb2dMZXZlbCA9IEZvbGlvTG9nTGV2ZWwuV2FybgovLyAgfQovLwovLyAgY2FzZSBjbGFzcyBPcmRlck5vdEZvdW5kKG1lc3NhZ2U6IFN0cmluZywgY2F1c2U6IFRocm93YWJsZSA9IG51bGwpIGV4dGVuZHMgQ2FuQ2FuY2VsQXBwbGljYXRpb25FeGNlcHRpb24obWVzc2FnZSwgY2F1c2UpIHsKLy8gICAgb3ZlcnJpZGUgdmFsIGxvZ0xldmVsOiBGb2xpb0xvZ0xldmVsID0gRm9saW9Mb2dMZXZlbC5XYXJuCi8vICB9Ci8vCi8vICBjYXNlIGNsYXNzIEludmFsaWRQaW4obWVzc2FnZTogU3RyaW5nLCBjYXVzZTogVGhyb3dhYmxlID0gbnVsbCkgZXh0ZW5kcyBDYW5DYW5jZWxBcHBsaWNhdGlvbkV4Y2VwdGlvbihtZXNzYWdlLCBjYXVzZSkgewovLyAgICBvdmVycmlkZSB2YWwgbG9nTGV2ZWw6IEZvbGlvTG9nTGV2ZWwgPSBGb2xpb0xvZ0xldmVsLldhcm4KLy8gIH0KLy8KLy8gIGNhc2UgY2xhc3MgQWNjb3VudFNlcnZpY2VFcnJvcihtZXNzYWdlOiBTdHJpbmcsIGNhdXNlOiBUaHJvd2FibGUgPSBudWxsKSBleHRlbmRzIENhbkNhbmNlbEFwcGxpY2F0aW9uRXhjZXB0aW9uKG1lc3NhZ2UsIGNhdXNlKSB7Ci8vICAgIG92ZXJyaWRlIHZhbCBsb2dMZXZlbDogRm9saW9Mb2dMZXZlbCA9IEZvbGlvTG9nTGV2ZWwuV2FybgovLyAgfQovLwovLyAgY2FzZSBjbGFzcyBPcmRlckV4cGlyZWQobWVzc2FnZTogU3RyaW5nLCBjYXVzZTogVGhyb3dhYmxlID0gbnVsbCkgZXh0ZW5kcyBDYW5DYW5jZWxBcHBsaWNhdGlvbkV4Y2VwdGlvbihtZXNzYWdlLCBjYXVzZSkgewovLyAgICBvdmVycmlkZSB2YWwgbG9nTGV2ZWw6IEZvbGlvTG9nTGV2ZWwgPSBGb2xpb0xvZ0xldmVsLldhcm4KLy8gIH0KCn0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIH0KCg==</text>
+        <text encoding="base64">ICAgICAgXyA8LSB0ZXJtaW5hdGVPcmRlcihvcmRlcklkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gICAgc3VwZXIuYmVmb3JlRWFjaCgpCg==</text>
+        <text encoding="base64">ICAgICogQHRocm93cyBPdXRPZkNhbmNlbGFibGVUaW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbih1c2VyT3JkZXJTZXJ2aWNlTW9jay5jaGVja1VzZXJPcmRlclBlcm1pc3Npb24oYW55W1VzZXJJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5Vbml0KQovLyAgICB3aGVuKGl3aUFzc2V0U2VydmljZU1vY2suY2hlY2tEaXNjcmV0aW9uYXJ5SW52ZXN0bWVudFVzZXIoYW55W1VzZXJJZF0sIGFueVtDb250cmFjdFR5cGVdKSkudGhlblJldHVybihGdXR1cmUuVW5pdCkK</text>
+        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gICAgd2hlbihhY3RpdmVPcmRlclNlcnZpY2VNb2NrLmdldEFjdGl2ZU9yZGVyKGFueVtVc2VySWRdLCBhbnlbQ29udHJhY3RUeXBlXSkpLnRoZW5SZXR1cm4oRnV0dXJlLk5vbmUpCg==</text>
+        <text encoding="base64">ICAgICogQHRocm93cyBPcmRlckV4cGlyZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPcmRlck5vdENhbmNlbGxhYmxlXD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPcmRlck5vdENhbmNlbGxhYmxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</last-pattern>
       <last-replace>CanCancel</last-replace>
       <last-substitute>CanCanCancel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>canCancel</entry>
-        <entry>Migrate</entry>
-        <entry encoding="base64">XDxvcmRlclJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxmaW5kQWN0aXZlT3JkZXJCeVw+</entry>
         <entry encoding="base64">XDxhY3RpdmVPcmRlclNlcnZpY2VNb2NrXD4=</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVTZXJpYWxpemVyXD4=</entry>
@@ -822,6 +819,9 @@
         <entry encoding="base64">XDx0ZXJtaW5hdGVBY3RpdmVPcmRlckJ5XD4=</entry>
         <entry>findActiveOrderBy</entry>
         <entry encoding="base64">XDxPcmRlck5vdENhbmNlbGxhYmxlXD4=</entry>
+        <entry>cancelable</entry>
+        <entry encoding="base64">XDxjb3B5XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PartialSell/AllSell/g</entry>
@@ -842,8 +842,8 @@
         <entry>%s/CanCanCancel/CanCancel/g</entry>
         <entry>e!</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
