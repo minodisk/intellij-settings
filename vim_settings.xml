@@ -273,9 +273,12 @@
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" timestamp="1549976693417">
-        <mark key="'" line="280" column="17" />
-        <mark key="^" line="280" column="31" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" timestamp="1550021886398">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="290" column="36" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/policy/PolicyException.scala" timestamp="1549527085231">
         <mark key="'" line="10" column="72" />
@@ -284,8 +287,10 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" timestamp="1549449376513">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" timestamp="1550021496428">
         <mark key="'" line="21" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/PinShouldBeValidPolicyPlugin.scala" timestamp="1549516350224">
         <mark key="[" line="10" column="8" />
@@ -405,9 +410,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/MigrationFrequencyPolicyPlugin.scala" timestamp="1549975865300">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="10" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/MigrationFrequencyPolicyPlugin.scala" timestamp="1550021221453">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="58" />
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
@@ -604,6 +609,11 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/OrderRepository.scala" timestamp="1549949180225">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/cancel_order/policy/CanCancelPolicy.scala" timestamp="1549520044744">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="68" />
@@ -719,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="32" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="41" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
       <jump line="54" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanCancelOrderControllerFeatureTest.scala" />
@@ -819,6 +828,7 @@
       <jump line="39" column="96" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/migrate/adapters/CanMigrateResponseAdapter.scala" />
       <jump line="344" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
       <jump line="262" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
+      <jump line="125" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -841,40 +851,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>InvalidDestinationPlanId</text>
+        <text>Balance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbHJlYWR5TWlncmF0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBkdW1teUNvbnRyYWN0SGlzdG9yeSA9IEl3aUNvbnRyYWN0SGlzdG9yeSgKICAgIG9yZGVyRGF0ZSA9IE9yZGVyRGF0ZShib3VnaHREYXRlLnRvSW5zdGFudCksCiAgICBwbGFuSWQgPSBQbGFuSWQuQmFsYW5jZSwKICAgIGNvbnRyYWN0VHlwZSA9IENvbnRyYWN0VHlwZS5PbWFrYXNlLAogICAgb3JkZXJUeXBlID0gT3JkZXJUeXBlLk5ld0J1eSwKICAgIG9yZGVyQW1vdW50ID0gT3JkZXJBbW91bnQoMTAwMDAwKSwKICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5wb2xpY3kuQWxyZWFkeU1pZ3JhdGVkCg==</text>
+        <text encoding="base64">ICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW5SZXR1cm4oRnV0dXJlLnZhbHVlKFNlcShkdW1teUNvbnRyYWN0SGlzdG9yeSwgKSkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAKICB0ZXN0Cg==</text>
+      <register name="3" type="4">
+        <text>SummarizedIwiAssetRecord(
+          userId = UserId(1),
+          contractType = ContractType.Omakase,
+          lastUpdateDate = LastUpdateDate(boughtDate.toInstant),
+          startDate = InvestmentStartDate(boughtDate.toInstant),
+          planId = PlanId.Balance,
+          bookValue = BookValue(100000),
+          unrealizedGainLoss = UnrealizedGainLoss(100000),
+          marketValueChange = MarketValueChange(100000),
+          marketValue = MarketValue(100000)
+        )</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5JbnN0YW50Cgo=</text>
+      <register name="4" type="4">
+        <text>IwiContractHistory(
+            orderDate = OrderDate(boughtDate.toInstant),
+            planId = PlanId.Balance,
+            contractType = ContractType.Omakase,
+            orderType = OrderType.NewBuy,
+            orderAmount = OrderAmount(100000),
+          )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBub3cgPSBJbnN0YW50Lm5vdwo=</text>
+        <text encoding="base64">ICAgIHZhbCBib3VnaHREYXRlID0gZGF0ZVRpbWVTZXJ2aWNlTW9jay5ub3dJbnN0YW50KCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5jb250cmFjdC5PcmRlckRhdGUK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBib3VnaHREYXRlID0gCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqIOS7iuaciGRkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLnNlcnZlci5vcmRlci5wb2xpY3kuQWxyZWFkeU1pZ3JhdGVkCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -887,7 +913,7 @@
       <last-replace>CanCancel</last-replace>
       <last-substitute>CanCanCancel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
