@@ -563,7 +563,7 @@
         <mark key="." line="33" column="67" />
         <mark key="^" line="33" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1550206819614">
+      <file name="/sbtShell" timestamp="1550210352391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -593,7 +593,7 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550206281574">
+      <file name="/Dummy.txt" timestamp="1550209550446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -685,12 +685,12 @@
       <file name="/fragment.java" timestamp="1550197181914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" timestamp="1550198937514">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="56" column="9" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" timestamp="1550214827754">
+        <mark key="'" line="11" column="91" />
+        <mark key="[" line="89" column="56" />
+        <mark key="]" line="89" column="56" />
+        <mark key="^" line="94" column="1" />
+        <mark key="." line="89" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/dto/CanAllSellResponseDTO.scala" timestamp="1549367570773">
         <mark key="[" line="14" column="0" />
@@ -700,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="642" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="67" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="635" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="20" column="59" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
@@ -800,6 +799,7 @@
       <jump line="370" column="39" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
       <jump line="378" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
       <jump line="40" column="118" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" />
+      <jump line="11" column="91" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -822,40 +822,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>activeContracts</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>NotDiscretionaryInvestmentUser</text>
       </register>
-      <register name="0" type="4">
-        <text>https://folio-sec.slack.com/archives/CD25Y460P/p1550111945072800</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0ZXN0KCLmlrDopo/os7zlhaXlvozjgIHpg6jliIblo7LljbTjgafjgY3jgarjgYTloLTlkIjjga8gQWRkaXRpb25hbEJ1eSwgQWxsU2VsbCwgTWlncmF0ZSwgUmViYWxhbmNlIOOCkui/lOOBmSIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVyVHlwZXMgPC0gaW52b2tlQXBpKHVzZXJJZCwgQ29udHJhY3RUeXBlLk9tYWthc2UpCiAgICB9IHlpZWxkIHsKICAgICAgYXNzZXJ0KG9yZGVyVHlwZXMgPT0gU2VxKE9yZGVyVHlwZS5BZGRpdGlvbmFsQnV5LCBPcmRlclR5cGUuUGFydGlhbFNlbGwsIE9yZGVyVHlwZS5BbGxTZWxsLCBPcmRlclR5cGUuTWlncmF0ZSwgT3JkZXJUeXBlLlJlYmFsYW5jZSkpCiAgICB9CgogICAgZi52YWx1ZQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC50cmFuc2FjdGlvbi5PcmRlclRyYW5zYWN0aW9uSWQK</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5vcmRlci5PcmRlckhpc3RvcnkK</text>
+        <text encoding="base64">CiAgICBmLnZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5QbGFuSWQK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KG9yZGVyVHlwZXMgPT0gU2VxKE9yZGVyVHlwZS5BZGRpdGlvbmFsQnV5LCBPcmRlclR5cGUuUGFydGlhbFNlbGwsIE9yZGVyVHlwZS5BbGxTZWxsLCBPcmRlclR5cGUuTWlncmF0ZSwgT3JkZXJUeXBlLlJlYmFsYW5jZSkpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBPcmRlclR5cGUuUmViYWxhbmNlIHwgT3JkZXJUeXBlLlNlbGxGb3JGZWUgfCBPcmRlclR5cGUuU2VsbEZvclRheCA9PgogICAgICAgIHRocm93IEludmFsaWRPcmRlclR5cGUocyIkb3JkZXJUeXBlIGNhbid0IGNvbnZlcnQgdG8gSURMIGVudW0uIikK</text>
+        <text encoding="base64">ICAgICAgb3JkZXJUeXBlcyA8LSBpbnZva2VBcGkodXNlcklkLCBDb250cmFjdFR5cGUuT21ha2FzZSkKICAgIH0geWllbGQgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB2YWwgZiA9IGZvciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBpZGwuUGxhbklkLkNoYWxsZW5nZSA9PiBQbGFuSWQuQ2hhbGxlbmdlCiAgICAgIGNhc2UgRW51bVVua25vd25QbGFuSWQobikgPT4gdGhyb3cgbmV3IE5vU3VjaEVsZW1lbnRFeGNlcHRpb24ocyJJbnZhbGlkIFBsYW5JZCAkbi4iKQo=</text>
+        <text encoding="base64">ICB0ZXN0KCLmlrDopo/os7zlhaXlvozjgIHpg6jliIblo7LljbTjgafjgY3jgarjgYTloLTlkIjjga8gQWRkaXRpb25hbEJ1eSwgQWxsU2VsbCwgTWlncmF0ZSwgUmViYWxhbmNlIOOCkui/lOOBmSIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBpZGwuUGxhbklkLkJhbGFuY2UgICA9PiBQbGFuSWQuQmFsYW5jZQogICAgICBjYXNlIGlkbC5QbGFuSWQuQWN0aXZlICAgID0+IFBsYW5JZC5BY3RpdmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC50cmFuc2FjdGlvbi5PcmRlclRyYW5zYWN0aW9uSWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBpZGwuUGxhbklkLk5lc3RFZ2cgICA9PiBQbGFuSWQuTmVzdEVnZwogICAgICBjYXNlIGlkbC5QbGFuSWQuU2FmZXR5ICAgID0+IFBsYW5JZC5TYWZldHkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5vcmRlci5PcmRlckhpc3RvcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBjcmVhdGVPcmRlcih1c2VySWQ6IFVzZXJJZCwgY29udHJhY3RUeXBlOiBDb250cmFjdFR5cGUsIG9yZGVyU3RhdGU6IE9yZGVyU3RhdGUpOiBPcmRlciA9IHsKICAgIHZhbCBvcmRlciA9IE9yZGVyCiAgICAgIC5jcmVhdGVOZXdCdXlPcmRlcigKICAgICAgICB1c2VySWQgPSB1c2VySWQsCiAgICAgICAgY29udHJhY3RUeXBlID0gY29udHJhY3RUeXBlLAogICAgICAgIHBsYW5JZCA9IFBsYW5JZC5CYWxhbmNlLAogICAgICAgIG9yZGVyQW1vdW50ID0gT3JkZXJBbW91bnQoMTAwMDAwKSwKICAgICAgICBidXlNZXRob2RUeXBlID0gQnV5TWV0aG9kVHlwZS5TaW5nbGVCdXksCiAgICAgICAgcmVxdWVzdGVkQXQgPSBSZXF1ZXN0ZWRBdC5nZW5lcmF0ZSgpCiAgICAgICkKICAgICAgLmNvcHkoc3RhdGUgPSBvcmRlclN0YXRlKQogICAgQXdhaXQucmVzdWx0KG9yZGVyUmVwb3NpdG9yeS5jcmVhdGUob3JkZXIpKQogICAgb3JkZXIKICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5QbGFuSWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -868,7 +868,7 @@
       <last-replace>possible_orders</last-replace>
       <last-substitute>active_order</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
