@@ -242,9 +242,11 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanNewBuyOrderControllerFeatureTest.scala" timestamp="1550221593900">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="58" column="92" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanNewBuyOrderControllerFeatureTest.scala" timestamp="1550242881371">
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="152" column="32" />
+        <mark key="^" line="152" column="32" />
+        <mark key="." line="152" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/OrderPolicyException.scala" timestamp="1549975484899">
         <mark key="'" line="52" column="11" />
@@ -522,9 +524,9 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1550224836529">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="118" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAdditionalBuyOrderControllerFeatureTest.scala" timestamp="1550242475078">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/README.md" timestamp="1546923757214">
         <mark key="[" line="35" column="34" />
@@ -604,7 +606,7 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550241714824">
+      <file name="/Dummy.txt" timestamp="1550241740746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -842,40 +844,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>, OrderType.Rebalance</text>
+        <text>ContractType.Omakase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQb3NzaWJsZU9yZGVyc1Jlc3BvbnNlRFRPXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlclR5cGUKCmNhc2UgY2xhc3MgR2V0UG9zc2libGVPcmRlcnNSZXNwb25zZURUTyhvcmRlclR5cGVzOiBTZXFbT3JkZXJUeXBlXSkK</text>
+        <text encoding="base64">ICAgIG9yZGVyUmVwb3NpdG9yeS50ZXJtaW5hdGVBY3RpdmVPcmRlckJ5KG9yZGVySWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLkdldFBvc3NpYmxlT3JkZXJzUmVzcG9uc2VEVE8K</text>
+        <text encoding="base64">ICAgICAgXyA8LSBvcmRlclJlcG9zaXRvcnkudGVybWluYXRlQWN0aXZlT3JkZXJCeShvcmRlcklkKQogICAgICBfIDwtIGludm9rZUFwaSh1c2VySWQsIGNvbnRyYWN0VHlwZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLkdldFBvc3NpYmxlT3JkZXJzUmVzcG9uc2VEVE8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5hcHBsaWNhdGlvbi51c2VjYXNlLkdldFBvc3NpYmxlT3JkZXJzUmVzcG9uc2VEVE8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgR2V0UG9zc2libGVPcmRlcnNSZXNwb25zZURUTyB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+MiIpCg==</text>
+        <text encoding="base64">Y2xhc3MgR2V0UG9zc2libGVPcmRlcnNSZXNwb25zZURUTyB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+MSIpCiAgICAgICAgICAgIHByaW50bG4oZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+MiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+MSIpCiAgICAgICAgICAgIHByaW50bG4oZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5yZXR1cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgVGhyb3coXykgPT4gRnV0dXJlLlVuaXQK</text>
+        <text encoding="base64">ICAgICAgICAgIC5yZXR1cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
