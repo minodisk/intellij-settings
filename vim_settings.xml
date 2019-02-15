@@ -143,10 +143,6 @@
         <mark key="^" line="21" column="96" />
         <mark key="." line="21" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/IwiFormatDate.scala" timestamp="1549970735036">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/cancel/adapters/CanCancelRequestAdapter.scala" timestamp="1549607564039">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="4" column="63" />
@@ -227,10 +223,6 @@
         <mark key="." line="16" column="92" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/cancel/adapters/CanCancelResponseAdapter.scala" timestamp="1550116583639">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1550145145412">
         <mark key="^" line="24" column="1" />
       </file>
@@ -254,10 +246,6 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-contract/thrift/PortfolioAdminService.patch.js" timestamp="1550133278973">
-        <mark key="[" line="3851" column="67" />
-        <mark key="]" line="3851" column="90" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/migrate/adapters/MigrateRequestAdapter.scala" timestamp="1550129364498">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="61" />
@@ -277,10 +265,6 @@
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi/service/asset/IwiAssetServiceImpl.scala" timestamp="1549430343643">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanMigrateOrderControllerFeatureTest.scala" timestamp="1550046284869">
         <mark key="[" line="281" column="0" />
         <mark key="]" line="307" column="0" />
@@ -297,10 +281,6 @@
         <mark key="'" line="22" column="16" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="109" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/omakase-api-swagger/lib/client.js.flow" timestamp="1550025063042">
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="92" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/OrderAmount.scala" timestamp="1550023538240">
         <mark key="[" line="3" column="6" />
@@ -408,10 +388,6 @@
         <mark key="]" line="23" column="46" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="23" column="138" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/dist/js/change-email.js" timestamp="1549966976230">
-        <mark key="[" line="21933" column="27" />
-        <mark key="]" line="21933" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -553,10 +529,6 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/SellProcedure.scala" timestamp="1549370428436">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="44" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/persistence/dao/OrderDao.scala" timestamp="1549949278500">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="63" />
@@ -592,10 +564,6 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/all_sell/adapters/AllSellRequestAdapter.scala" timestamp="1549452437121">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRate.scala" timestamp="1545896036574">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="39" />
@@ -608,16 +576,12 @@
         <mark key="." line="33" column="67" />
         <mark key="^" line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/serializers/PlanIdSerializer.scala" timestamp="1549437427096">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/cancel_order/cancel/CancelUseCase.scala" timestamp="1549520501106">
         <mark key="'" line="143" column="6" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="37" />
       </file>
-      <file name="/sbtShell" timestamp="1550198913792">
+      <file name="/sbtShell" timestamp="1550206819614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -657,7 +621,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="7" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550131802952">
+      <file name="/Dummy.txt" timestamp="1550206281574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -745,10 +709,6 @@
         <mark key="]" line="43" column="33" />
         <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/deserializers/PlanIdDeserializer.scala" timestamp="1549437381666">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1550197181914">
         <mark key="[" line="0" column="0" />
