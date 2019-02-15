@@ -9,6 +9,11 @@
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeSlider.jsx" timestamp="1550215938908">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/CanNewBuyComponent.scala" timestamp="1547540745788">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="19" />
@@ -41,11 +46,6 @@
         <mark key="]" line="14" column="45" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/installment/InstallmentSettingController.scala" timestamp="1550145077925">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/get_possible_orders/adapters/GetPossibleOrdersResponseAdapter.scala" timestamp="1550196492527">
         <mark key="'" line="15" column="60" />
@@ -212,9 +212,6 @@
         <mark key="]" line="16" column="92" />
         <mark key="." line="16" column="92" />
         <mark key="^" line="4" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1550145145412">
-        <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/get_order/get_possible_orders/GetPossibleOrdersUseCase.scala" timestamp="1550199028674">
         <mark key="'" line="17" column="41" />
@@ -399,6 +396,11 @@
         <mark key="]" line="27" column="58" />
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550215825625">
+        <mark key="[" line="49" column="63" />
+        <mark key="]" line="49" column="64" />
+        <mark key="." line="49" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/cancel_order/policy/CancelOrderPolicyException.scala" timestamp="1549512675706">
         <mark key="[" line="6" column="75" />
@@ -593,7 +595,7 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550209550446">
+      <file name="/Dummy.txt" timestamp="1550214936525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -827,8 +829,8 @@
       <register name="/" type="4">
         <text>NotDiscretionaryInvestmentUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCLmlrDopo/os7zlhaXlvozjgIHpg6jliIblo7LljbTjgafjgY3jgarjgYTloLTlkIjjga8gQWRkaXRpb25hbEJ1eSwgQWxsU2VsbCwgTWlncmF0ZSwgUmViYWxhbmNlIOOCkui/lOOBmSIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVyVHlwZXMgPC0gaW52b2tlQXBpKHVzZXJJZCwgQ29udHJhY3RUeXBlLk9tYWthc2UpCiAgICB9IHlpZWxkIHsKICAgICAgYXNzZXJ0KG9yZGVyVHlwZXMgPT0gU2VxKE9yZGVyVHlwZS5BZGRpdGlvbmFsQnV5LCBPcmRlclR5cGUuUGFydGlhbFNlbGwsIE9yZGVyVHlwZS5BbGxTZWxsLCBPcmRlclR5cGUuTWlncmF0ZSwgT3JkZXJUeXBlLlJlYmFsYW5jZSkpCiAgICB9CgogICAgZi52YWx1ZQogIH0K</text>
+      <register name="0" type="4">
+        <text>ThemeList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cgo=</text>
