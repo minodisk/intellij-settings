@@ -40,11 +40,10 @@
         <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" timestamp="1550555600977">
-        <mark key="'" line="1188" column="10" />
-        <mark key="[" line="1197" column="0" />
-        <mark key="]" line="1197" column="0" />
-        <mark key="." line="1197" column="0" />
-        <mark key="^" line="1197" column="61" />
+        <mark key="[" line="1211" column="0" />
+        <mark key="]" line="1211" column="0" />
+        <mark key="." line="1211" column="0" />
+        <mark key="^" line="1211" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/cancel_order/cancel/CanCancelUseCase.scala" timestamp="1549522702625">
         <mark key="[" line="22" column="18" />
@@ -395,18 +394,14 @@
         <mark key="." line="35" column="137" />
         <mark key="^" line="35" column="137" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" timestamp="1550562812347">
-        <mark key="'" line="315" column="38" />
-        <mark key="[" line="315" column="53" />
-        <mark key="]" line="315" column="53" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" timestamp="1550568050931">
+        <mark key="'" line="209" column="13" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="54" />
         <mark key="." line="315" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" timestamp="1550558611383">
-        <mark key="'" line="165" column="27" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
         <mark key="^" line="11" column="27" />
-        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" timestamp="1550548348965">
         <mark key="'" line="576" column="29" />
@@ -513,6 +508,9 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/GetPartialSellThresholdComponent.scala" timestamp="1550331190566">
         <mark key="'" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/order_confirm/components/SideBox.jsx" timestamp="1550567826452">
+        <mark key="'" line="221" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAllSellOrderControllerFeatureTest.scala" timestamp="1550479857165">
         <mark key="'" line="222" column="17" />
         <mark key="[" line="279" column="6" />
@@ -531,6 +529,12 @@
         <mark key="]" line="20" column="9" />
         <mark key="^" line="17" column="68" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Enums.js" timestamp="1550568143801">
+        <mark key="[" line="322" column="44" />
+        <mark key="]" line="322" column="44" />
+        <mark key="." line="322" column="44" />
+        <mark key="^" line="323" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/.storybook/webpack.config.js" timestamp="1545961654372">
         <mark key="[" line="9" column="0" />
@@ -789,7 +793,7 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550563115544">
+      <file name="/Dummy.txt" timestamp="1550568156598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -912,10 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="326" column="78" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="366" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
-      <jump line="375" column="79" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="437" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="485" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Omakase.js" />
       <jump line="30" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/cancel/CancelUseCase.scala" />
@@ -1012,6 +1012,10 @@
       <jump line="51" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" />
       <jump line="311" column="36" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" />
       <jump line="315" column="38" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/order_confirm/components/SideBox.jsx" />
+      <jump line="220" column="61" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/order_confirm/components/SideBox.jsx" />
+      <jump line="221" column="55" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/order_confirm/components/SideBox.jsx" />
+      <jump line="209" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/ErrorMessage/ErrorMessage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1034,49 +1038,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text>が</text>
       </register>
       <register name="/" type="4">
-        <text>カートに入れる</text>
+        <text>TOO_MANY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDxGcmFnbWVudD7jgZPjga7jg4bjg7zjg57jga/ms6jmlofkuK3jga7jgZ/jgoHjgIHjgqvjg7zjg4jjgavlhaXjgozjgovjgZPjgajjgYzjgafjgY3jgb7jgZvjgpPjgII8L0ZyYWdtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIOOCpOODs+OCteOCpOODgOODvOWPluW8leimj+WItuWvvuixoeOBrumKmOafhOOBjOS4gOWumuaVsOOCkui2heOBiOOBpuOBhOOCi+OBn+OCgeOAgeOCq+ODvOODiOOBq+WFpeOCjOOCi+OBk+OBqOOBjOOBp+OBjeOBvuOBm+OCk+OAggo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6ICfjgqTjg7PjgrXjgqTjg4Djg7zlj5blvJXoqbLlvZPpipjmn4TjgYw044Gk5Lul5LiK5ZCr44G+44KM44Gm44GE44KL44OG44O844Oe44GM44GC44KK44G+44GZ44CCJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gfQoK</text>
+        <text encoding="base64">ICAgICAgLy8gfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gLy8gVE9ETyDjgZPjga7mlbDjgaPjgabjganjgZPjgavlrprnvqnjgZXjgozjgabjgpPjgaDjgaPjgZE/CiAgICAgIC8vIGlmIChjb21wYW55TGlzdFNob3VsZEJlUmVtb3ZlZC5sZW5ndGggPj0gNCkgewo=</text>
+        <text encoding="base64">ICAgICAgLy8gfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKCg==</text>
+        <text encoding="base64">ICAgICAgLy8gLy8gVE9ETyDjgZPjga7mlbDjgaPjgabjganjgZPjgavlrprnvqnjgZXjgozjgabjgpPjgaDjgaPjgZE/CiAgICAgIC8vIGlmIChjb21wYW55TGlzdFNob3VsZEJlUmVtb3ZlZC5sZW5ndGggPj0gNCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKICAgICAgY29uc29sZS5sb2coImNvbXBhbnlMaXN0U2hvdWxkQmVSZW1vdmVkOiIsIGNvbXBhbnlMaXN0U2hvdWxkQmVSZW1vdmVkKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKICAgICAgY29uc29sZS5sb2coImNvbXBhbnlMaXN0U2hvdWxkQmVSZW1vdmVkOiIsIGNvbXBhbnlMaXN0U2hvdWxkQmVSZW1vdmVkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKICAgICAgY29uc29sZS5sb2coImluc2lkZXJzOiIsIGluc2lkZXJzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKICAgICAgY29uc29sZS5sb2coImluc2lkZXJzOiIsIGluc2lkZXJzKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKICAgICAgY29uc29sZS5sb2coInRoZW1lc09uT3JkZXI6IiwgdGhlbWVzT25PcmRlcikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+IikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>カートに入れる</last-search>
+      <last-search>TOO_MANY</last-search>
       <last-offset />
-      <last-pattern>カートに入れる</last-pattern>
+      <last-pattern>TOO_MANY</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1084,12 +1088,8 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry encoding="base64">XDxnZXRSaWNMaXN0U2hvdWxkQmVSZW1vdmVkSW5UaGVtZVw+</entry>
-        <entry encoding="base64">XDw0XD4=</entry>
         <entry>ThemeTypeEnum</entry>
         <entry encoding="base64">XDxUaGVtZVR5cGVcPg==</entry>
-        <entry>4</entry>
         <entry encoding="base64">XDx0aGVtZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxzaG91bGRCZVJlbW92ZWRcPg==</entry>
         <entry>throw</entry>
@@ -1104,6 +1104,10 @@
         <entry>インサイダー取引対象の銘柄が</entry>
         <entry encoding="base64">XDzlhaVcPg==</entry>
         <entry>カートに入れる</entry>
+        <entry>4</entry>
+        <entry>TooManyInsiderCompanies</entry>
+        <entry>TooMany</entry>
+        <entry>TOO_MANY</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -1115,7 +1119,6 @@
         <entry>e!</entry>
         <entry>sp</entry>
         <entry>%s/CanCancel/Cancel/g</entry>
-        <entry>w:w</entry>
         <entry>%s/ActiveOrder/PossibleOrders/g</entry>
         <entry>%s/active_order/possible_orders/g</entry>
         <entry>%s/CanPartialSell/GetPartialSellThreshold/g</entry>
@@ -1125,6 +1128,7 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
