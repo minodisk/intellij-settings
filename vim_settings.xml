@@ -482,12 +482,12 @@
         <mark key="'" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/Contents.jsx" timestamp="1550454704792" />
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAllSellOrderControllerFeatureTest.scala" timestamp="1550479760706">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAllSellOrderControllerFeatureTest.scala" timestamp="1550479857165">
         <mark key="'" line="222" column="17" />
-        <mark key="[" line="285" column="34" />
-        <mark key="]" line="285" column="34" />
-        <mark key="^" line="285" column="34" />
-        <mark key="." line="285" column="34" />
+        <mark key="[" line="279" column="6" />
+        <mark key="]" line="279" column="6" />
+        <mark key="^" line="279" column="6" />
+        <mark key="." line="279" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -513,7 +513,7 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550475580829" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550539686906" />
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/GetPartialSellThresholdUseCase.scala" timestamp="1550337503988">
         <mark key="'" line="13" column="26" />
         <mark key="[" line="28" column="18" />
@@ -990,7 +990,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlclw+</text>
@@ -999,31 +999,31 @@
         <text encoding="base64">ICB0ZXN0KCLlhajlo7LljbTjg6rjgq/jgqjjgrnjg4jkuK3jgavlhajlo7LljbTjgZfjgojjgYbjgajjgZnjgovjgaggRHVwbGljYXRlZE9yZGVyIOS+i+WkluOCkuaKleOBkuOCiyIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIG9yZGVySWQgPC0gY3JlYXRlTmV3QnV5T3JkZXIodXNlcklkKQogICAgICBfIDwtIHRlcm1pbmF0ZU9yZGVyKG9yZGVySWQpCiAgICAgIF8gPC0gY2xpZW50LmFsbFNlbGwoCiAgICAgICAgdXNlcklkLnZhbHVlLAogICAgICAgIFBpbigiMTExMSIpLnZhbHVlLAogICAgICAgIEFzc2V0TGFzdEZldGNoZWRBdChJbnN0YW50Lm5vdykudmFsdWUudG9FcG9jaE1pbGxpLAogICAgICAgIFNvbWUoY29udHJhY3RUeXBlU2VyaWFsaXplci50b1RocmlmdChDb250cmFjdFR5cGUuT21ha2FzZSkpLAogICAgICApCiAgICAgIF8gPC0gaW52b2tlQXBpKHVzZXJJZCkKICAgIH0geWllbGQgKCkKCiAgICBhc3NlcnRUaHJvd3NbRHVwbGljYXRlZE9yZGVyXSB7CiAgICAgIGYudmFsdWUKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgXyA8LSBGdXR1cmUudmFsdWUocHJpbnRsbihhKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwiKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKGNvbnRyYWN0VHlwZVNlcmlhbGl6ZXIudG9UaHJpZnQoQ29udHJhY3RUeXBlLk9tYWthc2UpKSwKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQaW4oIjExMTEiKS52YWx1ZSwKICAgICAgICBBc3NldExhc3RGZXRjaGVkQXQoSW5zdGFudC5ub3cpLnZhbHVlLnRvRXBvY2hNaWxsaSwK</text>
+        <text encoding="base64">ICAgICAgICBTb21lKGNvbnRyYWN0VHlwZVNlcmlhbGl6ZXIudG9UaHJpZnQoQ29udHJhY3RUeXBlLk9tYWthc2UpKSwKICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBjbGllbnQuYWxsU2VsbCgKICAgICAgICB1c2VySWQudmFsdWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBQaW4oIjExMTEiKS52YWx1ZSwKICAgICAgICBBc3NldExhc3RGZXRjaGVkQXQoSW5zdGFudC5ub3cpLnZhbHVlLnRvRXBvY2hNaWxsaSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkKQo=</text>
+        <text encoding="base64">ICAgICAgXyA8LSBjbGllbnQuYWxsU2VsbCgKICAgICAgICB1c2VySWQudmFsdWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXyA8LSBpbnZva2VBcGkodXNlcklkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uY29yZS5vcmRlci5tb2RlbC5PcmRlclJlcG9zaXRvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
