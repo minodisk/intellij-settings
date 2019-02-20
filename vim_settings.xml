@@ -315,11 +315,11 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1550657775889">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="20" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1550660627930">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1550217810694">
         <mark key="'" line="10" column="6" />
@@ -503,12 +503,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1550658135972">
-        <mark key="'" line="140" column="4" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="246" column="21" />
-        <mark key="." line="246" column="21" />
-        <mark key="^" line="246" column="21" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1550660498053">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="272" column="15" />
+        <mark key="]" line="272" column="16" />
+        <mark key="." line="272" column="16" />
+        <mark key="^" line="279" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedInvestmentPolicyPlugin.scala" timestamp="1550247798822">
         <mark key="[" line="18" column="0" />
@@ -841,7 +841,7 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550657913151">
+      <file name="/Dummy.txt" timestamp="1550660603050">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="41" />
       </file>
@@ -972,9 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1074" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1087" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1100" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1113" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1126" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1139" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
@@ -1072,6 +1069,9 @@
       <jump line="248" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
       <jump line="125" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
       <jump line="140" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="237" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="25" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="37" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1094,59 +1094,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>border-radius</text>
+        <text>FFBB16</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LnNsaWRlci1ub3JtYWwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNHB4IDEwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweCAxMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNHB4IDEycHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuY2FyZF9faW1hZ2UgewogICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAwOwogIH0K</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNHB4IDhweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuY2FyZCB7CiAgICBib3JkZXItcmFkaXVzOiAwOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuY2FyZCB7CiAgICBib3JkZXItcmFkaXVzOiAwOwogIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDJweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoZW1lKQo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5zbGlkZXItbm9ybWFsICYgewogICAgICBtYXgtd2lkdGg6IGNhbGMoMTAwJSAtIDMycHgpOwogICAgICBwYWRkaW5nLWxlZnQ6IDhweDsKICAgICAgcGFkZGluZy1yaWdodDogOHB4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsKICAgIH0K</text>
+        <text encoding="base64">ICArIC5zbGlkZXIgewogICAgbWFyZ2luLXRvcDogMDsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>border-radius</last-search>
+      <last-search>FFBB16</last-search>
       <last-offset />
-      <last-pattern>border-radius</last-pattern>
+      <last-pattern>FFBB16</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>listen</entry>
-        <entry encoding="base64">XDxsaXN0ZW5cPg==</entry>
-        <entry>tag</entry>
         <entry encoding="base64">XDxnZXRUaGVtZXNcPg==</entry>
         <entry>Tag</entry>
         <entry>getTag</entry>
@@ -1164,6 +1161,9 @@
         <entry>slider__title</entry>
         <entry>.card</entry>
         <entry>border-radius</entry>
+        <entry>.slider-campain</entry>
+        <entry>24px</entry>
+        <entry>FFBB16</entry>
       </history-search>
       <history-cmd>
         <entry>q:q</entry>
