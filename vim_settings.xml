@@ -299,6 +299,11 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" timestamp="1550651366372">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="37" />
@@ -413,6 +418,11 @@
         <mark key="]" line="315" column="54" />
         <mark key="." line="315" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/Slider/Slider.css" timestamp="1550651407194">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" timestamp="1550649171883">
         <mark key="'" line="37" column="15" />
         <mark key="[" line="41" column="0" />
@@ -486,6 +496,11 @@
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1550651979521">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedInvestmentPolicyPlugin.scala" timestamp="1550247798822">
         <mark key="[" line="18" column="0" />
@@ -565,11 +580,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550649978208">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="54" column="27" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550652475723">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
+        <mark key="^" line="53" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/GetPartialSellThresholdUseCase.scala" timestamp="1550337503988">
         <mark key="'" line="13" column="26" />
@@ -817,8 +833,9 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550650628648">
+      <file name="/Dummy.txt" timestamp="1550650804111">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
         <mark key="[" line="0" column="62" />
@@ -947,9 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="957" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="970" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="983" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="996" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1009" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1022" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
@@ -1047,6 +1061,9 @@
       <jump line="2074" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="2087" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="2105" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
+      <jump line="70" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" />
+      <jump line="55" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1069,49 +1086,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>isHiddenAtTheFirstTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
+      <register name="0" type="4">
+        <text>isHiddenAtTheFirstTimeInMobile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaXNNaW5pOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuc2xpY2UoMCwgdGhpcy5zdGF0ZS5zaG93ZWRUaGVtZUluZGV4T25Nb2JpbGUpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhlbWVzCiAgICAgICAgICAgICAgLnNsaWNlKDAsIHRoaXMuc3RhdGUuc2hvd2VkVGhlbWVJbmRleE9uTW9iaWxlKQogICAgICAgICAgICAgIC5tYXAodGhlbWUgPT4gKAogICAgICAgICAgICAgICAgPFRoZW1lQm94CiAgICAgICAgICAgICAgICAgIGtleT17dGhlbWUubGFiZWx9CiAgICAgICAgICAgICAgICAgIHRoZW1lPXt0aGVtZX0KICAgICAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICAgICAgcGVyZm9ybWFuY2VSYW5nZT17cGVyZm9ybWFuY2VSYW5nZX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlzQ2FtcGFpZ24gPSB0YWcubGFiZWwgPT09ICdtaW5pJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzTWluaTogZmFsc2UsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LnNsaWRlci1taW5pIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1tYWluKTsKfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZywgdGhlbWVzKQo=</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsYWJlbDogc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgaXNNaW5pOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1119,10 +1136,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extract</entry>
-        <entry>build</entry>
-        <entry encoding="base64">XDxidWlsZFw+</entry>
-        <entry>backend</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry>Server</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
@@ -1139,6 +1152,10 @@
         <entry>enum</entry>
         <entry encoding="base64">XDxUaGVtZVR5cGVFbnVtXD4=</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry encoding="base64">XDxfUFJJTUlUSVZFX1w+</entry>
+        <entry>FFDDDE</entry>
+        <entry>ffddde</entry>
+        <entry encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q:q</entry>
@@ -1156,10 +1173,10 @@
         <entry>%s/Installments/PartialSellThreshold/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:w</entry>
-        <entry>nohlsearch</entry>
         <entry>vs</entry>
         <entry>e package.json</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
