@@ -315,6 +315,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1550657775889">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="20" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1550217810694">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="3" column="70" />
@@ -497,10 +503,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1550651979521">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1550658135972">
+        <mark key="'" line="140" column="4" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="246" column="21" />
+        <mark key="." line="246" column="21" />
+        <mark key="^" line="246" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserShouldHaveAlreadyStartedInvestmentPolicyPlugin.scala" timestamp="1550247798822">
         <mark key="[" line="18" column="0" />
@@ -580,12 +588,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550652475723">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" timestamp="1550654467782">
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
-        <mark key="^" line="53" column="52" />
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="25" />
+        <mark key="." line="63" column="25" />
+        <mark key="^" line="63" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/partial_sell/GetPartialSellThresholdUseCase.scala" timestamp="1550337503988">
         <mark key="'" line="13" column="26" />
@@ -833,9 +841,9 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550650804111">
+      <file name="/Dummy.txt" timestamp="1550657913151">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="26" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
         <mark key="[" line="0" column="62" />
@@ -964,12 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="996" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1009" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1022" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1035" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1048" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1061" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1074" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1087" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1100" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
@@ -1064,6 +1066,12 @@
       <jump line="15" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
       <jump line="70" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" />
       <jump line="55" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeList.jsx" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="82" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="188" column="68" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="248" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="125" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
+      <jump line="140" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,59 +1094,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>isHiddenAtTheFirstTime</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</text>
+        <text>border-radius</text>
       </register>
       <register name="0" type="4">
-        <text>isHiddenAtTheFirstTimeInMobile</text>
+        <text encoding="base64">LnNsaWRlci1ub3JtYWwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc2xpY2UoMCwgdGhpcy5zdGF0ZS5zaG93ZWRUaGVtZUluZGV4T25Nb2JpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhlbWVzCiAgICAgICAgICAgICAgLnNsaWNlKDAsIHRoaXMuc3RhdGUuc2hvd2VkVGhlbWVJbmRleE9uTW9iaWxlKQogICAgICAgICAgICAgIC5tYXAodGhlbWUgPT4gKAogICAgICAgICAgICAgICAgPFRoZW1lQm94CiAgICAgICAgICAgICAgICAgIGtleT17dGhlbWUubGFiZWx9CiAgICAgICAgICAgICAgICAgIHRoZW1lPXt0aGVtZX0KICAgICAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICAgICAgcGVyZm9ybWFuY2VSYW5nZT17cGVyZm9ybWFuY2VSYW5nZX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzQ2FtcGFpZ24gPSB0YWcubGFiZWwgPT09ICdtaW5pJwo=</text>
+        <text encoding="base64">ICAKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuY2FyZF9faW1hZ2UgewogICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAwOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogIH0K</text>
+        <text encoding="base64">ICAuY2FyZCB7CiAgICBib3JkZXItcmFkaXVzOiAwOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuY2FyZCB7CiAgICBib3JkZXItcmFkaXVzOiAwOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnNsaWRlci1taW5pIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1tYWluKTsKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoZW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIC5zbGlkZXItbm9ybWFsICYgewogICAgICBtYXgtd2lkdGg6IGNhbGMoMTAwJSAtIDMycHgpOwogICAgICBwYWRkaW5nLWxlZnQ6IDhweDsKICAgICAgcGFkZGluZy1yaWdodDogOHB4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXNNaW5pOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</last-search>
+      <last-search>border-radius</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</last-pattern>
+      <last-pattern>border-radius</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
-        <entry>Server</entry>
-        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry>listen</entry>
         <entry encoding="base64">XDxsaXN0ZW5cPg==</entry>
         <entry>tag</entry>
@@ -1156,6 +1161,9 @@
         <entry>FFDDDE</entry>
         <entry>ffddde</entry>
         <entry encoding="base64">XDx0aGVtZXNGb3JNb2JpbGVcPg==</entry>
+        <entry>slider__title</entry>
+        <entry>.card</entry>
+        <entry>border-radius</entry>
       </history-search>
       <history-cmd>
         <entry>q:q</entry>
