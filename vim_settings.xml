@@ -60,6 +60,9 @@
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/LandingPage.stories.jsx" timestamp="1550824961028">
+        <mark key="'" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/MigrateOrderControllerFeatureTest.scala" timestamp="1550220734347">
         <mark key="'" line="2" column="0" />
       </file>
@@ -173,11 +176,6 @@
         <mark key="]" line="204" column="5" />
         <mark key="." line="204" column="5" />
         <mark key="^" line="199" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" timestamp="1550645081774">
-        <mark key="'" line="396" column="7" />
-        <mark key="[" line="405" column="8" />
-        <mark key="]" line="405" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/AllSellOrderControllerFeatureTest.scala" timestamp="1550542710565">
         <mark key="'" line="52" column="16" />
@@ -309,11 +307,6 @@
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" timestamp="1550802695500">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/src/noise/SimplexNoise.ts" timestamp="1545965487415">
         <mark key="[" line="14" column="25" />
@@ -834,12 +827,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="59" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" timestamp="1550650520872">
-        <mark key="'" line="2105" column="6" />
-        <mark key="[" line="2106" column="0" />
-        <mark key="]" line="2106" column="0" />
-        <mark key="^" line="1438" column="4" />
-        <mark key="." line="2106" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" timestamp="1550825755880">
+        <mark key="'" line="1621" column="3" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/CanMigratePolicy.scala" timestamp="1550218970910">
         <mark key="[" line="26" column="88" />
@@ -889,7 +881,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550824099113">
+      <file name="/Dummy.txt" timestamp="1550824112940">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
@@ -1027,18 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="1" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.css" />
-      <jump line="54" column="1" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.css" />
-      <jump line="225" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" />
-      <jump line="235" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" />
-      <jump line="29" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.css" />
-      <jump line="17" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
-      <jump line="18" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
-      <jump line="32" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
-      <jump line="37" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
-      <jump line="355" column="36" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" />
-      <jump line="17" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/DisclaimerForMini/DisclaimerForMini.jsx" />
-      <jump line="38" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
       <jump line="17" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" />
       <jump line="19" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/DisclaimerForMini/DisclaimerForMini.jsx" />
       <jump line="269" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/containers/Contents.jsx" />
@@ -1127,6 +1107,18 @@
       <jump line="59" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" />
       <jump line="8" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" />
       <jump line="66" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" />
+      <jump line="10" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/LandingPage.stories.jsx" />
+      <jump line="2232" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="2155" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="133" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="427" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="1526" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="40" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="1812" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="2098" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="2065" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="1621" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1149,61 +1141,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>の「技術」に着目！人工知能から新素材まで。</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZzZXRcPg==</text>
+        <text>tags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NOYW1lPXtjeChzdHlsZXMuaW1hZ2VDb250YWluZXIsIHsKICAgICAgICAgICAgICBbc3R5bGVzLnNob3dpbmddOiBbY3VycmVudCwgbmV4dF0uaW5jbHVkZXMoMCksCiAgICAgICAgICAgICAgW3N0eWxlcy5uZXh0XTogbmV4dCA9PT0gMCwKICAgICAgICAgICAgfSl9Cg==</text>
+        <text encoding="base64">ICB7CiAgICBsYWJlbDogJycsCiAgICB0aXRsZTogJ+acrOeVqueUqF/kuJbjga7kuK3jgpLlpInjgYjjgovlhYjnq6/jg4bjgq/jg47jg63jgrjjg7wnLAogICAgZGVzYzogJ+acgOWFiOerr+OBruOAjOaKgOihk+OAjeOBq+edgOebru+8geS6uuW3peefpeiDveOBi+OCieaWsOe0oOadkOOBvuOBp+OAgicsCiAgICB0aGVtZUlkczogWzE0MywgMTQyLCAxNDEsIDE0MCwgMTM5LCAxMzgsIDEzNywgMTM2XSwKICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRJbWFnZTogJ3VybCgvaW1hZ2VzL2xhbmRpbmdQYWdlL2V5ZUNhdGNoLzEtcGMuanBnKScgfX0KICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2N4KHN0eWxlcy5pbWFnZSwgc3R5bGVzLm1haW4pfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3goc3R5bGVzLmltYWdlLCBzdHlsZXMubWFpbil9CiAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZEltYWdlOiAndXJsKC9pbWFnZXMvbGFuZGluZ1BhZ2UvZXllQ2F0Y2gvMS1wYy5qcGcpJyB9fQogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICB7CiAgICBpZDogMSwKICAgIGxhYmVsOiAncWFlLXNwb3J0cycsCiAgICB0aXRsZTogJ2UtU3BvcnRzJywKICAgIGlzTWluaTogZmFsc2UsCiAgICBvbmVNb250aFJldHVybjogMTYuMDcwNTksCiAgICBvbmVZZWFyUmV0dXJuOiAtMzUuNTc1MzcsCiAgICB0aHJlZVllYXJSZXR1cm46IDM3LjMwNjI3LAogICAgaW1hZ2U6IHsKICAgICAgcGM6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgICAgc3A6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgIH0sCiAgfSwKICB7CiAgICBpZDogMTQ2LAogICAgbGFiZWw6ICdxYTR0aC1nZW5lcmF0aW9uLWFuaW1lJywKICAgIHRpdGxlOiAn56ysNOasoeOCouODi+ODoeODluODvOODoCcsCiAgICBpc01pbmk6IGZhbHNlLAogICAgb25lTW9udGhSZXR1cm46IDkuOTgwMDgsCiAgICBvbmVZZWFyUmV0dXJuOiAtMTEuMTQ4NzEsCiAgICB0aHJlZVllYXJSZXR1cm46IDM1LjcwODA5LAogICAgaW1hZ2U6IHsKICAgICAgcGM6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgICAgc3A6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgIH0sCiAgfSwKICB7CiAgICBpZDogMTQ1LAogICAgbGFiZWw6ICdxYWRpZ2l0YWwtZ2FtZXMnLAogICAgdGl0bGU6ICfjg4bjg6zjg5PjgrLjg7zjg6AnLAogICAgaXNNaW5pOiBmYWxzZSwKICAgIG9uZU1vbnRoUmV0dXJuOiAxNS4xNzk3NCwKICAgIG9uZVllYXJSZXR1cm46IC0yNi41Nzc4LAogICAgdGhyZWVZZWFyUmV0dXJuOiA0MC4yNzQzLAogICAgaW1hZ2U6IHsKICAgICAgcGM6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgICAgc3A6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgIH0sCiAgfSwKICB7CiAgICBpZDogMTQ0LAogICAgbGFiZWw6ICdxYWNvc3BsYXknLAogICAgdGl0bGU6ICfjgrPjgrnjg5fjg6wnLAogICAgaXNNaW5pOiBmYWxzZSwKICAgIG9uZU1vbnRoUmV0dXJuOiAyMC4xNzI5NSwKICAgIG9uZVllYXJSZXR1cm46IC0wLjU1OTI1LAogICAgdGhyZWVZZWFyUmV0dXJuOiA0MS4wNTQwMiwKICAgIGltYWdlOiB7CiAgICAgIHBjOiB7IHVybDogJy9pbWFnZXMvbGFuZGluZ1BhZ2UvdGhlbWVCb2FyZC9kcm9uZS5qcGcnLCBzaXplOiAnU2l6ZTY0MHgzOTYnIH0sCiAgICAgIHNwOiB7IHVybDogJy9pbWFnZXMvbGFuZGluZ1BhZ2UvdGhlbWVCb2FyZC9kcm9uZS5qcGcnLCBzaXplOiAnU2l6ZTY0MHgzOTYnIH0sCiAgICB9LAogIH0sCiAgewogICAgaWQ6IDE0MywKICAgIGxhYmVsOiAncWF2aXJ0dWFsLXJlYWxpdHknLAogICAgdGl0bGU6ICdWUu+8iOS7ruaDs+ePvuWun++8iScsCiAgICBpc01pbmk6IGZhbHNlLAogICAgb25lTW9udGhSZXR1cm46IDkuMzk5OTUsCiAgICBvbmVZZWFyUmV0dXJuOiAtMTkuNjYyMjMsCiAgICB0aHJlZVllYXJSZXR1cm46IDE3LjMxODksCiAgICBpbWFnZTogewogICAgICBwYzogeyB1cmw6ICcvaW1hZ2VzL2xhbmRpbmdQYWdlL3RoZW1lQm9hcmQvZHJvbmUuanBnJywgc2l6ZTogJ1NpemU2NDB4Mzk2JyB9LAogICAgICBzcDogeyB1cmw6ICcvaW1hZ2VzL2xhbmRpbmdQYWdlL3RoZW1lQm9hcmQvZHJvbmUuanBnJywgc2l6ZTogJ1NpemU2NDB4Mzk2JyB9LAogICAgfSwKICB9LAogIHsKICAgIGlkOiAxNDIsCiAgICBsYWJlbDogJ3FhNWctc3lzdGVtJywKICAgIHRpdGxlOiAn5qyh5LiW5Luj6YCa5L+h44K344K544OG44Og44CMNUfjgI0nLAogICAgaXNNaW5pOiBmYWxzZSwKICAgIG9uZU1vbnRoUmV0dXJuOiA4Ljc2NTQ5LAogICAgb25lWWVhclJldHVybjogMjIuNDY1MDMsCiAgICB0aHJlZVllYXJSZXR1cm46IDgyLjE3MDgzLAogICAgaW1hZ2U6IHsKICAgICAgcGM6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgICAgc3A6IHsgdXJsOiAnL2ltYWdlcy9sYW5kaW5nUGFnZS90aGVtZUJvYXJkL2Ryb25lLmpwZycsIHNpemU6ICdTaXplNjQweDM5NicgfSwKICAgIH0sCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhCiAgICAgICAgICAgIGNsYXNzTmFtZT17Y3goc3R5bGVzLmltYWdlQ29udGFpbmVyLCB7CiAgICAgICAgICAgICAgW3N0eWxlcy5zaG93aW5nXTogW2N1cnJlbnQsIG5leHRdLmluY2x1ZGVzKDApLAogICAgICAgICAgICAgIFtzdHlsZXMubmV4dF06IG5leHQgPT09IDAsCiAgICAgICAgICAgIH0pfQogICAgICAgICAgICBocmVmPSJodHRwczovL3lvdXR1LmJlL050LUlkSkFZQWJFIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICBpZD0iZ3RtX2p1bXBfeW91dHViZV9scF9jYXJvdXNlbCIKICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRJbWFnZTogJ3VybCgvaW1hZ2VzL2xhbmRpbmdQYWdlL2V5ZUNhdGNoLzEtcGMuanBnKScgfX0KICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNwT25seSBmcm9tICd+L3NoYXJlZENvbW1vbi9jb21wZGRvbmVudHMvU3BPbmx5Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2N4KHN0eWxlcy5pbWFnZSwgc3R5bGVzLm1haW4pfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEZpeGVkUGxhblNlbGVjdG9yIGZyb20gJy4uL0ZpeGVkUGxhblNlbGVjdG9yJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3goc3R5bGVzLmltYWdlLCBzdHlsZXMubWFpbil9CiAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZEltYWdlOiAndXJsKC9pbWFnZXMvbGFuZGluZ1BhZ2UvZXllQ2F0Y2gvMS1wYy5qcGcpJyB9fQogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFNwT25seSBmcm9tICcuLi8uLi8uLi9zaGFyZWRDb21tb24vY29tcG9uZW50cy9TcE9ubHknCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZzZXRcPg==</last-search>
+      <last-search>tags</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZzZXRcPg==</last-pattern>
+      <last-pattern>tags</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Switch</entry>
-        <entry encoding="base64">XDxidWlsZFBvcnRmb2xpb0NvbG9yXD4=</entry>
-        <entry encoding="base64">XDxtaW5pUG9ydGZvbGlvQ29sb3JzXD4=</entry>
-        <entry encoding="base64">XDxQb3J0Zm9saW9DaGFydFw+</entry>
-        <entry>Chart</entry>
         <entry encoding="base64">XDxJbnN0cnVtZW50c1w+</entry>
         <entry encoding="base64">XDxwb3J0Zm9saW9cPg==</entry>
         <entry>isMini</entry>
@@ -1219,6 +1206,11 @@
         <entry>Scroller</entry>
         <entry encoding="base64">XDxQY09ubHlcPg==</entry>
         <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
+        <entry encoding="base64">XDx0aGVtZUxpc3RJbmZvXD4=</entry>
+        <entry>135</entry>
+        <entry encoding="base64">XDwxNTlcPg==</entry>
+        <entry encoding="base64">XDwxOTBcPg==</entry>
+        <entry>tags</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Order//g</entry>
