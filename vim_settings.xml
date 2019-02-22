@@ -865,7 +865,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550813695032">
+      <file name="/Dummy.txt" timestamp="1550814332305">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
@@ -982,11 +982,11 @@
         <mark key="^" line="170" column="8" />
         <mark key="." line="170" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/Instruments/Instruments.stories.jsx" timestamp="1550813344766">
-        <mark key="[" line="30" column="10" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/Instruments/Instruments.stories.jsx" timestamp="1550818226000">
+        <mark key="[" line="55" column="56" />
+        <mark key="]" line="55" column="66" />
+        <mark key="." line="55" column="66" />
+        <mark key="^" line="55" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" timestamp="1550331322863">
         <mark key="'" line="45" column="8" />
@@ -1128,7 +1128,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc01pbmlcPg==</text>
+        <text>bank</text>
       </register>
       <register name="0" type="4">
         <text>Object.keys(INVESTMENT_STYLE)</text>
@@ -1165,17 +1165,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc01pbmlcPg==</last-search>
+      <last-search>bank</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc01pbmlcPg==</last-pattern>
+      <last-pattern>bank</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>この</entry>
         <entry encoding="base64">XDxQb3B1cFw+</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvbk91dGVyUmVmXD4=</entry>
         <entry encoding="base64">XDxiYWxsb29uUGFyZW50UmVmXD4=</entry>
@@ -1195,6 +1194,7 @@
         <entry encoding="base64">XDxwb3J0Zm9saW9Db2xvcnNcPg==</entry>
         <entry encoding="base64">XDxkdW1teVBvcnRmb2xpb1w+</entry>
         <entry encoding="base64">XDxpc01pbmlcPg==</entry>
+        <entry>bank</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Order//g</entry>
