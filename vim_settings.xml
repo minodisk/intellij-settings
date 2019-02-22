@@ -46,6 +46,12 @@
         <mark key="." line="46" column="97" />
         <mark key="^" line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/PortfolioChart.jsx" timestamp="1550830677511">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="35" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/get_possible_orders/adapters/GetPossibleOrdersRequestAdapter.scala" timestamp="1550217742603">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="3" column="59" />
@@ -389,19 +395,18 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Colors.js" timestamp="1550809041459" />
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/LandingPage.jsx" timestamp="1550821801035">
         <mark key="^" line="59" column="5" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/DisclaimerForMini/DisclaimerForMini.jsx" timestamp="1550813251646">
-        <mark key="'" line="58" column="37" />
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/DisclaimerForMini/DisclaimerForMini.jsx" timestamp="1550830581811">
+        <mark key="'" line="64" column="37" />
+        <mark key="[" line="26" column="167" />
+        <mark key="]" line="26" column="170" />
+        <mark key="^" line="26" column="170" />
+        <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550827837198">
+      <file name="/Dummy.txt" timestamp="1550830855083">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
@@ -577,13 +582,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ID8gW10gOiBudWxs</text>
       </register>
       <register name="/" type="4">
         <text>campaign</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBsYWJlbDogJycsCiAgICB0aXRsZTogJ+acrOeVqueUqF/kuJbjga7kuK3jgpLlpInjgYjjgovlhYjnq6/jg4bjgq/jg47jg63jgrjjg7wnLAogICAgZGVzYzogJ+acgOWFiOerr+OBruOAjOaKgOihk+OAjeOBq+edgOebru+8geS6uuW3peefpeiDveOBi+OCieaWsOe0oOadkOOBvuOBp+OAgicsCiAgICB0aGVtZUlkczogWzE0MywgMTQyLCAxNDEsIDE0MCwgMTM5LCAxMzgsIDEzNywgMTM2XSwKICB9LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGEgaHJlZj17c3VwcG9ydFVybC5zaXRlLnRyYW5zYWN0aW9uRmVlc1Rlcm1zfSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEzcHg7Cg==</text>
@@ -666,8 +671,8 @@
         <entry>e!</entry>
         <entry>.,.+4w</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
