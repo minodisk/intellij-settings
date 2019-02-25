@@ -288,7 +288,7 @@
         <mark key="^" line="279" column="6" />
         <mark key="." line="279" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" timestamp="1551089401361">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.jsx" timestamp="1551090478584">
         <mark key="'" line="169" column="13" />
         <mark key="[" line="198" column="45" />
         <mark key="]" line="198" column="45" />
@@ -514,7 +514,7 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551088901313">
+      <file name="/Dummy.txt" timestamp="1551089402780">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -701,6 +701,10 @@
         <mark key="." line="204" column="5" />
         <mark key="^" line="199" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/Omakase.jsx" timestamp="1550735031490">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" timestamp="1550833889453">
         <mark key="'" line="16" column="36" />
         <mark key="[" line="365" column="44" />
@@ -735,11 +739,11 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/extLineInvest/components/RegistrationBalloon/RegistrationBalloon.jsx" timestamp="1551080329482">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/extLineInvest/components/RegistrationBalloon/RegistrationBalloon.jsx" timestamp="1551090718258">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/migrate/dto/CanMigrateResponseDTO.scala" timestamp="1549605282305">
         <mark key="'" line="11" column="22" />
@@ -820,6 +824,10 @@
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-order/thrift/order_enum_types.js" timestamp="1550462132436">
         <mark key="'" line="38" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/define/_mixin.scss" timestamp="1551092651981">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/policy/PolicyException.scala" timestamp="1549527085231">
         <mark key="'" line="10" column="72" />
@@ -905,11 +913,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1551069732306">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="." line="364" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" timestamp="1551092715602">
+        <mark key="'" line="353" column="21" />
+        <mark key="[" line="366" column="18" />
+        <mark key="]" line="366" column="19" />
+        <mark key="." line="366" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/Portfolio.jsx" timestamp="1550454560607">
         <mark key="'" line="32" column="37" />
@@ -1126,7 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1697" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1710" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1711" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1724" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
@@ -1226,6 +1233,7 @@
       <jump line="75" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/README.md" />
       <jump line="46" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" />
+      <jump line="353" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/list/_slider.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1247,34 +1255,34 @@
         <text encoding="base64">XDxjeFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG1pa2FuIGZyb20gJ21pa2FuanMnCg==</text>
+        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAzMjBweCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZD0iZ3RtLVhYWFhYWFhYIgo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIG1vYmlsZS1zbWFsbCB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YGBgJHhzbHQKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4IDdweDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZD0iZ3RtLVhYWFhYWFhYIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YGBgCgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">5rOo77yJKuS7lumKmOafhCrjgoLlkIzmp5jjgavoqIjnrpfjgZfjgIHlkIjnrpfjgYTjgZ/jgZfjgb7jgZnjgIIK</text>
+        <text encoding="base64">YGBgJHhzbHQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5Zu95YaF5qCq5byP562J44Gu5omL5pWw5paZCg==</text>
+        <text encoding="base64">ICAgIC0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5rOo77yJKuS7lumKmOafhCrjgoLlkIzmp5jjgavoqIjnrpfjgZfjgIHlkIjnrpfjgYTjgZ/jgZfjgb7jgZnjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
