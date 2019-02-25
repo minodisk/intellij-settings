@@ -178,6 +178,11 @@
         <mark key="." line="116" column="63" />
         <mark key="^" line="116" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/DisclaimerForMini/index.jsx" timestamp="1550735232297">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/ChartConfigBuilder.js" timestamp="1550809071023">
         <mark key="'" line="1" column="34" />
         <mark key="[" line="1" column="32" />
@@ -226,7 +231,7 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551058832699">
+      <file name="/Dummy.txt" timestamp="1551061149587">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -396,8 +401,10 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="3" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/models/cartBox.js" timestamp="1550833306948">
-        <mark key="[" line="32" column="16" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/models/cartBox.js" timestamp="1551060235917">
+        <mark key="[" line="138" column="4" />
+        <mark key="]" line="138" column="4" />
+        <mark key="." line="138" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-order/thrift/order_enum_types.js" timestamp="1550462132436">
         <mark key="'" line="38" column="7" />
@@ -460,11 +467,11 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/Portfolio.jsx" timestamp="1550454560607">
         <mark key="'" line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/stories/collection/order_confirm/SideBox.stories.jsx" timestamp="1551058245188">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="35" />
-        <mark key="." line="62" column="35" />
-        <mark key="^" line="62" column="35" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/stories/collection/order_confirm/SideBox.stories.jsx" timestamp="1551060794316">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/GetPartialSellThresholdComponent.scala" timestamp="1550331190566">
         <mark key="'" line="9" column="24" />
@@ -644,22 +651,30 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Modal</text>
+        <text encoding="base64">YXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNNaW5pXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE1vZGFsIGZyb20gJ34vc2hhcmVkQ29tbW9uL2NvbXBvbmVudHMvTW9kYWwnCg==</text>
+      <register name="0" type="4">
+        <text>{
+        amount: 11000,
+        fee: 100,
+        tax: 200,
+      }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICDjgq3jg6Pjg4Pjgrfjg6Xjg5Djg4Pjgq/liIbjga/jgIHjg5/jg4vjg4bjg7zjg57lhazplovmnJ/plpPkuK3jgavjgYrjgZHjgovjg5/jg4vjg4bjg7zjg57os7zlhaXliIbjga7os7zlhaXmmYLlj5blvJXmiYvmlbDmlpnjgpLjgb7jgajjgoHjgabjgIEyMDE55bm0NuaciDXml6Xku6Xlvowy44GL5pyI5Lul5YaF44Gr44GK5a6i5qeY44Gu44OV44Kp44Oq44Kq6Ki85Yi457eP5ZCI5Y+j5bqn44G45YWl6YeR44GE44Gf44GX44G+44GZ44CCCg==</text>
+        <text encoding="base64">ICAgIGNhcnRNb2RlbC5pdGVtc1swXS5hbW91bnQgPQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGludEljb24gfSBmcm9tICd+L3NoYXJlZENvbW1vbi9jb21wb25lbnRzL0ljb24nCg==</text>
+      <register name="2" type="4">
+        <text>{
+      amount: 11000,
+      fee: 100,
+      tax: 200,
+    }</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGEKICAgICAgICAgIGhyZWY9e3N1cHBvcnRVcmwuc2l0ZS50cmFuc2FjdGlvbkZlZXNUZXJtc30KICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgID4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYW1vdW50OiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="4" type="4">
         <text>{
@@ -668,20 +683,28 @@
         tax: 200,
       }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+      <register name="5" type="4">
+        <text>{
+        amount: 11000,
+        fee: 100,
+        tax: 200,
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXJ0TW9kZWwuaXRlbXMucHVzaCh7CiAgICBpc01pbmk6IHRydWUKICB9KQo=</text>
+        <text encoding="base64">ICAgICAgaXNVcGRhdGVCdXR0b25TaG93aW5nOiBmYWxzZSwKICAgICAgaXNVcGRhdGVCdXR0b25BY3RpdmU6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctdG9wOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgYW1vdW50OiBudWxsLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOOCreODo+ODs+ODmuODvOODs+ips+e0sAo=</text>
+      <register name="8" type="4">
+        <text>{
+        amount: 11000,
+        fee: 100,
+        tax: 200,
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYTogQW1vdW50ID0gewogICAgICAgIGFtb3VudDogMTEwMDAsCiAgICAgICAgZmVlOiAxMDAsCiAgICAgICAgdGF4OiAyMDAsCiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -694,7 +717,7 @@
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -720,9 +743,6 @@
         <entry encoding="base64">XDxoYXNNaW5pXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Order//g</entry>
-        <entry>%s/Cancel/CanCancel/g</entry>
-        <entry>%s/CanCanCancel/CanCancel/g</entry>
         <entry>sp</entry>
         <entry>%s/CanCancel/Cancel/g</entry>
         <entry>%s/ActiveOrder/PossibleOrders/g</entry>
@@ -738,7 +758,10 @@
         <entry>.,.+4w</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>wk</entry>
         <entry>nohlsearch</entry>
+        <entry>;;;w</entry>
+        <entry>;;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
