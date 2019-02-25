@@ -9,10 +9,6 @@
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/ThemeSlider.jsx" timestamp="1551068325657">
-        <mark key="'" line="122" column="28" />
-        <mark key="^" line="95" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/new_buy/CanNewBuyComponent.scala" timestamp="1547540745788">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="19" />
@@ -98,6 +94,12 @@
         <mark key="]" line="4" column="63" />
         <mark key="^" line="18" column="73" />
         <mark key="." line="4" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/package.json" timestamp="1551086067491">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/PartialSellPolicy.scala" timestamp="1549527042562">
         <mark key="[" line="3" column="0" />
@@ -418,6 +420,12 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" timestamp="1551084810386">
+        <mark key="'" line="153" column="3" />
+        <mark key="[" line="153" column="60" />
+        <mark key="]" line="153" column="60" />
+        <mark key="." line="153" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1548302181705">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -506,7 +514,7 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551080803740">
+      <file name="/Dummy.txt" timestamp="1551086253015">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -667,6 +675,12 @@
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/required_document/prior-written-consent-diff-20190306.md" timestamp="1551085743655">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="6" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="21" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Number.ts" timestamp="1549354301826">
         <mark key="[" line="1" column="17" />
@@ -958,6 +972,12 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/actions/index.js" timestamp="1550454811117">
         <mark key="'" line="1327" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/README.md" timestamp="1551086236231">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190118.md" timestamp="1548058542425">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="16" />
@@ -1105,12 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1641" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1654" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1655" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1668" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1669" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
-      <jump line="1682" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1683" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1696" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="1697" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
@@ -1205,6 +1219,12 @@
       <jump line="2326" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="2327" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
       <jump line="184" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/mock/themeListMock.js" />
+      <jump line="14" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" />
+      <jump line="62" column="66" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" />
+      <jump line="120" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" />
+      <jump line="159" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" />
+      <jump line="153" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/agreements/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1220,60 +1240,56 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>theme-cart-add-onBoarding</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc01pbmlcPg==</text>
+        <text>package.json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWQ9Imd0bS1zaWdudXBCdG4tY2FydEJ0biIK</text>
+        <text encoding="base64">fOaXp3zmlrB85YKZ6ICDfAp8Oi0tfDotLXw6LS18Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ251cElkPSJndG0tYWNjb3VudE9wZW5pbmdBcHBseS1jYXJ0QnRuIgo=</text>
+        <text encoding="base64">YGBgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoZW1lRGF0YSkKCg==</text>
+        <text encoding="base64">YGBgJHhzbHQKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmFkZCgnRGVmYXVsdCcsICgpID0+IDxSZWdpc3RyYXRpb25CYWxsb29uLz4pCg==</text>
+        <text encoding="base64">5rOo77yJKuS7lumKmOafhCrjgoLlkIzmp5jjgavoqIjnrpfjgZfjgIHlkIjnrpfjgYTjgZ/jgZfjgb7jgZnjgIIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IDEsCg==</text>
+        <text encoding="base64">5Zu95YaF5qCq5byP562J44Gu5omL5pWw5paZCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5rOo77yJKuS7liA5IOmKmOafhCrjgoLlkIzmp5jjgavoqIjnrpfjgZfjgIHlkIjnrpfjgYTjgZ/jgZfjgb7jgZnjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc01pbmlcPg==</last-search>
+      <last-search>package.json</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc01pbmlcPg==</last-pattern>
+      <last-pattern>package.json</last-pattern>
       <last-replace>PartialSellThreshold</last-replace>
       <last-substitute encoding="base64">XDxQYXJ0aWFsU2VsbFRocmVzaG9sZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNNaW5pXD4=</entry>
-        <entry encoding="base64">XDxpc0NhbXBhaWduXD4=</entry>
-        <entry>caard</entry>
-        <entry>card</entry>
         <entry encoding="base64">XDxjb2xOdW1cPg==</entry>
         <entry>bade</entry>
         <entry>badge</entry>
@@ -1290,6 +1306,10 @@
         <entry encoding="base64">XDxyZW5kZXJCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxpc01pbmlcPg==</entry>
+        <entry>取引手数料</entry>
+        <entry>国内株式の手数料</entry>
+        <entry>取引の方法</entry>
+        <entry>package.json</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
