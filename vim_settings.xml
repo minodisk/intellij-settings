@@ -230,7 +230,7 @@
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551070009891">
+      <file name="/Dummy.txt" timestamp="1551070110296">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -387,11 +387,11 @@
         <mark key="[" line="26" column="2" />
         <mark key="]" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1550665020168">
-        <mark key="[" line="67" column="62" />
-        <mark key="]" line="67" column="62" />
-        <mark key="^" line="67" column="62" />
-        <mark key="." line="67" column="62" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1551072004556">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1550217810694">
         <mark key="'" line="10" column="6" />
@@ -649,13 +649,13 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1wYWlnblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGRlc2t0b3Agewo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhR3RtVGhlbWVMYWJlbD17dGhlbWUubGFiZWx9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAuc2xpZGVyLWNhbXBhaWduIC5jYXJkX19iYWRnZTo6YWZ0ZXIgewogICAgY29udGVudDogJ++8gSc7CiAgfQo=</text>
@@ -685,7 +685,7 @@
         <text encoding="base64">ICAgIEBpbmNsdWRlIGRlc2t0b3Agewo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -739,8 +739,8 @@
         <entry>wk</entry>
         <entry>;;;w</entry>
         <entry>;;w</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
