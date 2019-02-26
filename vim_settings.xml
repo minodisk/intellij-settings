@@ -78,6 +78,11 @@
         <mark key="." line="70" column="95" />
         <mark key="^" line="70" column="95" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" timestamp="1550645081774">
+        <mark key="'" line="396" column="7" />
+        <mark key="[" line="405" column="8" />
+        <mark key="]" line="405" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/extLineInvest/components/RegistrationBalloon/RegistrationBalloon.stories.jsx" timestamp="1551154610505">
         <mark key="[" line="11" column="92" />
         <mark key="]" line="11" column="100" />
@@ -122,6 +127,9 @@
         <mark key="." line="40" column="103" />
         <mark key="^" line="40" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/omakase/components/Top/Bros.jsx" timestamp="1550821419346">
+        <mark key="'" line="66" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/policy/plugin/OrderAmountShouldBeSufficientPolicyPlugin.scala" timestamp="1547194869705">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="46" />
@@ -147,11 +155,17 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="47" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/Portfolio/Portfolio.jsx" timestamp="1550454551835">
+        <mark key="'" line="79" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547537289521">
         <mark key="[" line="11" column="55" />
         <mark key="]" line="11" column="75" />
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanNewBuyOrderControllerFeatureTest.scala" timestamp="1550457203588">
+        <mark key="'" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/OrderPolicyException.scala" timestamp="1551160353921">
         <mark key="'" line="52" column="11" />
@@ -205,6 +219,9 @@
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/.gitlab-ci.yml" timestamp="1550455560572">
+        <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/dto/AdditionalBuyRequestDTO.scala" timestamp="1548844647011">
         <mark key="[" line="17" column="0" />
@@ -270,13 +287,6 @@
         <mark key="]" line="135" column="53" />
         <mark key="." line="83" column="66" />
         <mark key="^" line="83" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanAllSellOrderControllerFeatureTest.scala" timestamp="1550479857165">
-        <mark key="'" line="222" column="17" />
-        <mark key="[" line="279" column="6" />
-        <mark key="]" line="279" column="6" />
-        <mark key="^" line="279" column="6" />
-        <mark key="." line="279" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Enums.js" timestamp="1550568143801">
         <mark key="[" line="322" column="44" />
@@ -484,7 +494,7 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551159784991">
+      <file name="/Dummy.txt" timestamp="1551160808097">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="18" />
       </file>
@@ -497,6 +507,11 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/asset/SellableAssetValue.scala" timestamp="1551159513249">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" timestamp="1551163553054">
+        <mark key="'" line="105" column="57" />
+        <mark key="[" line="105" column="57" />
+        <mark key="]" line="105" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/implementations/domain/sub/contract/service/serializer/ContractTypeSerializer.scala" timestamp="1548836861134">
         <mark key="[" line="11" column="35" />
@@ -542,6 +557,11 @@
         <mark key="]" line="174" column="60" />
         <mark key="^" line="174" column="60" />
         <mark key="." line="174" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-account/thrift/PortfolioService.patch.js" timestamp="1550832562420">
+        <mark key="'" line="4399" column="28" />
+        <mark key="[" line="4406" column="62" />
+        <mark key="]" line="4406" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" timestamp="1550331322863">
         <mark key="'" line="45" column="8" />
@@ -596,17 +616,29 @@
         <mark key="^" line="89" column="45" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/webpack.config.js" timestamp="1550642171644">
+        <mark key="'" line="182" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/cancel_order/cancel/CanCancelUseCase.scala" timestamp="1549522702625">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="42" />
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/LandingPage.stories.jsx" timestamp="1550824961028">
+        <mark key="'" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/MigrateOrderControllerFeatureTest.scala" timestamp="1550220734347">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/lib/domain/src/main/scala/com/folio/robo_adv/lib/domain/date/service/DateTimeService.scala" timestamp="1545973728081">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="45" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/get_possible_orders/adapters/GetPossibleOrdersResponseAdapter.scala" timestamp="1550241626025">
+        <mark key="'" line="15" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" timestamp="1550801831465">
         <mark key="'" line="33" column="67" />
@@ -659,8 +691,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1550474015669">
-        <mark key="'" line="246" column="39" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" timestamp="1551163581263">
+        <mark key="'" line="287" column="39" />
         <mark key="[" line="204" column="4" />
         <mark key="]" line="204" column="5" />
         <mark key="." line="204" column="5" />
@@ -677,12 +709,17 @@
         <mark key="^" line="61" column="50" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LoginedThemeList/FeatureItem.jsx" timestamp="1551152479419" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/robo_adv/order/idl/RoboAdvOrderService.scala" timestamp="1551163306442">
+        <mark key="'" line="46" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/cancel/CanCancelUseCase.scala" timestamp="1550119254294">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="9" />
         <mark key="^" line="21" column="96" />
         <mark key="." line="21" column="96" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-portfolio/thrift/portfolio_enum_types.js" timestamp="1550549025917">
+        <mark key="'" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/NewBuyPolicy.scala" timestamp="1547549128802">
         <mark key="[" line="11" column="18" />
@@ -753,12 +790,10 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/OrderController.scala" timestamp="1550334762160">
-        <mark key="'" line="60" column="43" />
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="35" />
-        <mark key="." line="60" column="35" />
-        <mark key="^" line="60" column="35" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" timestamp="1550836195838">
+        <mark key="'" line="98" column="5" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/common/components/ThemeBox.jsx" timestamp="1551095905003">
         <mark key="'" line="71" column="15" />
@@ -785,6 +820,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-robo-adv-order/thrift/order_enum_types.js" timestamp="1550462132436">
+        <mark key="'" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/define/_mixin.scss" timestamp="1551092651981">
         <mark key="[" line="13" column="0" />
@@ -887,6 +925,9 @@
         <mark key="]" line="366" column="19" />
         <mark key="." line="366" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/Portfolio.jsx" timestamp="1550454560607">
+        <mark key="'" line="32" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/stories/collection/order_confirm/SideBox.stories.jsx" timestamp="1551096972554">
         <mark key="'" line="264" column="2" />
         <mark key="[" line="65" column="18" />
@@ -899,6 +940,9 @@
         <mark key="]" line="23" column="46" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="23" column="138" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/partial_sell/GetPartialSellThresholdComponent.scala" timestamp="1550331190566">
+        <mark key="'" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/BuyProcedureException.scala" timestamp="1547190979591">
         <mark key="[" line="13" column="0" />
@@ -938,6 +982,12 @@
         <mark key="^" line="28" column="148" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/components/omakaseAsset/PlanBuy.jsx" timestamp="1550454762596">
+        <mark key="'" line="187" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/actions/index.js" timestamp="1550454811117">
+        <mark key="'" line="1327" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/README.md" timestamp="1551086236231">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="20" column="0" />
@@ -969,10 +1019,6 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/sass/blocks/theme/common/_buyOrder.scss" timestamp="1551148977527">
-        <mark key="'" line="12" column="19" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/cancel/dto/CancelResponseDTO.scala" timestamp="1550116492579">
         <mark key="'" line="11" column="22" />
         <mark key="[" line="15" column="0" />
@@ -987,10 +1033,10 @@
         <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/discretionary_investment_contract/UserDiscretionaryInvestmentContractRepository.scala" timestamp="1550473578265">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="26" column="137" />
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="28" column="137" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/OrderAmount.scala" timestamp="1550023839341">
         <mark key="[" line="9" column="58" />
@@ -1004,7 +1050,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/sbtShell" timestamp="1551160424713">
+      <file name="/sbtShell" timestamp="1551163143109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1015,6 +1061,9 @@
         <mark key="]" line="17" column="54" />
         <mark key="." line="17" column="54" />
         <mark key="^" line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/components/TextMainLink/TextMainLink.jsx" timestamp="1551075366997">
+        <mark key="'" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/request/model/AssetLastFetchedAt.scala" timestamp="1550049289020">
         <mark key="[" line="4" column="45" />
@@ -1052,6 +1101,9 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/thrift-portfolio/flow/portfolio_struct.js" timestamp="1550832992491">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/get_possible_orders/GetPossibleOrdersUseCase.scala" timestamp="1551160508894">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="11" column="0" />
@@ -1084,10 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
-      <jump line="51" column="17" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
       <jump line="214" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
       <jump line="110" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
       <jump line="147" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/SideBox/SideBox.stories.jsx" />
@@ -1184,6 +1232,10 @@
       <jump line="119" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/get_possible_orders/GetPossibleOrdersUseCase.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/get_possible_orders/GetPossibleOrdersUseCase.scala" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/idl-internal/target/scala-2.12/src_managed/test/thrift/com/folio/robo_adv/order/idl/RoboAdvOrderService.scala" />
+      <jump line="105" column="57" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/server/controllers/DepositController.scala" />
+      <jump line="287" column="39" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_service.thrift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1202,10 +1254,10 @@
         <text>DuplicatedOrder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpd2lPcmRlclNlcnZpY2VNb2NrXD4=</text>
+        <text>getActiveUserDiscretionaryInvestmentContracts</text>
       </register>
       <register name="0" type="4">
-        <text>GetPossibleOrdersControllerFeatureTest</text>
+        <text>getActiveUserDiscretionaryInvestmentContracts</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBVc2VyT3JkZXJQcm9oaWJpdGVkCg==</text>
@@ -1239,9 +1291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpd2lPcmRlclNlcnZpY2VNb2NrXD4=</last-search>
+      <last-search>getActiveUserDiscretionaryInvestmentContracts</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpd2lPcmRlclNlcnZpY2VNb2NrXD4=</last-pattern>
+      <last-pattern>getActiveUserDiscretionaryInvestmentContracts</last-pattern>
       <last-replace>'standard'</last-replace>
       <last-substitute>'normal'</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,11 +1301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isMini</entry>
-        <entry encoding="base64">XDx0aGVtZURhdGFcPg==</entry>
-        <entry>Order</entry>
-        <entry>Mini</entry>
-        <entry encoding="base64">XDx0aGVtZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxUaGVtZVR5cGVUeXBlXD4=</entry>
         <entry>portfolio_enum</entry>
         <entry>10</entry>
@@ -1269,6 +1316,11 @@
         <entry encoding="base64">XDxtaW5BbW91bnRcPg==</entry>
         <entry encoding="base64">XDxtYXhBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxpd2lPcmRlclNlcnZpY2VNb2NrXD4=</entry>
+        <entry encoding="base64">XDxyb2JvQWR2T3JkZXJTZXJ2aWNlXD4=</entry>
+        <entry>getActiveUserDiscretionary</entry>
+        <entry>DiscretionaryInvestmentContracts</entry>
+        <entry encoding="base64">XDxnZXRBY3RpdmVVc2VyRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdHNcPg==</entry>
+        <entry>getActiveUserDiscretionaryInvestmentContracts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/active_order/possible_orders/g</entry>
