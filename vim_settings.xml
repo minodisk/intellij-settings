@@ -491,11 +491,11 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" timestamp="1551100275870">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/agreement/prior-written-consent.md" timestamp="1551344852774">
         <mark key="'" line="113" column="37" />
-        <mark key="[" line="260" column="112" />
-        <mark key="]" line="260" column="110" />
-        <mark key="." line="260" column="110" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
         <mark key="^" line="260" column="110" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/UserOrderShouldBeProhibitedPolicyPlugin.scala" timestamp="1548302181705">
@@ -590,7 +590,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551341070418">
+      <file name="/Dummy.txt" timestamp="1551344757860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
@@ -665,12 +665,6 @@
         <mark key="]" line="37" column="74" />
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CanPartialSellOrderControllerFeatureTest.scala" timestamp="1551267143093">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" timestamp="1551327432089">
         <mark key="'" line="52" column="29" />
@@ -1181,12 +1175,6 @@
         <mark key="." line="38" column="76" />
         <mark key="^" line="38" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" timestamp="1551266169525">
-        <mark key="'" line="137" column="48" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="129" />
-        <mark key="." line="356" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/discretionary_investment_contract/UserDiscretionaryInvestmentContractRepository.scala" timestamp="1551264496340">
         <mark key="'" line="28" column="6" />
         <mark key="[" line="28" column="6" />
@@ -1269,12 +1257,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="101" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/get_possible_orders/GetPossibleOrdersUseCase.scala" timestamp="1551160508894">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/.d.ts/gpgpu.d.ts" timestamp="1546839420426">
         <mark key="[" line="3" column="0" />
@@ -1422,8 +1404,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxBQ0xcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ACL</text>
+      <register name="0" type="2">
+        <text encoding="base64">LT4yMDE5IOW5tCAzIOaciAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIDHmnprnm67jga7jgq3jg6Pjg7Pjg5rjg7zjg7PnlLvlg4/jgavmloflrZfjgYzjgZ/jgY/jgZXjgpPovInjgaPjgabjgYTjgovjgZ/jgoHjgIHmmYLplpPjgpLplbfjgY/jgZfjgaboqq3jgb7jgZvjgosK</text>
