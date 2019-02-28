@@ -585,6 +585,9 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1551341057800">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/sub/iwi/model/contract/IwiContractHistory.scala" timestamp="1549971296144">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="1" column="0" />
@@ -767,12 +770,12 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" timestamp="1551335861512">
-        <mark key="'" line="87" column="7" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="122" column="14" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" timestamp="1551340750445">
+        <mark key="'" line="88" column="7" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="70" column="19" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/src/required_document/prior-written-consent-diff-20190306.md" timestamp="1551085743655">
         <mark key="[" line="21" column="5" />
@@ -1117,11 +1120,11 @@
         <mark key="^" line="28" column="148" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" timestamp="1551335022272">
-        <mark key="[" line="91" column="81" />
-        <mark key="]" line="91" column="81" />
-        <mark key="." line="91" column="81" />
-        <mark key="^" line="91" column="81" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" timestamp="1551340574972">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/agreements/README.md" timestamp="1551086236231">
         <mark key="'" line="75" column="0" />
@@ -1294,18 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="249" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="123" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/installment/RegisterInstallmentSettingControllerFeatureTest.scala" />
-      <jump line="89" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/installment/ReplaceInstallmentSettingControllerFeatureTest.scala" />
-      <jump line="26" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/installment/GetInstallmentSettingControllerFeatureTest.scala" />
-      <jump line="332" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="188" column="27" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="69" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="336" column="66" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="55" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="142" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="146" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="192" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="196" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="244" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
@@ -1394,6 +1385,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/variables.css" />
       <jump line="0" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/media.css" />
       <jump line="18" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/sharedCommon/styles/media.css" />
+      <jump line="178" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="83" column="21" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="77" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.jsx" />
+      <jump line="92" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="93" column="32" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="96" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="103" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="109" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="113" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="118" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="123" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
+      <jump line="88" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_list/components/LandingPage/EyeCatch.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1409,49 +1412,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>dummySummarizedIwiAssetRecord</text>
+        <text>る</text>
       </register>
       <register name="/" type="4">
-        <text>320</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmltYWdlLm1haW5Gb3JlZ3JvdW5kIHsK</text>
+        <text encoding="base64">ICB6LWluZGV4OiB2YXIoLS16SW5kZXgtYmFzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG1lZGlhICgtLW1lZGlhLXBjKSB7CiAgLmltYWdlLm1haW5CYWNrZ3JvdW5kIHsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIC8vIDHmnprnm67jga7jgq3jg6Pjg7Pjg5rjg7zjg7PnlLvlg4/jgavmloflrZfjgYzjgZ/jgY/jgZXjgpPovInjgaPjgabjgYTjgovjgZ/jgoHjgIHmmYLplpPjgpLplbfjgY/jgZfjgaboqq3jgb7jgZvjgosK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LypAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAzNTVweCkgeyovCiAgLyouaW1hZ2UubWFpblVuZGVyQmFyIHsqLwogICAgLypoZWlnaHQ6IGNhbGMoMzAwcHggLSA3MHZ3KTsqLwogICAgLyp0b3A6IGF1dG87Ki8KICAgIC8qYm90dG9tOiAwOyovCiAgLyp9Ki8KLyp9Ki8KLypAbWVkaWEgKC0tbWVkaWEtbmFycm93KSB7Ki8KICAvKi5pbWFnZS5tYWluVW5kZXJCYXIgeyovCiAgICAvKmhlaWdodDogMTMlOyovCiAgICAvKnRvcDogYXV0bzsqLwogICAgLypib3R0b206IDA7Ki8KICAvKn0qLwovKn0qLwo=</text>
+        <text encoding="base64">Ly8g44Kt44Oj44Oz44Oa44O844Oz55S75YOP44KS44GC44KP44Gb44KLCmNvbnN0IGltYWdlQ291bnQgPSBpbWFnZXMubGVuZ3RoICsgMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogMTMyMHB4KSB7CiAgLmV5ZUNhdGNoIC5pbWFnZS5tYWluRm9yZWdyb3VuZCB7CiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRDb3VudCA9IAogICAgY29uc3QgbmV4dENvdW50ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogMTMyMHB4KSB7CiAgLmltYWdlLm1haW5Gb3JlZ3JvdW5kIHsKICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIHRoaXMucmVxdWVzdE5leHRUaWNrKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50aW1lb3V0SWQgPSB3aW5kb3cuc2V0VGltZW91dCh0aGlzLmdvTmV4dCwgZmlyc3RUaW1lSW50ZXJ2YWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogMTMyMHB4KSB7CiAgCn0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT4nLCBuZXh0Q291bnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDcwdmg7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT4nLCBuZXh0Q291bnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvcGFjaXR5OiAwLjU7Cg==</text>
+        <text encoding="base64">ICB6LWluZGV4OiB2YXIoLS16SW5kZXgtYmFzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>320</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>320</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>createNewBuyOrder</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlcjJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1459,9 +1462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dup</entry>
-        <entry>Termina</entry>
-        <entry encoding="base64">XDzkuK1cPg==</entry>
         <entry encoding="base64">XDzop6PntIRcPg==</entry>
         <entry>キャンセル</entry>
         <entry encoding="base64">XDxUZXJtaW5hdGlvbkFscmVhZHlSZXF1ZXN0ZWRcPg==</entry>
@@ -1474,11 +1474,14 @@
         <entry encoding="base64">XDxkdW1teVN1bW1hcml6ZWRJd2lBc3NldFJlY29yZFw+</entry>
         <entry encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</entry>
         <entry encoding="base64">XDxkYXRlVGltZVNlcnZpY2VNb2NrXD4=</entry>
-        <entry>main</entry>
         <entry encoding="base64">XDxtYWluVW5kZXJCYXJcPg==</entry>
         <entry>35</entry>
         <entry>mobile</entry>
         <entry>320</entry>
+        <entry>inner</entry>
+        <entry>next</entry>
+        <entry>campaign</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
@@ -1497,9 +1500,9 @@
         <entry encoding="base64">JXMvXDxjcmVhdGVOZXdCdXlPcmRlcjJcPi9jcmVhdGVOZXdCdXlPcmRlci9n</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>nohlsearch</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>vs</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
