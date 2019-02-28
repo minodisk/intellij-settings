@@ -223,8 +223,8 @@
         <mark key="^" line="137" column="28" />
         <mark key="." line="137" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" timestamp="1551318214193">
-        <mark key="'" line="253" column="10" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" timestamp="1551319630828">
+        <mark key="'" line="124" column="18" />
         <mark key="[" line="96" column="16" />
         <mark key="]" line="96" column="44" />
         <mark key="." line="130" column="13" />
@@ -647,12 +647,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" timestamp="1551318278933">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" timestamp="1551327432089">
         <mark key="'" line="52" column="29" />
-        <mark key="[" line="15" column="68" />
-        <mark key="]" line="15" column="68" />
-        <mark key="^" line="67" column="3" />
-        <mark key="." line="15" column="68" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/sell/all_sell/dto/CanAllSellResponseDTO.scala" timestamp="1549367570773">
         <mark key="[" line="14" column="0" />
@@ -1260,8 +1259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
-      <jump line="347" column="11" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="38" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="155" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
       <jump line="156" column="52" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/CancelOrderControllerFeatureTest.scala" />
@@ -1360,6 +1357,8 @@
       <jump line="121" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" />
       <jump line="161" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" />
       <jump line="52" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetPossibleOrdersControllerFeatureTest.scala" />
+      <jump line="116" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" />
+      <jump line="124" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/test/scala/com/folio/robo_adv/order/infrastructure/server/RoboAdvOrderControllersFeatureTestBase.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1378,46 +1377,46 @@
         <text>, SummarizedIwiAssetNotYetDiscretionaryInvestment}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</text>
+        <text encoding="base64">XDxkYXRlVGltZVNlcnZpY2VNb2NrXD4=</text>
       </register>
       <register name="0" type="4">
         <text>dummySummarizedIwiAssetNotYetDiscretionaryInvestment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaXdpQXNzZXRTZXJ2aWNlTW9jay5nZXRTdW1tYXJpemVkSXdpQXNzZXQoYW55W1VzZXJJZF0sIGFueVtDb250cmFjdFR5cGVdKSkKICAgICAgLnRoZW5SZXR1cm4oRnV0dXJlLnZhbHVlKFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50KHVzZXJJZCwgQ29udHJhY3RUeXBlLk9tYWthc2UpKSkK</text>
+        <text encoding="base64">ICB0ZXN0KCLmg7PlrprlpJbjga7kvovlpJbjgYzotbfjgY3jgZ/loLTlkIjjgIFTZXJ2ZXJFcnJvcuS+i+WkluOCkuaKleOBkuOCiyIpIHsKICAgIHZhbCB1c2VySWQgPSBVc2VySWQoMSkKCiAgICB2YWwgZiA9IGZvciB7CiAgICAgIF8gPC0gaW52b2tlQXBpKHVzZXJJZCkKICAgIH0geWllbGQgKCkKCiAgICB2YWwgZSA9IGludGVyY2VwdFtTZXJ2ZXJFcnJvcl0gewogICAgICBmLnZhbHVlCiAgICB9CiAgICBhc3NlcnQoZS5lcnJvckNhdXNlID09IFNlcnZlckVycm9yQ2F1c2UuSW50ZXJuYWxTZXJ2ZXJFcnJvcikKICB9Cgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbWFrYXNlRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbmVDb2luRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbWFrYXNlRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbmVDb2luRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkK</text>
+        <text encoding="base64">ICAgIHdoZW4oaXdpQXNzZXRTZXJ2aWNlTW9jay5nZXRTdW1tYXJpemVkSXdpQXNzZXQoYW55W1VzZXJJZF0sIGFueVtDb250cmFjdFR5cGVdKSkKICAgICAgLnRoZW5SZXR1cm4oRnV0dXJlLnZhbHVlKFN1bW1hcml6ZWRJd2lBc3NldE5vdFlldERpc2NyZXRpb25hcnlJbnZlc3RtZW50KHVzZXJJZCwgQ29udHJhY3RUeXBlLk9tYWthc2UpKSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbWFrYXNlRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbmVDb2luRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5hc3NldC5TdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudAo=</text>
+        <text encoding="base64">ICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbWFrYXNlRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbmVDb2luRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc2V0KHdpdGhkcmF3U2VydmljZU1vY2ssIGFjdGl2ZU9yZGVyU2VydmljZU1vY2ssIHVzZXJPcmRlclNlcnZpY2VNb2NrLCBpd2lBc3NldFNlcnZpY2VNb2NrKQo=</text>
+        <text encoding="base64">ICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbWFrYXNlRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkKICAgICAgXyA8LSBkaXNjcmV0aW9uYXJ5SW52ZXN0bWVudENvbnRyYWN0UmVwb3NpdG9yeS5jcmVhdGUoZHVtbXlPbmVDb2luRGlzY3JldGlvbmFyeUludmVzdG1lbnRDb250cmFjdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5wcmVzZW50YXRpb24uZGVzZXJpYWxpemVycy5PcmRlclR5cGVEZXNlcmlhbGl6ZXIKaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5wcmVzZW50YXRpb24uc2VyaWFsaXplcnMue0NvbnRyYWN0VHlwZVNlcmlhbGl6ZXIsIE9yZGVyU3RhdGVTZXJpYWxpemVyfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5tb2RlbC5hc3NldC5TdW1tYXJpemVkSXdpQXNzZXROb3RZZXREaXNjcmV0aW9uYXJ5SW52ZXN0bWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5pZGwuRHVwbGljYXRlZE9yZGVyCg==</text>
+        <text encoding="base64">ICAgIHJlc2V0KHdpdGhkcmF3U2VydmljZU1vY2ssIGFjdGl2ZU9yZGVyU2VydmljZU1vY2ssIHVzZXJPcmRlclNlcnZpY2VNb2NrLCBpd2lBc3NldFNlcnZpY2VNb2NrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5kb21haW4uc3ViLml3aS5zZXJ2aWNlLm9yZGVyLkl3aU9yZGVyU2VydmljZQppbXBvcnQgY29tLmZvbGlvLnJvYm9fYWR2Lm9yZGVyLmlkbAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5wcmVzZW50YXRpb24uZGVzZXJpYWxpemVycy5PcmRlclR5cGVEZXNlcmlhbGl6ZXIKaW1wb3J0IGNvbS5mb2xpby5yb2JvX2Fkdi5vcmRlci5wcmVzZW50YXRpb24uc2VyaWFsaXplcnMue0NvbnRyYWN0VHlwZVNlcmlhbGl6ZXIsIE9yZGVyU3RhdGVTZXJpYWxpemVyfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</last-search>
+      <last-search encoding="base64">XDxkYXRlVGltZVNlcnZpY2VNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlVGltZVNlcnZpY2VNb2NrXD4=</last-pattern>
       <last-replace>createNewBuyOrder</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVOZXdCdXlPcmRlcjJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1425,7 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dupli</entry>
         <entry encoding="base64">XDxvcmRlclNob3VsZE5vdEJlRHVwbGljYXRlZFBvbGljeVBsdWdpblw+</entry>
         <entry>Duplicate</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVcPg==</entry>
@@ -1445,6 +1443,7 @@
         <entry encoding="base64">XDxnZXRJd2lBc3NldHNcPg==</entry>
         <entry encoding="base64">XDxkdW1teVN1bW1hcml6ZWRJd2lBc3NldFJlY29yZFw+</entry>
         <entry encoding="base64">XDxnZXRTdW1tYXJpemVkSXdpQXNzZXRcPg==</entry>
+        <entry encoding="base64">XDxkYXRlVGltZVNlcnZpY2VNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
