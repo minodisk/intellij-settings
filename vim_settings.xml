@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190308.md" timestamp="1552044184358">
+        <mark key="[" line="49" column="109" />
+        <mark key="]" line="49" column="110" />
+        <mark key="." line="49" column="110" />
+        <mark key="^" line="45" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/all_sell/CanAllSellComponent.scala" timestamp="1549345690423">
         <mark key="[" line="4" column="101" />
         <mark key="]" line="4" column="103" />
@@ -224,6 +230,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/prod/account_opening_agreement.csv" timestamp="1551427242518">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="103" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/buy/additional_buy/dto/AdditionalBuyRequestDTO.scala" timestamp="1548844647011">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -274,6 +286,12 @@
         <mark key="]" line="12" column="110" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="41" column="96" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/dev/account_opening_agreement.csv" timestamp="1551427249202">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/order_confirm/components/SideBox.jsx" timestamp="1551145129098">
         <mark key="'" line="83" column="55" />
@@ -453,6 +471,12 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190301-aftershow.md" timestamp="1552043732930">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/domain/src/main/scala/com.folio/robo_adv/gateway/domain/sub/iwi_sync/model/fx_rate/IwiSyncFxRate.scala" timestamp="1545973647901">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
@@ -520,7 +544,7 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552043485846">
+      <file name="/Dummy.txt" timestamp="1552044225383">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -630,6 +654,12 @@
         <mark key="]" line="127" column="46" />
         <mark key="^" line="127" column="46" />
         <mark key="." line="127" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190301-main.md" timestamp="1552043736711">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/.prettierignore" timestamp="1546837381770">
         <mark key="[" line="0" column="0" />
@@ -834,6 +864,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="^" line="45" column="20" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/prod/required_document.csv" timestamp="1551432366940">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1550217810694">
         <mark key="'" line="10" column="6" />
@@ -1301,40 +1337,40 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IG51bGw=</text>
+        <text>採用</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25QYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiAnb21ha2FzZScsCiAgICAgICAgICBsb2NhdGlvbjogJ3RvcCcsCg==</text>
+        <text encoding="base64">IVtdKGh0dHBzOi8vczMtYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9mbS5mb2xpby1zZWMuY29tL2ltYWdlcy9ub21penUtd29ya3Nob3Avbm9taXp1LXdvcmtzaG9wLTIwMTkwMzA4LTEuanBnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB0aHJvdyBuZXcgRXJyb3IoImR1bW15IikKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT0nKQogICAgY29uc29sZS5sb2cocGFyYW1TdHJpbmcpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb206ICdvbWFrYXNlT3JkZXInLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb206ICdvbWFrYXNlVG9wJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb206ICd0aGVtZURldGFpbCcsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmcm9tOiBzdHJpbmcsCiAgdGhlbWVMYWJlbD86IHN0cmluZywK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LSBwNjog5qCq5byP5biC5aC044Go5LyB5qWt5pmv5rOB5oSfCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSBwNDog5LiW55WM5ZCE5Zu944O75Zyw5Z+f44Gu57WM5riI5oiQ6ZW3546HCi0gcDU6IOS4u+imgeWbveODu+WcsOWfn+OBrue1jOa4iOaIkOmVt+eOh+OBqOS8gealreaZr+azgeaEnwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QGVub21penUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyB0aHJvdyBuZXcgRXJyb3IoImR1bW15IikKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT0nKQogICAgY29uc29sZS5sb2cocGFyYW1TdHJpbmcpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb206ICdvdGhlcnMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZyb206ICdvbWFrYXNlT3JkZXInLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZ2V4cCA9IGZyb21DYXRlZ29yaWVzW2Zyb21dCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZyb206ICdvbWFrYXNlVG9wJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
