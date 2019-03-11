@@ -78,12 +78,11 @@
         <mark key="^" line="67" column="82" />
         <mark key="." line="67" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" timestamp="1551938320612">
-        <mark key="'" line="78" column="29" />
-        <mark key="[" line="204" column="14" />
-        <mark key="]" line="204" column="14" />
-        <mark key="." line="204" column="14" />
-        <mark key="^" line="78" column="18" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" timestamp="1552291150622">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/extLineInvest/components/RegistrationBalloon/RegistrationBalloon.stories.jsx" timestamp="1551154610505">
         <mark key="[" line="11" column="92" />
@@ -508,10 +507,6 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/ceo_radio/18.md" timestamp="1551664584388">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/gateway/infrastructure/src/main/scala/com/folio/robo_adv/gateway/infrastructure/implementations/domain/sub/iwi_sync/service/fx_rate/IwiSyncFxRate.scala" timestamp="1545896036574">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="39" />
@@ -563,7 +558,7 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552282299868">
+      <file name="/Dummy.txt" timestamp="1552282317347">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -609,12 +604,12 @@
         <mark key="." line="1011" column="16" />
         <mark key="^" line="1011" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" timestamp="1552008377601">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="65" column="20" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" timestamp="1552291283855">
+        <mark key="'" line="56" column="40" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/generative/tsconfig.json" timestamp="1545961762289">
         <mark key="[" line="19" column="35" />
@@ -639,6 +634,13 @@
         <mark key="'" line="4399" column="28" />
         <mark key="[" line="4406" column="62" />
         <mark key="]" line="4406" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/setTracingCookie.js" timestamp="1552291267087">
+        <mark key="'" line="8" column="44" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/RoboAdvOrderThriftController.scala" timestamp="1550331322863">
         <mark key="'" line="45" column="8" />
@@ -752,10 +754,6 @@
         <mark key="]" line="21" column="6" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/middlewares/csrf.test.js" timestamp="1552026337943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/dmino/price-board/src/Number.ts" timestamp="1549354301826">
         <mark key="[" line="1" column="17" />
@@ -1091,10 +1089,6 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/actions/index.js" timestamp="1551932982011">
-        <mark key="[" line="187" column="2" />
-        <mark key="]" line="187" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/minodisk/gpgpu/tsconfig.json" timestamp="1546835989509">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="33" />
@@ -1107,6 +1101,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/logging.js" timestamp="1552291264949">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/policy/plugin/OrderShouldNotBeDuplicatedPolicyPlugin.scala" timestamp="1551170017086">
         <mark key="[" line="38" column="70" />
@@ -1168,12 +1167,12 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" timestamp="1552282025227">
-        <mark key="'" line="193" column="186" />
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="8" />
-        <mark key="." line="123" column="8" />
-        <mark key="^" line="123" column="8" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" timestamp="1552291322871">
+        <mark key="'" line="176" column="26" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="180" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
@@ -1238,16 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
-      <jump line="49" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
-      <jump line="56" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" />
-      <jump line="61" column="14" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" />
-      <jump line="449" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" />
-      <jump line="311" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/specifications/dist/gen-node/urls.js" />
-      <jump line="281" column="90" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" />
-      <jump line="79" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/specifications/dist/gen-node/urls.js" />
-      <jump line="88" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
-      <jump line="39" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" />
       <jump line="28" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="106" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="107" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
@@ -1271,7 +1260,6 @@
       <jump line="164" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="168" column="55" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="172" column="56" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
-      <jump line="176" column="57" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="180" column="62" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="38" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="7" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
@@ -1338,6 +1326,17 @@
       <jump line="5" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="36" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
       <jump line="193" column="186" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
+      <jump line="78" column="18" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" />
+      <jump line="204" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" />
+      <jump line="145" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
+      <jump line="176" column="26" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" />
+      <jump line="56" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/eventTracker.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" />
+      <jump line="4" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/setTracingCookie.js" />
+      <jump line="143" column="3" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/logging.js" />
+      <jump line="147" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/logging.js" />
+      <jump line="6" column="44" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/middlewares/setTracingCookie.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1367,53 +1366,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IG51bGw=</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text>keys</text>
+        <text encoding="base64">XDxTaW1wbGVLb2FDb250ZXh0VHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>pageInfo</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBTaW1wbGVLb2FDb250ZXh0VHlwZSB9IGZyb20gJy4vYmFzZUNvbnRleHRUeXBlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3J5LCBsb2NhdGlvbiwga2V5cywgcmVnZXhwKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtleXMsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgICBjb25zb2xlLmxvZyhwYXJhbVN0cmluZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coVElEKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc2V0VHJhY2luZ0Nvb2tpZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-    category: 'others',
-    location: 'others',
-    params: {},
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNJRCA9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3J5LCBsb2NhdGlvbiwga2V5cywgcmVnZXhwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IG51bGwK</text>
+        <text encoding="base64">ICAgIGtleXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>keys</last-search>
+      <last-search encoding="base64">XDxTaW1wbGVLb2FDb250ZXh0VHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>keys</last-pattern>
+      <last-pattern encoding="base64">XDxTaW1wbGVLb2FDb250ZXh0VHlwZVw+</last-pattern>
       <last-replace>parse</last-replace>
       <last-substitute encoding="base64">XDxjYXRlZ29yaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,15 +1416,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbWFpbFw+</entry>
-        <entry>body</entry>
-        <entry>csrf</entry>
-        <entry>ctx:</entry>
-        <entry>ctx)</entry>
-        <entry>ctx) {</entry>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry>userId: string</entry>
-        <entry>session</entry>
         <entry>sess</entry>
         <entry>SessionHandler</entry>
         <entry encoding="base64">XDxTZXNzaW9uSGFuZGxlclw+</entry>
@@ -1441,6 +1427,15 @@
         <entry encoding="base64">XDxwYXRoVG9SZWdleHBcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>keys</entry>
+        <entry>tid</entry>
+        <entry encoding="base64">XDxTSURcPg==</entry>
+        <entry>SID</entry>
+        <entry encoding="base64">XDx0cmFjaW5nQ29va2llXD4=</entry>
+        <entry>sessionId</entry>
+        <entry encoding="base64">XDxUSURcPg==</entry>
+        <entry>setTracingCookie</entry>
+        <entry>next</entry>
+        <entry encoding="base64">XDxTaW1wbGVLb2FDb250ZXh0VHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'normal'/'standard'/g</entry>
@@ -1459,9 +1454,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JXMvXDxjYXRlZ29yaXplXD4vcGFyc2UvZw==</entry>
         <entry>:w</entry>
-        <entry>nohlsearch</entry>
         <entry>102</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
