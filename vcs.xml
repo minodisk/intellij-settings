@@ -70,8 +70,12 @@
           <option name="url" value="git@github.com:minodisk/board.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.folio-sec.com:Folio/shared-data.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/gitlab.com/dmino" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/gitlab.com/Folio" />
   </component>
 </application>
