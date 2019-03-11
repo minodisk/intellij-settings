@@ -122,12 +122,11 @@
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication.js" timestamp="1552271234530">
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication.js" timestamp="1552273263948">
         <mark key="'" line="213" column="32" />
-        <mark key="[" line="281" column="16" />
-        <mark key="]" line="281" column="29" />
-        <mark key="^" line="281" column="11" />
-        <mark key="." line="281" column="11" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/migrate/dto/CanMigrateRequestDTO.scala" timestamp="1550219684273">
         <mark key="[" line="9" column="36" />
@@ -532,6 +531,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="28" column="88" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/corporate-site/src/data/data.json" timestamp="1551771115375">
+        <mark key="'" line="487" column="76" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/all_sell/adapters/AllSellResponseAdapter.scala" timestamp="1551241407214">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="101" />
@@ -558,7 +563,7 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552271427436">
+      <file name="/Dummy.txt" timestamp="1552274456100">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
@@ -1163,11 +1168,11 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" timestamp="1552269746860">
-        <mark key="[" line="155" column="24" />
-        <mark key="]" line="155" column="24" />
-        <mark key="." line="155" column="24" />
-        <mark key="^" line="155" column="24" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" timestamp="1552274302802">
+        <mark key="[" line="170" column="37" />
+        <mark key="]" line="170" column="37" />
+        <mark key="." line="170" column="37" />
+        <mark key="^" line="165" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/buy/can_new_buy/dto/CanNewBuyResponseDTO.scala" timestamp="1547117958763">
         <mark key="[" line="11" column="83" />
@@ -1181,12 +1186,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication-api.js" timestamp="1552270618428">
-        <mark key="'" line="48" column="54" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="81" />
-        <mark key="^" line="222" column="49" />
-        <mark key="." line="222" column="49" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication-api.js" timestamp="1552274422804">
+        <mark key="'" line="169" column="12" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="196" column="3" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/presentation/src/main/scala/com/folio/robo_adv/order/presentation/components/can_new_buy/adapters/CanNewBuyResponseAdapter.scala" timestamp="1547540387560">
         <mark key="[" line="29" column="20" />
@@ -1232,8 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5190" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/yarn.lock" />
-      <jump line="8532" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/yarn.lock" />
       <jump line="8256" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/yarn.lock" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" />
       <jump line="202" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/server.js" />
@@ -1332,6 +1335,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/sessionManager.js" />
       <jump line="106" column="39" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/sessionManager.js" />
       <jump line="7" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/contextType.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication-api.js" />
+      <jump line="169" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/authentication-api.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1361,49 +1366,49 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>thriftClientPool</text>
+        <text>始</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXNzaW9uSGFuZGxlclw+</text>
+        <text>verifyTran</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFRocmlmdENsaWVudFBvb2wgZnJvbSAnLi4vbGliL3RocmlmdENsaWVudFBvb2wnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXJhbXM6IHsgW2tleTogc3RyaW5nXTogYW55IH0sCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXJhbXM6IGFueSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN0eC5iaQoK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjc3JmOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PHsKICAgICAgY3NyZjogc3RyaW5nLAogICAgICBpc1dlYlZpZXdBY2NlZXNzOiBib29sZWFuLAogICAgfT4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzZW5kQ29tcGxldGVBY3RpdmF0ZVVzZXIoKSB7CiAgICB0aGlzLl9jb3JlVHJhY2tlci5zZW5kKHsgZXZlbnQ6ICdDT01QTEVURV9BQ1RJVkFURV9VU0VSJyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46IHN0cmluZywKICAgICAgcmVjYXB0Y2hhUmVzcG9uc2U6IHN0cmluZywK</text>
+        <text encoding="base64">ICBzZW5kQ29tcGxldGVJbnRlcmltVXNlcigpIHsKICAgIHRoaXMuX2NvcmVUcmFja2VyLnNlbmQoeyBldmVudDogJ0NPTVBMRVRFX0lOVEVSSU1fVVNFUicgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHN0cmluZywKICAgICAgcGFzc3dvcmQ6IHN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXNzaW9uSGFuZGxlclw+</last-search>
+      <last-search>verifyTran</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXNzaW9uSGFuZGxlclw+</last-pattern>
+      <last-pattern>verifyTran</last-pattern>
       <last-replace>parse</last-replace>
       <last-substitute encoding="base64">XDxjYXRlZ29yaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1411,7 +1416,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tb25QYXJhbXNcPg==</entry>
         <entry>regist</entry>
         <entry>registration</entry>
         <entry encoding="base64">XDx2ZXJpZnlSZWdpc3RyYXRpb25Ub2tlblw+</entry>
@@ -1431,6 +1435,7 @@
         <entry>sess</entry>
         <entry>SessionHandler</entry>
         <entry encoding="base64">XDxTZXNzaW9uSGFuZGxlclw+</entry>
+        <entry>verifyTran</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ *isMini: .*,\n//g</entry>
