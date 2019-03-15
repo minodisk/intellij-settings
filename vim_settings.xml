@@ -70,10 +70,10 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" timestamp="1552538335778">
-        <mark key="'" line="71" column="51" />
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="51" column="17" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" timestamp="1552636039329">
+        <mark key="'" line="183" column="24" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/PortfolioChart.jsx" timestamp="1551094580615">
         <mark key="'" line="7" column="21" />
@@ -634,7 +634,7 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552628581437">
+      <file name="/Dummy.txt" timestamp="1552635996578">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="39" />
       </file>
@@ -730,7 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" />
       <jump line="105" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/common/theme/types/index.js" />
       <jump line="235" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="933" column="20" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
@@ -830,6 +829,7 @@
       <jump line="253" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="351" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="359" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
+      <jump line="183" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -862,10 +862,10 @@
         <text>noopener noreferrer</text>
       </register>
       <register name="/" type="4">
-        <text>importantNotice</text>
+        <text>redix</text>
       </register>
       <register name="0" type="4">
-        <text>url.origin === corporateUrl.site.folio</text>
+        <text>dev:line</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgIGRhdGEuaW1wb3J0YW50Tm90aWNlID0gY3R4LmltcG9ydGFudE5vdGljZQo=</text>
@@ -895,21 +895,20 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGVyZm9ybWFuY2UpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>importantNotice</last-search>
+      <last-search>redix</last-search>
       <last-offset />
-      <last-pattern>importantNotice</last-pattern>
+      <last-pattern>redix</last-pattern>
       <last-replace>parse</last-replace>
       <last-substitute encoding="base64">XDxjYXRlZ29yaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ogp</entry>
         <entry>replace</entry>
         <entry>origin</entry>
         <entry>description</entry>
@@ -922,13 +921,14 @@
         <entry>Url</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uVXJsXD4=</entry>
         <entry>corporateUrl</entry>
-        <entry>line</entry>
         <entry>line.folio</entry>
         <entry encoding="base64">XDxsaW5lSW52ZXN0XD4=</entry>
         <entry>urls</entry>
         <entry encoding="base64">XDxjb3Jwb3JhdGVVcmxcPg==</entry>
         <entry>folio-sec</entry>
         <entry>importantNotice</entry>
+        <entry>line</entry>
+        <entry>redix</entry>
       </history-search>
       <history-cmd>
         <entry>wwwww</entry>
@@ -949,8 +949,8 @@
         <entry>384</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
