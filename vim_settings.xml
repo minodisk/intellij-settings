@@ -38,8 +38,8 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" timestamp="1552872974864">
-        <mark key="'" line="213" column="45" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" timestamp="1552874381540">
+        <mark key="'" line="1139" column="9" />
         <mark key="[" line="389" column="33" />
         <mark key="]" line="389" column="37" />
         <mark key="." line="389" column="37" />
@@ -110,8 +110,8 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" timestamp="1551933485587">
-        <mark key="'" line="467" column="58" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" timestamp="1552874165037">
+        <mark key="'" line="389" column="48" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="^" line="61" column="50" />
@@ -323,8 +323,8 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" timestamp="1552872891550">
-        <mark key="'" line="262" column="15" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" timestamp="1552874131148">
+        <mark key="'" line="151" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" timestamp="1552628314270">
         <mark key="'" line="0" column="0" />
@@ -636,6 +636,9 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" timestamp="1552873770342">
+        <mark key="'" line="1449" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/idl/src/main/thrift/order_struct.thrift" timestamp="1551159774477">
         <mark key="'" line="175" column="21" />
         <mark key="[" line="174" column="53" />
@@ -664,53 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="71" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="94" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="104" column="71" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="218" column="20" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="172" column="89" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="153" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="187" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="285" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="249" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="302" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="32" column="46" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="247" column="72" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="33" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="68" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="89" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="90" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="300" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="814" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="840" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="449" column="72" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="480" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="794" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="797" column="30" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="852" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="929" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="969" column="13" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="404" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="441" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="976" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="856" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="961" column="22" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="430" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="376" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="481" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="978" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="772" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="1129" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="482" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="858" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="859" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="860" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="979" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="980" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="981" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="139" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="365" column="49" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
       <jump line="18" column="16" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/collection.test.js" />
       <jump line="98" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/collection.test.js" />
       <jump line="102" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/collection.test.js" />
@@ -764,6 +720,53 @@
       <jump line="213" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
       <jump line="17" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/mobile-bff/useCases/favoritesUseCase/index.js" />
       <jump line="104" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/mobile-bff/useCases/favoritesUseCase/index.js" />
+      <jump line="808" column="37" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="595" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="591" column="57" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="586" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="598" column="50" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="823" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="895" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="956" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="1015" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="257" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="805" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="784" column="57" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="1373" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="1449" column="41" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/MyPage.js" />
+      <jump line="382" column="74" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" />
+      <jump line="416" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" />
+      <jump line="592" column="5" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="817" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="581" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="764" column="40" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="616" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="771" column="34" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="617" column="75" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="578" column="68" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="590" column="29" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="593" column="0" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="832" column="51" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="824" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="828" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="819" column="7" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="1223" column="43" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="818" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="151" column="67" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" />
+      <jump line="376" column="23" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" />
+      <jump line="389" column="48" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Order.js" />
+      <jump line="1211" column="36" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="953" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="937" column="2" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="321" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="309" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="296" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="332" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="324" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="341" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="338" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="1139" column="9" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -796,7 +799,7 @@
         <text>noopener noreferrer</text>
       </register>
       <register name="/" type="4">
-        <text>getThemePortfolio</text>
+        <text>clearCollectionCart</text>
       </register>
       <register name="0" type="4">
         <text>dev:line</text>
@@ -833,9 +836,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getThemePortfolio</last-search>
+      <last-search>clearCollectionCart</last-search>
       <last-offset />
-      <last-pattern>getThemePortfolio</last-pattern>
+      <last-pattern>clearCollectionCart</last-pattern>
       <last-replace>parse</last-replace>
       <last-substitute encoding="base64">XDxjYXRlZ29yaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -843,26 +846,26 @@
     </search>
     <history>
       <history-search>
-        <entry>import config from 'config'</entry>
-        <entry>URl</entry>
-        <entry>RUL</entry>
-        <entry>URL</entry>
-        <entry>Url</entry>
-        <entry encoding="base64">XDxjb2xsZWN0aW9uVXJsXD4=</entry>
-        <entry>corporateUrl</entry>
-        <entry>line.folio</entry>
-        <entry encoding="base64">XDxsaW5lSW52ZXN0XD4=</entry>
-        <entry>urls</entry>
-        <entry encoding="base64">XDxjb3Jwb3JhdGVVcmxcPg==</entry>
-        <entry>folio-sec</entry>
-        <entry>importantNotice</entry>
-        <entry>line</entry>
-        <entry>redix</entry>
-        <entry encoding="base64">XDxvcHRpbWl6ZVBvcnRmb2xpb1w+</entry>
-        <entry encoding="base64">XDxvcHRpbWl6ZVw+</entry>
-        <entry encoding="base64">XDxnZXRPcHRpbWl6ZWRQb3J0Zm9saW9cPg==</entry>
         <entry>getOptimizedPortfolio</entry>
         <entry>getThemePortfolio</entry>
+        <entry>findCollectionThemesById</entry>
+        <entry>getThemeImageURLMap</entry>
+        <entry>findCollectionThemesByLabel</entry>
+        <entry>getTopDisplay</entry>
+        <entry encoding="base64">XDxnZXRUaGVtZUxpc3RJbmZvXD4=</entry>
+        <entry encoding="base64">XDxnZXRUb3BEaXNwbGF5XD4=</entry>
+        <entry>getThemePerformance</entry>
+        <entry>getThemePerformanceHistory</entry>
+        <entry encoding="base64">XDxnZXRSaWNMaXN0U2hvdWxkQmVSZW1vdmVkSW5UaGVtZVw+</entry>
+        <entry>getThemeDetail</entry>
+        <entry encoding="base64">XDxnZXRUaGVtZURldGFpbFw+</entry>
+        <entry>getThemeDetailForPreview</entry>
+        <entry encoding="base64">XDxnZXRUaGVtZURldGFpbEZvclByZXZpZXdcPg==</entry>
+        <entry encoding="base64">XDxnZXRQcmV2aWV3VGhlbWVEYXRhXD4=</entry>
+        <entry>addCollectionCartItem</entry>
+        <entry>updateCollectionCartItem</entry>
+        <entry>deleteCollectionCartItem</entry>
+        <entry>clearCollectionCart</entry>
       </history-search>
       <history-cmd>
         <entry>wwwww</entry>
