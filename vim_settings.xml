@@ -24,12 +24,6 @@
         <mark key="^" line="127" column="46" />
         <mark key="." line="127" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190301-main.md" timestamp="1552043736711">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/SideNavigation.jsx" timestamp="1552302698205">
         <mark key="'" line="125" column="47" />
         <mark key="[" line="62" column="68" />
@@ -44,8 +38,8 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" timestamp="1552635878263">
-        <mark key="'" line="21" column="9" />
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" timestamp="1552872974864">
+        <mark key="'" line="213" column="45" />
         <mark key="[" line="389" column="33" />
         <mark key="]" line="389" column="37" />
         <mark key="." line="389" column="37" />
@@ -63,12 +57,6 @@
         <mark key="]" line="17" column="64" />
         <mark key="." line="17" column="64" />
         <mark key="^" line="17" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/Disclaimer.js" timestamp="1552299687345">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" timestamp="1552636039329">
         <mark key="'" line="183" column="24" />
@@ -99,18 +87,15 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/mobile-bff/useCases/favoritesUseCase/index.js" timestamp="1552873266438">
+        <mark key="'" line="104" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/migrate/CanMigrateUseCase.scala" timestamp="1549946214287">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="9" />
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/common/components/sideNavigation/OmakaseAssetNavigation.jsx" timestamp="1552298364443">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/middlewares/eventTracker.test.js" timestamp="1552026982530">
         <mark key="'" line="3" column="9" />
@@ -225,12 +210,6 @@
         <mark key="]" line="110" column="125" />
         <mark key="." line="110" column="125" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/prod/required_document.csv" timestamp="1551432366940">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/infrastructure/src/main/scala/com/folio/robo_adv/order/infrastructure/server/controllers/order/GetOrderController.scala" timestamp="1550217810694">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="3" column="70" />
@@ -332,12 +311,6 @@
         <mark key="." line="640" column="67" />
         <mark key="^" line="640" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/prod/account_opening_agreement.csv" timestamp="1551427242518">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="103" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/node_modules/@folio/specifications/dist/gen-node/urls.js" timestamp="1552628384292">
         <mark key="'" line="299" column="2" />
         <mark key="[" line="85" column="6" />
@@ -349,6 +322,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="25" column="49" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" timestamp="1552872891550">
+        <mark key="'" line="262" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/configs/routes.js" timestamp="1552628314270">
         <mark key="'" line="0" column="0" />
@@ -426,12 +402,6 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/account/batch/src/main/resources/documents/dev/account_opening_agreement.csv" timestamp="1551427249202">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/omakaseAsset/Contents.jsx" timestamp="1552298419039">
         <mark key="'" line="32" column="10" />
         <mark key="[" line="32" column="10" />
@@ -444,12 +414,6 @@
         <mark key="]" line="135" column="53" />
         <mark key="." line="83" column="66" />
         <mark key="^" line="83" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/utils/Enums.js" timestamp="1552300830243">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-        <mark key="^" line="318" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/components/Instruments/Instruments.jsx" timestamp="1551096228132">
         <mark key="'" line="50" column="7" />
@@ -488,12 +452,6 @@
         <mark key="]" line="6" column="50" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/test/controllers/association.test.js" timestamp="1552387252202">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/get_order/get_possible_orders/dto/GetPossibleOrdersResponseDTO.scala" timestamp="1550195398762">
         <mark key="'" line="5" column="0" />
@@ -543,12 +501,6 @@
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/mypage.js" timestamp="1552302195265">
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="1" />
-        <mark key="^" line="438" column="24" />
-        <mark key="." line="465" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/application/src/main/scala/com.folio.robo_adv.order.application/usecase/server/order/cancel/CancelUseCase.scala" timestamp="1552443169823">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="30" column="0" />
@@ -570,12 +522,6 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="28" column="137" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/foliofm/app/content/post/nomizu_workshop/20190301-aftershow.md" timestamp="1552043732930">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="4" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/mypage/main/containers/otherAsset/Contents.jsx" timestamp="1552302934302">
         <mark key="'" line="28" column="19" />
         <mark key="[" line="42" column="0" />
@@ -585,12 +531,6 @@
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/robo-adv/order/domain/src/main/scala/com/folio/robo_adv/order/domain/core/order/model/Order.scala" timestamp="1552446663982">
         <mark key="[" line="59" column="11" />
         <mark key="]" line="59" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/common/models/loginBox.js" timestamp="1552389120635">
-        <mark key="[" line="33" column="73" />
-        <mark key="]" line="33" column="77" />
-        <mark key="^" line="33" column="77" />
-        <mark key="." line="33" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/decls/lib.js" timestamp="1552525467659">
         <mark key="[" line="15" column="53" />
@@ -634,9 +574,9 @@
         <mark key="^" line="26" column="170" />
         <mark key="." line="26" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552635996578">
+      <file name="/Dummy.txt" timestamp="1552648846238">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="39" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/lib/biEventTracker.js" timestamp="1552386659694">
         <mark key="'" line="50" column="38" />
@@ -722,21 +662,8 @@
         <mark key="." line="37" column="74" />
         <mark key="^" line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/dummy.js" timestamp="1552386189417">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="12" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/common/theme/types/index.js" />
-      <jump line="235" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="933" column="20" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
-      <jump line="97" column="6" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/frontend/src/js/collection/theme_detail/models/portfolio.js" />
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
-      <jump line="34" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="47" column="71" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="94" column="25" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="104" column="71" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
@@ -830,6 +757,13 @@
       <jump line="351" column="10" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="359" column="33" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection.js" />
       <jump line="183" column="24" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/package.json" />
+      <jump line="374" column="31" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="262" column="15" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/controllers/collection-api.js" />
+      <jump line="199" column="8" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="825" column="35" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="213" column="45" filename="$USER_HOME$/workspace/gitlab.com/Folio/folicolle-web/backend/models/Collection.js" />
+      <jump line="17" column="19" filename="$USER_HOME$/workspace/gitlab.com/Folio/mobile-bff/useCases/favoritesUseCase/index.js" />
+      <jump line="104" column="28" filename="$USER_HOME$/workspace/gitlab.com/Folio/mobile-bff/useCases/favoritesUseCase/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -862,7 +796,7 @@
         <text>noopener noreferrer</text>
       </register>
       <register name="/" type="4">
-        <text>redix</text>
+        <text>getThemePortfolio</text>
       </register>
       <register name="0" type="4">
         <text>dev:line</text>
@@ -899,9 +833,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redix</last-search>
+      <last-search>getThemePortfolio</last-search>
       <last-offset />
-      <last-pattern>redix</last-pattern>
+      <last-pattern>getThemePortfolio</last-pattern>
       <last-replace>parse</last-replace>
       <last-substitute encoding="base64">XDxjYXRlZ29yaXplXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -909,11 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
-        <entry>origin</entry>
-        <entry>description</entry>
-        <entry encoding="base64">XDxhcnJhbmdlVGhlbWVEZXNjcmlwdGlvblw+</entry>
-        <entry>folio-sec.com</entry>
         <entry>import config from 'config'</entry>
         <entry>URl</entry>
         <entry>RUL</entry>
@@ -929,6 +858,11 @@
         <entry>importantNotice</entry>
         <entry>line</entry>
         <entry>redix</entry>
+        <entry encoding="base64">XDxvcHRpbWl6ZVBvcnRmb2xpb1w+</entry>
+        <entry encoding="base64">XDxvcHRpbWl6ZVw+</entry>
+        <entry encoding="base64">XDxnZXRPcHRpbWl6ZWRQb3J0Zm9saW9cPg==</entry>
+        <entry>getOptimizedPortfolio</entry>
+        <entry>getThemePortfolio</entry>
       </history-search>
       <history-cmd>
         <entry>wwwww</entry>
